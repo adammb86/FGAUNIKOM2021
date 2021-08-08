@@ -1,0 +1,15 @@
+from os import strerror
+
+data = bytearray(10)
+
+for i in range(len(data)):
+    data[i] = 10 + i
+
+try:
+    bin_file = open('binary.bin', 'wb')
+    bin_file.write(data)
+    bin_file.close()
+except IOError as e:
+    print("I/O error berupa:", strerror(e.errno))
+
+# Your code that reads bytes from the stream should go here.

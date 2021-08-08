@@ -1,0 +1,10 @@
+Baris #1
+Baris #2
+Baris #3
+Baris #4
+Baris #5
+Baris #6
+Baris #7
+Baris #8
+Baris #9
+Baris #10
