@@ -1,8 +1,4 @@
-from datetime import time
-from datetime import datetime
+import calendar
 
-waktu = time(14, 53)
-print(waktu.strftime("%H:%M:%S"))
-
-tanggal = datetime(2020, 11, 4, 14, 53)
-print(tanggal.strftime("%y/%B/%d %H:%M:%S"))
+print(calendar.isleap(2020))
+print(calendar.leapdays(2010, 2021))  # Up to but not including 2021.
