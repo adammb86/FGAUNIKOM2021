@@ -1,0 +1,592 @@
+ProductID,Description
+1,"Rucní zadání"
+2,Nafta
+3,Special
+4,Super
+5,Natural
+6,Mix
+7,"Oleje,tuky"
+8,"Natural +"
+9,"Diesel +"
+10,Mazadla/Tuky
+11,Nemrz.kapal.
+12,Autokosmet.
+13,Ost.priprav.
+14,Náhrad.díly
+15,"Mytí vozidel"
+16,Obcerstvení
+17,Ostatni10%DP
+18,Potraviny
+19,"Natural Plus"
+20,"Nafta Plus"
+21,"PB láhev"
+22,LPG
+23,Provoz.nápl.
+24,Provoz.nápl.
+25,Dalnic.popl.
+26,"Vratné obaly"
+27,"Plyn VZV"
+28,"Natural nor."
+29,Ekol.paliva
+30,"Ostatní PHM"
+31,"Natural Spec"
+32,"Nafta Spec."
+33,Maz.oleje-SD
+34,"Ostatni zbozi"
+35,"Ostatni zbozi"
+36,Autoprísluš.
+37,"Drobné auto."
+38,Lékárna
+39,Kartogr.zb.
+40,"Knihy,nov."
+41,Hygien.potr.
+42,Hygien.potr.
+43,"Zboží nesp"
+44,"Zboží nesp."
+45,"Knihy,nov."
+46,Dáln.zn.4000
+47,Dáln.zn.8000
+48,Additivum
+49,"Ostatni zbozi"
+50,"Ostatni zbozi"
+51,Pneumatiky
+52,Katalyzátor
+53,Katalyzátor
+54,"Barvy,laky"
+55,"Barvy,laky"
+56,"Mobilní tel."
+57,"Pylový filtr"
+58,"Oprava voz."
+59,"STK,emise"
+60,"Sber odpadu"
+61,"Práce výrob."
+62,"Parkov. sl."
+63,"Pronáj. nem."
+64,"Pronáj. nem."
+65,"Pujcovné aut"
+66,Dotank/Valet_park
+67,"Odtah vozid."
+68,"Mezin. prep."
+69,"Sl. cel. dek"
+70,"Úcet. služby"
+71,"Sl. telekom."
+72,Zpr.nakupu
+73,Zprostredk.p
+74,"Sluz.v zahr."
+75,"S24-zahr. 0%"
+76,Spropitne
+77,"Služby BC"
+78,"Služ. BC"
+79,D.z<=3.5-rok
+80,D.z<=12t-rok
+81,D.z<=3.5-mes
+82,D.z<=12t-mes
+83,D.z<=3.5-7dn
+84,D.z<=12t-7dn
+85,Kolky
+86,SAMMEL-GU
+87,"Bonus BP diesel"
+88,"Agency commission"
+89,Post+documents
+90,"Discount Germany"
+91,"Drive & Save"
+92,Map+guide
+93,"Disk Dispatch"
+94,"System fee"
+95,"Service charge"
+96,"Service charge"
+97,"Service charge"
+98,"Fee for payment transaction"
+99,"Fee for bank charges"
+100,"Membership-fee Consorcio"
+101,Diesel
+102,Biodiesel
+103,"Red diesel"
+104,"High performance diesel fuel"
+105,"Diesel(VAT free)"
+106,Petrol
+107,"Carburator-fuel(without VAT)"
+108,"Petrol unleaded"
+109,Super
+110,"Super unleaded"
+111,Super-Plus
+112,"mixture note: two-stoke mixture"
+113,"super,unleaded E10"
+114,"super unleaded,100 octane"
+115,"Super Plus unleaded,Racing"
+116,"Liquid Petrol Gas LPG"
+117,"Natural Gas NPG"
+118,"Bio oil"
+119,"Motor oil"
+120,"Motor Oil 2"
+121,"Transmision Oil"
+122,"Motor oil(without VAT)"
+123,AdBlue
+124,"AdBlue (jerrycan)"
+125,Batteries
+126,"tyres at service-stations"
+127,"Vehicle accessories reduced VAT"
+128,"Other Accesories"
+129,"Other Accesories(reduced VAT)"
+130,"Other accessories(red.VAT II)"
+131,"Other Accesories(VAT free)"
+132,"Vehicle cleaning"
+133,"Vehicle Services"
+134,"testing services"
+135,"Miscellaneous/service station"
+136,"Miscellaneous/service station(red.VAT)"
+137,"Miscellaneous/service station(VAT-free)"
+138,"Miscellaneous/service station(without VA"
+139,Tyres
+140,"Tyres (VAT-free)"
+141,"Tyres,delivered"
+142,"Tyres,delivered (VAT-free)"
+143,"Mounting,Tyres"
+144,"Mounting,Tyres (VAT-free)"
+145,"Tyre Mounting,mobile"
+146,"Tyre Mounting,mobile (Vat-free)"
+147,"Parts,Tyres"
+148,"Parts,Tyres(VAT free)"
+149,"Vehicle repair/maintenance"
+150,"Vehicle repair/maintenance without VAT"
+151,"Kilometer accounting"
+152,"Other,Garage"
+153,"Other,Garage(reduced VAT)"
+154,"Other,Garage(VAT free)"
+155,Parts
+156,"Parts (reduced VAT)"
+157,"Parts(reduced VAT)"
+158,"Parts sales"
+159,"Parts sales(reduced VAT)"
+160,"Parts sales (reduced VAT)"
+161,"Old Parts (VAT-free)"
+162,Cash
+163,"diesel to garage"
+164,"Vehicle Towing Service"
+165,"Towing (VAT-free)"
+166,Insurance
+167,"Insurance (VAT-free)"
+168,"Cooling system service"
+169,"Vehicle-related Service"
+170,"Other service(reduced VAT)"
+171,"Vehicle-related Service without VAT"
+172,Labour
+173,"Labour(reduced VAT)"
+174,"Parts(reduced VAT)/Labour"
+175,Toll
+176,"Toll(reduced Vat)"
+177,"Toll(VAT free)"
+178,"Caplis Card"
+179,"Cancellation Caplis Card"
+180,"Service supplement Caplis Card"
+181,ViaCard
+182,"Toll Services ITA"
+183,Viacard(Prepaid)
+184,Telepass
+185,"Credit consortium UTA"
+186,"Membership fee - consortium"
+187,"Tunnel fee"
+188,"Tunnel fee (reduced Vat)"
+189,"Tunnel fee (VAT free)"
+190,"Tunnel fee Mont Blanc-Frejus Card"
+191,"Credit Mont Blanc-Frejus Card"
+192,"Card fee"
+193,"Bridge fee"
+194,"Oresund bridge"
+195,"Storebeld bridge"
+196,"Bridge fee (reduced VAT)"
+197,"Bridge fee(VAT free)"
+198,"Entry fee"
+199,"Road toll"
+200,"Commission of road toll(subject of tax)"
+201,"Service for road toll"
+202,"Toll CHE"
+203,"Road traffic Toll"
+204,"Credit process ECO-TAG"
+205,"UTA card ECO-Tag"
+206,"Combination traffic"
+207,"Combination traffic(VAT free)"
+208,"Toll Services"
+209,Eurovignette
+210,"Commission of euro vignettes(subj.of tax"
+211,"Vignette ordering"
+212,Vignette
+213,"Vignette AUT(without VAT)"
+214,"Vignette AUT"
+215,"Transport accompaniment"
+216,"Transport accompaniment"
+217,"UTA BOX"
+218,"UTA BOX-Initialization"
+219,"UTA BOX-Replacement"
+220,"UTA BOX-Holder"
+221,"UTA BOX-Blocking"
+222,"Toll DEU"
+223,"Toll DEU(reverse charge)"
+224,"Toll DEU (Automatic)"
+225,"Toll DEU Third Party Invoice"
+226,"Toll DEU(credit note)"
+227,"Toll DEU (Prepay)"
+228,"Toll DEU(deposit)"
+229,"Toll DEU Reclamation Credit"
+230,"Toll DEU Credit amount for advance toll payment"
+231,"Toll DEU(credit note)"
+232,"Toll DEU(dirrect Acceptance)"
+233,"Toll DEU(Terminal Service)"
+234,"Toll DEU Correction Reclamation"
+235,"Toll DEU Correction Credit"
+236,"Toll DEU (Overdue)"
+237,"Toll DEU Correction Credit Serv.Charge"
+238,"Toll DEU Correction Credit Serv.Charge"
+239,"Toll DEU Correction Prepayment"
+240,"Toll DEU(Hired Vehicle)"
+241,"Toll DEU(Service Hired Vehicle)"
+242,"Toll DEU(Hired Vehicle)"
+243,"Toll DEU Daily value"
+244,"Toll DEU Daily value - balance"
+245,"Toll access-Austria"
+246,Toll-Exchange-GOBox-AT
+247,Toll-Prepay-AT
+248,Toll-Postpay-AT
+249,Compensation-Toll-AT
+250,Toll-Refund-AT
+251,Toll-Creditnote-AT
+252,Toll-Supplement-AT
+253,Toll-List-AT
+254,"Toll Prepay CZ"
+255,"Toll Postpay CZ"
+256,"Toll CZ deposit"
+257,"Toll CZ subsequent payment"
+258,"Toll CZ refund Pre-pay"
+259,"Toll CZ refund of deposit"
+260,"Toll CZ additional services"
+261,"Toll CZ services"
+262,Cleaning
+263,"Cleaning (VAT-free)"
+264,"Accessories for vehicle wash"
+265,"Mobile Telephone,Cardware"
+266,"Mobile telephone,Hardware"
+267,"Vehicle Rental up to 30 days"
+268,"Rental service (reduced VAT)"
+269,"Rental service(without VAT)"
+270,"Parking fee"
+271,"Ferry charges - truck/commercial vehicle"
+272,"Ferry fee (VAT free)"
+273,"Ferry ,Inland waters"
+274,"Ferry charges - bus/motor coach/passenger car"
+275,"Ferry fee,Inland waters"
+276,"Border clearance"
+277,"Border clereance(VAT free)"
+278,"Cash delivery"
+279,"Cash delivery fee"
+280,"UTA-Box (rent)"
+281,"TIS PL toll"
+282,"TIS PL Discount"
+283,"TIS PL fee operating company"
+284,"TIS PL reimbursement"
+285,"TIS PL fee (use)"
+286,"TIS PL (discount)"
+287,"TIS PL (operational charge)"
+288,"TIS PL (operational return)"
+289,"UTA-Box (restraint)"
+290,"UTA-Box (blocking)"
+291,"Coordination-Service 24 EuropeNet"
+292,Repair/Breakdowns
+293,Repair
+294,"Towing,Breakdowns"
+295,"Towing/Breakdowns (VAT-free)"
+296,Cash/Emergencies
+297,"Kilometer accounting"
+298,"Kilometer accounting (VAT-free)"
+299,"Delivery Costs"
+300,"Delivery Costs (VAT-free)"
+301,"Transport Insurance"
+302,"Transport Insurance (VAT-free)"
+303,Tyres/Breakdown
+304,"Tyres/Breakdown (VAT-free)"
+305,"Replacement vehicle"
+306,"Replacement vehicle (VAT-free)"
+307,Intervention
+308,"Reduced intervention"
+309,"Intervention (VAT-free)"
+310,"Flat fee for Cash service"
+311,"Flat fee for Cash Service(VAT-free)"
+312,"Extra costs"
+313,"Extra costs(VAT free)"
+314,"Advances of replacement VAT"
+315,"OMV-reduction of operation"
+316,"Rucné zadanie"
+317,Diesel
+318,"Normal 91-93"
+319,"Super 95"
+320,"UNI Norm. 91"
+321,"UNI Super 95"
+322,Nat.Super
+323,"Eurosuper 96"
+324,"Nat.Super plus"
+325,"LPG Plyn"
+326,"SETA Diesel"
+327,"Natural special"
+328,"Natural normal"
+329,"Natural special plus"
+330,"EKO Diesel"
+331,"Natural aditiv"
+332,"Diesel aditiv"
+333,"RED Diesel"
+334,Nat.Sup.100+
+335,"Oleje,Tuky"
+336,Prev.náplne
+337,AdBlue-kanystr
+338,AdBlue-stojan
+339,Vysavac
+340,"Umývanie voz"
+341,"Umývanie voz"
+342,"Oprava voz."
+343,"STK,emisie"
+344,"Zber odpadu"
+345,"Práce vyrob."
+346,"Park. služby"
+347,"Odtah voz."
+348,Služ.col.dek
+349,Služ.col.dek
+350,"Dial. poplat"
+351,"Umýv. voz."
+352,Autokozmetik
+353,Katalyzátor
+354,Autoprisluš.
+355,"D. autodopln"
+356,Lekárnicka
+357,Pneumatiky
+358,"Náhr. diely"
+359,"Náhr. diely"
+360,"Úctovné sl."
+361,"Farby,laky"
+362,"Požicovna áut"
+363,"Pelovy filt."
+364,"Kartog. tov."
+365,"Ostatné sl."
+366,"Ostatné sl."
+367,"Telekom. sl."
+368,Potraviny
+369,Potraviny
+370,"Alko. nápoje"
+371,"Nealko. náp."
+372,"Knihy,noviny"
+373,"Knihy,noviny"
+374,Tabak
+375,"Hyg. potreby"
+376,"Tovar nešpec"
+377,"Tovar nešpec"
+378,"Vratné obaly"
+379,"Vratné obaly"
+380,"Ostatné sl."
+381,"Servisní poplatek UTA"
+382,"Dobití Twist"
+383,Paušál+SIM
+384,Ost.dat.služ
+385,"Mýtné prepay"
+386,"Mýtné post-p"
+387,"Depozit OBU"
+388,"Dopcet mýtn."
+389,"Návrat mýtn."
+390,"Návrat OBU d"
+391,Dod.sl-0%DPH
+392,Dod.sl-n.DPH
+393,Dod.sl-z.DPH
+397,"Fine EuroVignette"
+398,"Popl.za SMS"
+399,"Prip.za mapy"
+400,IM-periferie
+401,"Mobility fee"
+402,"Toll Prepay SVK"
+403,"Toll Postpay SVK"
+404,"Toll SVK deposit"
+405,"Toll SVK subsequent payment"
+406,"Toll SVK refund Pre-pay"
+407,"Toll SVK refund of deposit"
+408,"Toll SVK toll services"
+409,"Mýtné prep."
+410,"Doplatok mýt"
+411,Odplata-náj.
+412,"Mýtné post-p"
+413,"Mýtné zaokrú"
+414,Odplata-náj.
+415,D.z<=3.5-rok
+416,D.z<=3.5-mes
+417,D.z<=3.5-10d
+418,Nafta
+419,"UTA MultiBox"
+420,"Initalisation UTA MultiBox"
+421,"Replacement UTA MultiBox"
+422,"Blocking of UTA MultiBox"
+423,"Via-T toll"
+424,"Via-T Discount"
+425,"Via-T fee operating company"
+426,"Via-T reimbursement"
+427,"Via-T fee (use)"
+428,"Mýtne ticket"
+429,"Toll SVK Ticket"
+430,Dobit.Bonus-hot-cs
+431,Prebit.-popl
+432,"TIS PL rebate without VAT"
+437,"Mes. popl. Telepass"
+438,"Blokace karty"
+439,"Vydání karty"
+440,"Servisní poplatek"
+441,"Mýtný poplatek"
+442,"Rocní poplatek VIA"
+443,"Obnova karty"
+444,"Kopie faktury"
+445,"Pojištení karty"
+446,"Servisní poplatek"
+447,"Kopie PIN dopisu"
+448,Mes.popl.Telepass
+449,"Blokace karty"
+450,"Vydání karty "
+451,Spotreba
+452,Mýtné
+453,"Rocní poplatek VIA"
+454,"Obnova karty"
+455,"Pojištení karty"
+456,"Servisní popl.UTA"
+457,"Serv.popl-vratky DPH"
+458,"Pronájem SIM"
+459,"CCS Carnet mesícní popl."
+460,"Not Used"
+461,"Carnet Installment"
+462,"Odblokování PIN"
+463,"**Own Yard Terminal Fee**"
+464,"**Own Yard Transaction Fee**"
+465,"**Own Yard Terminal Comms Fee**"
+466,"Zmena parametru"
+467,"Provozní poplatek"
+468,"Distribuce dan.dokl."
+469,"Distribuce dan.dokl."
+470,"Dotisk PIN kódu"
+471,"**Card Service Fee**"
+472,"**Odometer Prompt Fee**"
+473,"Odblokování PIN"
+474,"Komunikacní poplatek"
+475,"CCS Carnet mes.popl."
+476,"CCS Carnet-aktivace systému"
+477,"Splátka HW CCS Carnet"
+478,"CCS Carnet-zákaz.sleva"
+479,"**Acquirer Simple Fee**"
+480,"**Acquirer Terminal Fee**"
+481,"**Acquirer Event Fee**"
+482,"**Acquirer Transaction Fee**"
+483,"Servisní poplatek"
+484,"Servisní poplatek"
+485,"Vyúct.p.nákl. stred."
+486,Vyúct.p.prov.cerp.st
+487,"Tisk reportu"
+488,"55 - Acquirer Simple Fee"
+489,"56 - Acquirer Terminal Fee"
+490,"57 - Acquirer Event Fee"
+491,"58 - Acquirer Transaction Fee"
+492,Sleva
+493,"Tisk reportu"
+494,"Tisk reportu"
+495,"Dálnicní známka "
+496,FeeProd-63-CZ
+497,Syst.príspevek-trans
+498,"Popl.za akc.bank.k."
+499,"Poplat.za komunikace"
+500,Syst.príspevek
+501,"Provozní poplatek"
+502,"Poplat.za softw.MUZO"
+503,"Nájem terminálu"
+504,FeeProd-71-CZ
+505,"Neoprávnená reklamace(Manual)"
+506,"Opakovaný prenos dat(Manual)"
+507,"Opakovaný tisk výpisu nákupu(Manual)"
+508,"Servisní poplatek(Manual)"
+509,"Distribuce danového dokladu(Manual)"
+510,"Provozní poplatek(Manual)"
+511,Monitor(Manual)
+512,"Zmena parametru(Manual)"
+513,"Príp.za mapy (Manual)"
+514,"Zákaznická sleva (Manual)"
+515,"CCS Carnet - mes.poplatek (Manual)"
+516,"Provize za zprostredk.platby - pro CCS"
+517,"Zákaznická sleva (manual)"
+518,"Pojištení vozidel"
+519,"Splátka HW CCS Carnet (Manual)"
+520,"L-Dálnicní známka rocní (poštou)"
+521,"L-Dálnicní známka mesícní (poštou)"
+522,"L-Dálnicní známka 10denní (poštou)"
+523,"L-Dálnicní známka rocní"
+524,"L-Dálnicní známka mesícní"
+525,"L-Dálnicní známka 10denní"
+526,"Depozit OBU (manual)"
+527,"Návrat Toll Credit (manual)"
+528,"Ost.dat.služ. (Manual)"
+529,"Paušál+SIM (Manual)"
+530,"Tankefekt - poplatek za zpracování žádosti"
+531,"Tankefekt - poplatek za upomínku"
+532,"Poplatek za odeslání upomínky"
+533,"CCS Fleet Management"
+534,"CCS Fleet Management (Manual)"
+535,"L-Dálnicní známka rocní (poštou + FA)"
+536,"L-Dálnicní známka mesícní (poštou + FA)"
+537,"L-Dálnicní známka 10denní (poštou + FA)"
+538,"L-Dálnicní známka rocní (FA)"
+539,"L-Dálnicní známka mesícní (FA)"
+540,"L-Dálnicní známka 10denní (FA)"
+541,Manual
+542,Refund
+543,Premium
+544,"Guarantee Credit Note"
+545,"Credit note CEPSA"
+546,"rebate Poland"
+547,"Handling fee for"
+548,hydrogen
+549,"Handling fee for AdBlue"
+550,"AdBlue 20.15.31.0 PKWiU"
+551,"Garage commission"
+552,"repair shop bonus"
+553,"Toll MultiBox BEL"
+554,"Toll BEL system fee"
+555,"Refund of fee for replacement of UTA MultiBox"
+556,"Toll DEU Third party services"
+557,"Toll DEU adjustment daily values"
+558,"Toll CZ toll services"
+559,"Parking Reservation"
+560,"Liber-t toll no VAT"
+561,"Liber-t Toll"
+562,"Liber-t rebate"
+563,"Liber-t fee operating company"
+564,"Liber-t refund"
+566,CNG
+567,Etanol-E85
+568,"Odblokovanie OBU"
+569,"AdBlue 20.15.31.0 PKWiU (jerrycan)"
+570,"Toll SVK additional services"
+571,FeeProd-63-CZ
+572,Syst.príspevek-trans
+573,"Popl.za akc.bank.k."
+574,"Poplat.za komunikace"
+575,Syst.príspevek
+576,"Provozní poplatek"
+577,"Poplat.za softw.MUZO"
+578,"Nájem terminálu"
+579,FeeProd-71-CZ
+580,"Provize za zprostredk.platby - pro CCS"
+581,"Zákaznická sleva (manual)"
+582,"CCS Bonus from SiteOwners"
+583,"UTA MultiBox fee"
+584,"AdBlue (jerrycan) no VAT"
+585,"Toll Postpay no VAT"
+586,"Toll Supplement no VAT"
+587,"UTA Toll deposit"
+588,"Toll System fee"
+589,"Toll HUN Pre-pay"
+590,"Toll HUN Pre-pay OBU"
+598,"Toll HUN Pre-pay OBU"
+599,"Toll UTA Multibox PRT"
+600,"Toll PRT system fee"
+601,"Liber-t fee use"
+602,CNG
+603,"Ethanol E-85"
+604,Zprostredk.nakupu
+605,"Replacement of UTA MultiBox"
+630,"CCS Carnet Pronájem HW (Manual)"

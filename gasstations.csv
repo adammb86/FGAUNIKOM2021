@@ -1,0 +1,5717 @@
+GasStationID,ChainID,Country,Segment
+44,13,CZE,"Value for money"
+45,6,CZE,Premium
+46,23,CZE,Other
+47,33,CZE,Premium
+48,4,CZE,Premium
+49,13,CZE,"Value for money"
+50,10,CZE,Other
+51,10,CZE,Other
+52,10,CZE,Other
+53,10,CZE,Other
+54,10,CZE,Other
+55,10,CZE,Other
+56,10,CZE,Other
+57,10,CZE,Other
+58,4,CZE,Premium
+59,1,CZE,Premium
+60,1,CZE,Premium
+61,1,CZE,Premium
+62,10,CZE,Other
+63,10,CZE,Other
+64,4,CZE,Premium
+65,4,CZE,Premium
+66,3,CZE,Other
+67,3,CZE,Other
+68,3,CZE,Other
+69,2,CZE,Noname
+70,3,CZE,Other
+71,13,CZE,"Value for money"
+72,10,CZE,Other
+73,10,CZE,Other
+74,26,CZE,Other
+75,11,CZE,"Value for money"
+76,2,CZE,Noname
+77,33,CZE,Premium
+78,6,CZE,Premium
+79,2,CZE,Noname
+80,2,CZE,Noname
+81,1,CZE,Premium
+82,1,CZE,Premium
+83,13,CZE,"Value for money"
+84,2,CZE,Noname
+85,2,CZE,Noname
+86,24,CZE,Discount
+87,13,CZE,"Value for money"
+88,8,CZE,"Value for money"
+89,30,CZE,Noname
+90,33,CZE,Premium
+91,2,CZE,Noname
+92,30,CZE,Noname
+93,22,CZE,Other
+94,9,CZE,"Value for money"
+95,8,CZE,"Value for money"
+96,1,CZE,Premium
+97,2,CZE,Noname
+98,3,CZE,Other
+99,2,CZE,Noname
+100,10,CZE,Other
+101,10,CZE,Other
+102,10,CZE,Other
+103,10,CZE,Other
+104,35,CZE,Discount
+105,4,CZE,Premium
+106,4,CZE,Premium
+107,33,CZE,Premium
+108,33,CZE,Premium
+109,1,CZE,Premium
+110,1,CZE,Premium
+111,4,CZE,Premium
+112,4,CZE,Premium
+113,4,CZE,Premium
+114,13,CZE,"Value for money"
+115,2,CZE,Noname
+117,36,CZE,Other
+118,36,CZE,Other
+119,36,CZE,Other
+120,36,CZE,Other
+121,36,CZE,Other
+122,36,CZE,Other
+123,10,CZE,Other
+124,3,CZE,Other
+125,3,CZE,Other
+126,2,CZE,Noname
+127,26,CZE,Other
+128,4,CZE,Premium
+129,2,CZE,Noname
+130,2,CZE,Noname
+131,13,CZE,"Value for money"
+132,33,CZE,Premium
+133,2,CZE,Noname
+134,1,CZE,Premium
+135,24,CZE,Discount
+136,10,CZE,Other
+137,3,CZE,Other
+138,1,CZE,Premium
+139,8,CZE,"Value for money"
+140,3,CZE,Other
+141,9,CZE,"Value for money"
+142,9,CZE,"Value for money"
+143,2,CZE,Noname
+144,8,CZE,"Value for money"
+145,1,CZE,Premium
+146,10,CZE,Other
+147,33,CZE,Premium
+148,4,CZE,Premium
+149,33,CZE,Premium
+150,2,CZE,Noname
+151,2,CZE,Noname
+152,2,CZE,Noname
+153,8,CZE,"Value for money"
+154,3,CZE,Other
+155,30,CZE,Noname
+156,31,CZE,Premium
+157,13,CZE,"Value for money"
+158,33,CZE,Premium
+159,15,CZE,Premium
+160,2,CZE,Noname
+161,2,CZE,Noname
+162,2,CZE,Noname
+163,13,CZE,"Value for money"
+164,10,CZE,Other
+165,3,CZE,Other
+166,6,CZE,Premium
+167,1,CZE,Premium
+168,33,CZE,Premium
+169,2,CZE,Noname
+170,1,CZE,Premium
+171,13,CZE,"Value for money"
+172,2,CZE,Noname
+173,2,CZE,Noname
+174,2,CZE,Noname
+175,2,CZE,Noname
+176,2,CZE,Noname
+177,2,CZE,Noname
+178,3,CZE,Other
+179,3,CZE,Other
+180,3,CZE,Other
+181,6,CZE,Premium
+182,1,CZE,Premium
+183,35,CZE,Discount
+184,33,CZE,Premium
+185,2,CZE,Noname
+186,4,CZE,Premium
+187,4,CZE,Premium
+188,14,CZE,Noname
+189,2,CZE,Noname
+190,2,CZE,Noname
+191,1,CZE,Premium
+192,1,CZE,Premium
+193,10,CZE,Other
+194,3,CZE,Other
+195,13,CZE,"Value for money"
+196,6,CZE,Premium
+197,6,CZE,Premium
+198,31,CZE,Premium
+199,2,CZE,Noname
+200,9,CZE,"Value for money"
+201,2,CZE,Noname
+202,2,CZE,Noname
+203,2,CZE,Noname
+204,2,CZE,Noname
+205,2,CZE,Noname
+206,13,CZE,"Value for money"
+207,1,CZE,Premium
+208,4,CZE,Premium
+209,4,CZE,Premium
+210,6,CZE,Premium
+211,4,CZE,Premium
+212,4,CZE,Premium
+213,3,CZE,Other
+214,1,CZE,Premium
+215,3,CZE,Other
+216,9,CZE,"Value for money"
+217,1,CZE,Premium
+218,2,CZE,Noname
+219,1,CZE,Premium
+220,8,CZE,"Value for money"
+221,6,CZE,Premium
+222,3,CZE,Other
+223,6,CZE,Premium
+224,6,CZE,Premium
+225,1,CZE,Premium
+226,9,CZE,"Value for money"
+227,9,CZE,"Value for money"
+228,2,CZE,Noname
+229,13,CZE,"Value for money"
+230,13,CZE,"Value for money"
+231,13,CZE,"Value for money"
+232,1,CZE,Premium
+233,1,CZE,Premium
+234,1,CZE,Premium
+235,1,CZE,Premium
+236,4,CZE,Premium
+237,2,CZE,Noname
+238,8,CZE,"Value for money"
+239,36,CZE,Other
+240,36,CZE,Other
+241,36,CZE,Other
+242,36,CZE,Other
+243,36,CZE,Other
+244,36,CZE,Other
+245,36,CZE,Other
+246,36,CZE,Other
+247,3,CZE,Other
+248,3,CZE,Other
+249,35,CZE,Discount
+250,2,CZE,Noname
+251,13,CZE,"Value for money"
+252,13,CZE,"Value for money"
+253,1,CZE,Premium
+254,9,CZE,"Value for money"
+255,33,CZE,Premium
+256,13,CZE,"Value for money"
+257,13,CZE,"Value for money"
+258,30,CZE,Noname
+259,13,CZE,"Value for money"
+260,33,CZE,Premium
+261,33,CZE,Premium
+262,33,CZE,Premium
+263,8,CZE,"Value for money"
+264,34,CZE,Other
+265,13,CZE,"Value for money"
+266,13,CZE,"Value for money"
+267,35,CZE,Discount
+268,35,CZE,Discount
+269,2,CZE,Noname
+270,2,CZE,Noname
+271,1,CZE,Premium
+272,1,CZE,Premium
+273,2,CZE,Noname
+274,8,CZE,"Value for money"
+275,26,CZE,Other
+276,2,CZE,Noname
+277,8,CZE,"Value for money"
+278,1,CZE,Premium
+279,13,CZE,"Value for money"
+280,13,CZE,"Value for money"
+281,1,CZE,Premium
+282,1,CZE,Premium
+283,4,CZE,Premium
+284,6,CZE,Premium
+285,10,CZE,Other
+286,10,CZE,Other
+287,33,CZE,Premium
+288,4,CZE,Premium
+289,4,CZE,Premium
+290,1,CZE,Premium
+291,4,CZE,Premium
+292,33,CZE,Premium
+293,33,CZE,Premium
+294,35,CZE,Discount
+295,2,CZE,Noname
+296,2,CZE,Noname
+297,13,CZE,"Value for money"
+298,1,CZE,Premium
+299,1,CZE,Premium
+300,1,CZE,Premium
+301,1,CZE,Premium
+302,33,CZE,Premium
+303,14,CZE,Noname
+304,22,CZE,Other
+305,14,CZE,Noname
+306,2,CZE,Noname
+307,3,CZE,Other
+308,3,CZE,Other
+309,10,CZE,Other
+310,36,CZE,Other
+311,2,CZE,Noname
+312,1,CZE,Premium
+313,1,CZE,Premium
+314,1,CZE,Premium
+315,2,CZE,Noname
+316,9,CZE,"Value for money"
+317,13,CZE,"Value for money"
+318,2,CZE,Noname
+319,2,CZE,Noname
+320,6,CZE,Premium
+321,4,CZE,Premium
+322,13,CZE,"Value for money"
+323,32,CZE,Other
+324,31,CZE,Premium
+325,2,CZE,Noname
+326,2,CZE,Noname
+327,243,CZE,Other
+328,3,CZE,Other
+329,3,CZE,Other
+330,3,CZE,Other
+331,3,CZE,Other
+332,3,CZE,Other
+333,10,CZE,Other
+334,2,CZE,Noname
+335,8,CZE,"Value for money"
+336,9,CZE,"Value for money"
+337,2,CZE,Noname
+338,243,CZE,Other
+339,33,CZE,Premium
+340,3,CZE,Other
+341,1,CZE,Premium
+342,1,CZE,Premium
+343,1,CZE,Premium
+344,1,CZE,Premium
+345,4,CZE,Premium
+346,4,CZE,Premium
+347,9,CZE,"Value for money"
+348,2,CZE,Noname
+349,4,CZE,Premium
+350,22,CZE,Other
+351,3,CZE,Other
+352,3,CZE,Other
+353,10,CZE,Other
+354,9,CZE,"Value for money"
+355,9,CZE,"Value for money"
+356,14,CZE,Noname
+357,6,CZE,Premium
+358,35,CZE,Discount
+359,24,CZE,Discount
+360,13,CZE,"Value for money"
+361,33,CZE,Premium
+362,1,CZE,Premium
+363,4,CZE,Premium
+364,33,CZE,Premium
+365,13,CZE,"Value for money"
+366,13,CZE,"Value for money"
+367,3,CZE,Other
+368,10,CZE,Other
+369,10,CZE,Other
+370,1,CZE,Premium
+371,6,CZE,Premium
+372,2,CZE,Noname
+373,4,CZE,Premium
+374,23,CZE,Other
+375,2,CZE,Noname
+376,6,CZE,Premium
+377,6,CZE,Premium
+378,6,CZE,Premium
+379,13,CZE,"Value for money"
+380,35,CZE,Discount
+381,26,CZE,Other
+382,26,CZE,Other
+383,31,CZE,Premium
+384,3,CZE,Other
+385,3,CZE,Other
+386,3,CZE,Other
+387,3,CZE,Other
+388,13,CZE,"Value for money"
+389,13,CZE,"Value for money"
+390,2,CZE,Noname
+391,13,CZE,"Value for money"
+392,1,CZE,Premium
+393,1,CZE,Premium
+394,10,CZE,Other
+395,10,CZE,Other
+396,1,CZE,Premium
+397,1,CZE,Premium
+398,4,CZE,Premium
+399,13,CZE,"Value for money"
+400,13,CZE,"Value for money"
+401,13,CZE,"Value for money"
+402,13,CZE,"Value for money"
+403,6,CZE,Premium
+404,2,CZE,Noname
+405,8,CZE,"Value for money"
+406,2,CZE,Noname
+407,22,CZE,Other
+408,2,CZE,Noname
+409,1,CZE,Premium
+410,1,CZE,Premium
+411,1,CZE,Premium
+412,1,CZE,Premium
+413,1,CZE,Premium
+414,3,CZE,Other
+415,3,CZE,Other
+416,2,CZE,Noname
+417,13,CZE,"Value for money"
+418,34,CZE,Other
+419,33,CZE,Premium
+420,33,CZE,Premium
+421,4,CZE,Premium
+422,4,CZE,Premium
+423,4,CZE,Premium
+424,1,CZE,Premium
+425,4,CZE,Premium
+426,33,CZE,Premium
+427,9,CZE,"Value for money"
+428,10,CZE,Other
+429,3,CZE,Other
+430,38,CZE,Other
+431,38,CZE,Other
+432,3,CZE,Other
+433,3,CZE,Other
+434,6,CZE,Premium
+435,24,CZE,Discount
+436,4,CZE,Premium
+437,13,CZE,"Value for money"
+438,35,CZE,Discount
+439,4,CZE,Premium
+440,1,CZE,Premium
+441,1,CZE,Premium
+442,1,CZE,Premium
+443,1,CZE,Premium
+444,11,CZE,"Value for money"
+445,32,CZE,Other
+446,2,CZE,Noname
+447,32,CZE,Other
+448,4,CZE,Premium
+449,22,CZE,Other
+450,33,CZE,Premium
+451,2,CZE,Noname
+452,3,CZE,Other
+453,3,CZE,Other
+454,34,CZE,Other
+455,13,CZE,"Value for money"
+456,2,CZE,Noname
+457,24,CZE,Discount
+458,2,CZE,Noname
+459,24,CZE,Discount
+460,2,CZE,Noname
+461,2,CZE,Noname
+462,1,CZE,Premium
+463,2,CZE,Noname
+464,2,CZE,Noname
+465,2,CZE,Noname
+466,6,CZE,Premium
+467,1,CZE,Premium
+468,2,CZE,Noname
+469,10,CZE,Other
+470,2,CZE,Noname
+471,3,CZE,Other
+472,33,CZE,Premium
+473,2,CZE,Noname
+474,2,CZE,Noname
+475,2,CZE,Noname
+476,22,CZE,Other
+477,4,CZE,Premium
+478,24,CZE,Discount
+479,1,CZE,Premium
+480,1,CZE,Premium
+481,1,CZE,Premium
+482,6,CZE,Premium
+483,6,CZE,Premium
+484,4,CZE,Premium
+485,4,CZE,Premium
+486,6,CZE,Premium
+487,6,CZE,Premium
+488,1,CZE,Premium
+489,1,CZE,Premium
+490,10,CZE,Other
+491,1,CZE,Premium
+492,33,CZE,Premium
+493,8,CZE,"Value for money"
+494,14,CZE,Noname
+495,4,CZE,Premium
+496,14,CZE,Noname
+497,2,CZE,Noname
+498,8,CZE,"Value for money"
+499,24,CZE,Discount
+500,2,CZE,Noname
+501,2,CZE,Noname
+502,2,CZE,Noname
+503,31,CZE,Premium
+504,2,CZE,Noname
+505,8,CZE,"Value for money"
+506,2,CZE,Noname
+507,33,CZE,Premium
+508,2,CZE,Noname
+509,26,CZE,Other
+510,14,CZE,Noname
+511,34,CZE,Other
+512,2,CZE,Noname
+513,33,CZE,Premium
+514,6,CZE,Premium
+515,2,CZE,Noname
+516,8,CZE,"Value for money"
+517,2,CZE,Noname
+518,2,CZE,Noname
+519,2,CZE,Noname
+520,2,CZE,Noname
+521,2,CZE,Noname
+522,33,CZE,Premium
+523,13,CZE,"Value for money"
+524,2,CZE,Noname
+525,3,CZE,Other
+526,2,CZE,Noname
+527,2,CZE,Noname
+528,2,CZE,Noname
+529,2,CZE,Noname
+530,8,CZE,"Value for money"
+531,6,CZE,Premium
+532,13,CZE,"Value for money"
+533,24,CZE,Discount
+534,2,CZE,Noname
+535,9,CZE,"Value for money"
+536,2,CZE,Noname
+537,24,CZE,Discount
+538,3,CZE,Other
+539,24,CZE,Discount
+540,2,CZE,Noname
+541,2,CZE,Noname
+542,31,CZE,Premium
+543,26,CZE,Other
+544,2,CZE,Noname
+545,2,CZE,Noname
+546,24,CZE,Discount
+547,2,CZE,Noname
+548,2,CZE,Noname
+549,14,CZE,Noname
+550,22,CZE,Other
+551,13,CZE,"Value for money"
+552,2,CZE,Noname
+553,2,CZE,Noname
+554,6,CZE,Premium
+555,2,CZE,Noname
+556,2,CZE,Noname
+557,2,CZE,Noname
+558,2,CZE,Noname
+559,2,CZE,Noname
+560,2,CZE,Noname
+561,23,CZE,Other
+562,1,CZE,Premium
+563,24,CZE,Discount
+564,6,CZE,Premium
+565,6,CZE,Premium
+566,8,CZE,"Value for money"
+567,2,CZE,Noname
+568,24,CZE,Discount
+569,13,CZE,"Value for money"
+570,14,CZE,Noname
+571,2,CZE,Noname
+572,32,CZE,Other
+573,22,CZE,Other
+574,13,CZE,"Value for money"
+575,2,CZE,Noname
+576,2,CZE,Noname
+577,33,CZE,Premium
+578,2,CZE,Noname
+579,25,CZE,"Value for money"
+580,6,CZE,Premium
+581,2,CZE,Noname
+582,8,CZE,"Value for money"
+583,31,CZE,Premium
+584,2,CZE,Noname
+585,2,CZE,Noname
+586,2,CZE,Noname
+587,14,CZE,Noname
+588,13,CZE,"Value for money"
+589,24,CZE,Discount
+590,34,CZE,Other
+591,6,CZE,Premium
+592,9,CZE,"Value for money"
+593,4,CZE,Premium
+594,6,CZE,Premium
+595,1,CZE,Premium
+596,33,CZE,Premium
+597,33,CZE,Premium
+598,9,CZE,"Value for money"
+599,9,CZE,"Value for money"
+600,33,CZE,Premium
+601,3,CZE,Other
+602,30,CZE,Noname
+603,9,CZE,"Value for money"
+604,33,CZE,Premium
+605,6,CZE,Premium
+606,10,CZE,Other
+607,10,CZE,Other
+608,10,CZE,Other
+609,3,CZE,Other
+610,3,CZE,Other
+611,11,CZE,"Value for money"
+612,36,CZE,Other
+613,6,CZE,Premium
+614,3,CZE,Other
+615,3,CZE,Other
+616,3,CZE,Other
+617,13,CZE,"Value for money"
+618,2,CZE,Noname
+619,3,CZE,Other
+620,8,CZE,"Value for money"
+621,4,CZE,Premium
+622,3,CZE,Other
+623,7,CZE,Other
+624,1,CZE,Premium
+625,3,CZE,Other
+626,3,CZE,Other
+627,3,CZE,Other
+628,3,CZE,Other
+629,3,CZE,Other
+630,1,CZE,Premium
+631,4,CZE,Premium
+632,2,CZE,Noname
+633,4,CZE,Premium
+634,33,CZE,Premium
+635,2,CZE,Noname
+636,4,CZE,Premium
+637,34,CZE,Other
+638,13,CZE,"Value for money"
+639,8,CZE,"Value for money"
+640,1,CZE,Premium
+641,8,CZE,"Value for money"
+642,10,CZE,Other
+643,2,CZE,Noname
+644,30,CZE,Noname
+645,33,CZE,Premium
+646,33,CZE,Premium
+647,9,CZE,"Value for money"
+648,33,CZE,Premium
+649,6,CZE,Premium
+650,9,CZE,"Value for money"
+651,33,CZE,Premium
+652,9,CZE,"Value for money"
+653,33,CZE,Premium
+654,9,CZE,"Value for money"
+655,9,CZE,"Value for money"
+656,30,CZE,Noname
+657,40,CZE,Other
+658,35,CZE,Discount
+659,2,CZE,Noname
+660,9,CZE,"Value for money"
+661,33,CZE,Premium
+662,4,CZE,Premium
+663,33,CZE,Premium
+664,1,CZE,Premium
+665,9,CZE,"Value for money"
+666,1,CZE,Premium
+667,2,CZE,Noname
+668,2,CZE,Noname
+669,9,CZE,"Value for money"
+670,35,CZE,Discount
+671,6,CZE,Premium
+672,33,CZE,Premium
+673,2,CZE,Noname
+674,33,CZE,Premium
+675,1,CZE,Premium
+676,33,CZE,Premium
+677,6,CZE,Premium
+678,6,CZE,Premium
+679,1,CZE,Premium
+680,2,CZE,Noname
+681,11,CZE,"Value for money"
+682,31,CZE,Premium
+683,2,CZE,Noname
+684,4,CZE,Premium
+685,13,CZE,"Value for money"
+686,1,CZE,Premium
+687,2,CZE,Noname
+688,9,CZE,"Value for money"
+689,9,CZE,"Value for money"
+690,9,CZE,"Value for money"
+691,9,CZE,"Value for money"
+692,10,CZE,Other
+693,10,CZE,Other
+694,2,CZE,Noname
+695,36,CZE,Other
+696,10,CZE,Other
+697,2,CZE,Noname
+698,1,CZE,Premium
+699,4,CZE,Premium
+700,10,CZE,Other
+701,10,CZE,Other
+702,10,CZE,Other
+703,2,CZE,Noname
+704,33,CZE,Premium
+705,6,CZE,Premium
+706,2,CZE,Noname
+707,2,CZE,Noname
+708,13,CZE,"Value for money"
+709,8,CZE,"Value for money"
+710,2,CZE,Noname
+711,3,CZE,Other
+712,1,CZE,Premium
+713,33,CZE,Premium
+714,1,CZE,Premium
+715,13,CZE,"Value for money"
+716,36,CZE,Other
+717,4,CZE,Premium
+718,33,CZE,Premium
+719,1,CZE,Premium
+720,35,CZE,Discount
+721,1,CZE,Premium
+722,1,CZE,Premium
+723,3,CZE,Other
+724,13,CZE,"Value for money"
+725,1,CZE,Premium
+726,2,CZE,Noname
+727,3,CZE,Other
+728,1,CZE,Premium
+729,24,CZE,Discount
+730,2,CZE,Noname
+731,3,CZE,Other
+732,11,CZE,"Value for money"
+733,3,CZE,Other
+734,13,CZE,"Value for money"
+735,2,CZE,Noname
+736,4,CZE,Premium
+737,3,CZE,Other
+738,11,CZE,"Value for money"
+739,1,CZE,Premium
+740,33,CZE,Premium
+741,2,CZE,Noname
+742,11,CZE,"Value for money"
+743,3,CZE,Other
+744,2,CZE,Noname
+745,32,CZE,Other
+746,35,CZE,Discount
+747,4,CZE,Premium
+748,4,CZE,Premium
+749,2,CZE,Noname
+750,2,CZE,Noname
+751,2,CZE,Noname
+752,32,CZE,Other
+753,27,CZE,Noname
+754,2,CZE,Noname
+755,4,CZE,Premium
+756,1,CZE,Premium
+757,2,CZE,Noname
+758,2,CZE,Noname
+759,15,CZE,Premium
+760,2,CZE,Noname
+761,35,CZE,Discount
+762,2,CZE,Noname
+763,1,CZE,Premium
+764,2,CZE,Noname
+765,32,CZE,Other
+766,2,CZE,Noname
+767,2,CZE,Noname
+768,33,CZE,Premium
+769,30,CZE,Noname
+770,4,CZE,Premium
+771,3,CZE,Other
+772,3,CZE,Other
+773,13,CZE,"Value for money"
+774,4,CZE,Premium
+775,3,CZE,Other
+776,13,CZE,"Value for money"
+777,13,CZE,"Value for money"
+778,2,CZE,Noname
+779,24,CZE,Discount
+780,2,CZE,Noname
+781,32,CZE,Other
+782,11,CZE,"Value for money"
+783,33,CZE,Premium
+784,33,CZE,Premium
+785,33,CZE,Premium
+786,9,CZE,"Value for money"
+787,14,CZE,Noname
+788,13,CZE,"Value for money"
+789,2,CZE,Noname
+790,10,CZE,Other
+791,10,CZE,Other
+792,10,CZE,Other
+793,10,CZE,Other
+794,38,CZE,Other
+795,33,CZE,Premium
+796,9,CZE,"Value for money"
+797,4,CZE,Premium
+798,9,CZE,"Value for money"
+799,33,CZE,Premium
+800,1,CZE,Premium
+801,33,CZE,Premium
+802,33,CZE,Premium
+803,1,CZE,Premium
+804,33,CZE,Premium
+805,1,CZE,Premium
+806,33,CZE,Premium
+807,9,CZE,"Value for money"
+808,33,CZE,Premium
+809,9,CZE,"Value for money"
+810,9,CZE,"Value for money"
+811,9,CZE,"Value for money"
+812,13,CZE,"Value for money"
+813,33,CZE,Premium
+814,33,CZE,Premium
+815,33,CZE,Premium
+816,1,CZE,Premium
+817,33,CZE,Premium
+818,33,CZE,Premium
+819,33,CZE,Premium
+820,33,CZE,Premium
+821,1,CZE,Premium
+822,33,CZE,Premium
+823,2,CZE,Noname
+824,33,CZE,Premium
+825,33,CZE,Premium
+826,33,CZE,Premium
+827,33,CZE,Premium
+828,4,CZE,Premium
+829,9,CZE,"Value for money"
+830,2,CZE,Noname
+831,33,CZE,Premium
+832,14,CZE,Noname
+833,33,CZE,Premium
+834,9,CZE,"Value for money"
+835,4,CZE,Premium
+836,33,CZE,Premium
+837,9,CZE,"Value for money"
+838,33,CZE,Premium
+839,33,CZE,Premium
+840,33,CZE,Premium
+841,9,CZE,"Value for money"
+842,33,CZE,Premium
+843,33,CZE,Premium
+844,33,CZE,Premium
+845,26,CZE,Other
+846,33,CZE,Premium
+847,33,CZE,Premium
+848,33,CZE,Premium
+849,9,CZE,"Value for money"
+850,33,CZE,Premium
+851,33,CZE,Premium
+852,33,CZE,Premium
+853,33,CZE,Premium
+854,33,CZE,Premium
+855,33,CZE,Premium
+856,33,CZE,Premium
+857,33,CZE,Premium
+858,33,CZE,Premium
+859,33,CZE,Premium
+860,33,CZE,Premium
+861,33,CZE,Premium
+862,33,CZE,Premium
+863,33,CZE,Premium
+864,33,CZE,Premium
+865,33,CZE,Premium
+866,33,CZE,Premium
+867,33,CZE,Premium
+868,9,CZE,"Value for money"
+869,2,CZE,Noname
+870,33,CZE,Premium
+871,33,CZE,Premium
+872,33,CZE,Premium
+873,33,CZE,Premium
+874,14,CZE,Noname
+875,33,CZE,Premium
+876,33,CZE,Premium
+877,13,CZE,"Value for money"
+878,33,CZE,Premium
+879,33,CZE,Premium
+880,33,CZE,Premium
+881,33,CZE,Premium
+882,2,CZE,Noname
+883,33,CZE,Premium
+884,2,CZE,Noname
+885,33,CZE,Premium
+886,33,CZE,Premium
+887,33,CZE,Premium
+888,33,CZE,Premium
+889,9,CZE,"Value for money"
+890,33,CZE,Premium
+891,6,CZE,Premium
+892,1,CZE,Premium
+893,33,CZE,Premium
+894,33,CZE,Premium
+895,33,CZE,Premium
+896,33,CZE,Premium
+897,1,CZE,Premium
+898,4,CZE,Premium
+899,1,CZE,Premium
+900,4,CZE,Premium
+901,2,CZE,Noname
+902,15,CZE,Premium
+903,9,CZE,"Value for money"
+904,2,CZE,Noname
+905,33,CZE,Premium
+906,33,CZE,Premium
+907,33,CZE,Premium
+908,6,CZE,Premium
+909,4,CZE,Premium
+910,4,CZE,Premium
+911,9,CZE,"Value for money"
+912,2,CZE,Noname
+913,33,CZE,Premium
+914,2,CZE,Noname
+915,33,CZE,Premium
+916,33,CZE,Premium
+917,33,CZE,Premium
+918,33,CZE,Premium
+919,9,CZE,"Value for money"
+920,9,CZE,"Value for money"
+921,1,CZE,Premium
+922,33,CZE,Premium
+923,9,CZE,"Value for money"
+924,9,CZE,"Value for money"
+925,33,CZE,Premium
+926,33,CZE,Premium
+927,9,CZE,"Value for money"
+928,33,CZE,Premium
+929,33,CZE,Premium
+930,9,CZE,"Value for money"
+931,9,CZE,"Value for money"
+932,33,CZE,Premium
+933,2,CZE,Noname
+934,33,CZE,Premium
+935,33,CZE,Premium
+936,33,CZE,Premium
+937,3,CZE,Other
+938,9,CZE,"Value for money"
+939,6,CZE,Premium
+940,33,CZE,Premium
+941,2,CZE,Noname
+942,9,CZE,"Value for money"
+943,33,CZE,Premium
+944,33,CZE,Premium
+945,33,CZE,Premium
+946,2,CZE,Noname
+947,9,CZE,"Value for money"
+948,33,CZE,Premium
+949,14,CZE,Noname
+950,33,CZE,Premium
+951,33,CZE,Premium
+952,9,CZE,"Value for money"
+953,33,CZE,Premium
+954,33,CZE,Premium
+955,9,CZE,"Value for money"
+956,2,CZE,Noname
+957,33,CZE,Premium
+958,9,CZE,"Value for money"
+959,6,CZE,Premium
+960,4,CZE,Premium
+961,14,CZE,Noname
+962,33,CZE,Premium
+963,9,CZE,"Value for money"
+964,3,CZE,Other
+965,3,CZE,Other
+966,3,CZE,Other
+967,2,CZE,Noname
+968,10,CZE,Other
+969,40,CZE,Other
+970,40,CZE,Other
+971,40,CZE,Other
+972,40,CZE,Other
+973,3,CZE,Other
+974,3,CZE,Other
+975,3,CZE,Other
+976,3,CZE,Other
+977,21,CZE,Discount
+978,1,CZE,Premium
+979,4,CZE,Premium
+980,13,CZE,"Value for money"
+981,8,CZE,"Value for money"
+982,8,CZE,"Value for money"
+983,35,CZE,Discount
+984,23,CZE,Other
+985,6,CZE,Premium
+986,3,CZE,Other
+987,3,CZE,Other
+988,8,CZE,"Value for money"
+989,3,CZE,Other
+990,3,CZE,Other
+991,33,CZE,Premium
+992,34,CZE,Other
+993,3,CZE,Other
+994,6,CZE,Premium
+995,1,CZE,Premium
+996,1,CZE,Premium
+997,2,CZE,Noname
+998,6,CZE,Premium
+999,1,CZE,Premium
+1000,1,CZE,Premium
+1001,8,CZE,"Value for money"
+1002,24,CZE,Discount
+1003,13,CZE,"Value for money"
+1004,2,CZE,Noname
+1005,13,CZE,"Value for money"
+1006,8,CZE,"Value for money"
+1007,2,CZE,Noname
+1008,6,CZE,Premium
+1009,33,CZE,Premium
+1010,2,CZE,Noname
+1011,3,CZE,Other
+1012,33,CZE,Premium
+1013,33,CZE,Premium
+1014,33,CZE,Premium
+1015,3,CZE,Other
+1016,2,CZE,Noname
+1017,33,CZE,Premium
+1018,3,CZE,Other
+1019,36,CZE,Other
+1020,36,CZE,Other
+1021,36,CZE,Other
+1022,36,CZE,Other
+1023,36,CZE,Other
+1024,36,CZE,Other
+1025,36,CZE,Other
+1026,15,CZE,Premium
+1027,2,CZE,Noname
+1028,1,CZE,Premium
+1029,35,CZE,Discount
+1030,2,CZE,Noname
+1031,3,CZE,Other
+1032,36,CZE,Other
+1033,2,CZE,Noname
+1034,33,CZE,Premium
+1035,1,CZE,Premium
+1036,2,CZE,Noname
+1037,33,CZE,Premium
+1038,1,CZE,Premium
+1039,36,CZE,Other
+1040,6,CZE,Premium
+1041,1,CZE,Premium
+1042,3,CZE,Other
+1043,3,CZE,Other
+1044,3,CZE,Other
+1045,41,CZE,Other
+1046,3,CZE,Other
+1047,1,CZE,Premium
+1048,4,CZE,Premium
+1049,3,CZE,Other
+1050,3,CZE,Other
+1051,3,CZE,Other
+1052,3,CZE,Other
+1053,3,CZE,Other
+1054,3,CZE,Other
+1055,3,CZE,Other
+1056,10,CZE,Other
+1057,10,CZE,Other
+1058,10,CZE,Other
+1059,10,CZE,Other
+1060,10,CZE,Other
+1061,10,CZE,Other
+1062,10,CZE,Other
+1063,10,CZE,Other
+1064,3,CZE,Other
+1065,3,CZE,Other
+1066,8,CZE,"Value for money"
+1067,13,CZE,"Value for money"
+1068,1,CZE,Premium
+1069,1,CZE,Premium
+1070,2,CZE,Noname
+1071,2,CZE,Noname
+1072,10,CZE,Other
+1073,10,CZE,Other
+1074,3,CZE,Other
+1075,2,CZE,Noname
+1076,3,CZE,Other
+1077,1,CZE,Premium
+1078,1,CZE,Premium
+1079,1,CZE,Premium
+1080,2,CZE,Noname
+1081,38,CZE,Other
+1082,3,CZE,Other
+1083,1,CZE,Premium
+1084,3,CZE,Other
+1085,3,CZE,Other
+1086,3,CZE,Other
+1087,3,CZE,Other
+1088,3,CZE,Other
+1089,3,CZE,Other
+1090,3,CZE,Other
+1091,6,CZE,Premium
+1092,2,CZE,Noname
+1093,2,CZE,Noname
+1094,2,CZE,Noname
+1095,3,CZE,Other
+1096,3,CZE,Other
+1097,3,CZE,Other
+1098,3,CZE,Other
+1099,3,CZE,Other
+1100,4,CZE,Premium
+1101,8,CZE,"Value for money"
+1102,10,CZE,Other
+1103,9,CZE,"Value for money"
+1104,9,CZE,"Value for money"
+1105,33,CZE,Premium
+1106,26,CZE,Other
+1107,4,CZE,Premium
+1108,2,CZE,Noname
+1109,33,CZE,Premium
+1110,13,CZE,"Value for money"
+1111,33,CZE,Premium
+1112,9,CZE,"Value for money"
+1113,13,CZE,"Value for money"
+1114,9,CZE,"Value for money"
+1115,3,CZE,Other
+1116,1,CZE,Premium
+1117,33,CZE,Premium
+1118,33,CZE,Premium
+1119,9,CZE,"Value for money"
+1120,1,CZE,Premium
+1121,9,CZE,"Value for money"
+1122,33,CZE,Premium
+1123,33,CZE,Premium
+1124,33,CZE,Premium
+1125,9,CZE,"Value for money"
+1126,22,CZE,Other
+1127,33,CZE,Premium
+1128,33,CZE,Premium
+1129,2,CZE,Noname
+1130,3,CZE,Other
+1131,13,CZE,"Value for money"
+1132,33,CZE,Premium
+1133,1,CZE,Premium
+1134,8,CZE,"Value for money"
+1135,1,CZE,Premium
+1136,4,CZE,Premium
+1137,8,CZE,"Value for money"
+1138,33,CZE,Premium
+1139,13,CZE,"Value for money"
+1140,9,CZE,"Value for money"
+1141,9,CZE,"Value for money"
+1142,33,CZE,Premium
+1143,13,CZE,"Value for money"
+1144,2,CZE,Noname
+1145,8,CZE,"Value for money"
+1146,2,CZE,Noname
+1147,2,CZE,Noname
+1148,9,CZE,"Value for money"
+1149,9,CZE,"Value for money"
+1150,2,CZE,Noname
+1151,2,CZE,Noname
+1152,2,CZE,Noname
+1153,2,CZE,Noname
+1154,13,CZE,"Value for money"
+1155,4,CZE,Premium
+1156,2,CZE,Noname
+1157,13,CZE,"Value for money"
+1158,33,CZE,Premium
+1159,8,CZE,"Value for money"
+1160,9,CZE,"Value for money"
+1161,9,CZE,"Value for money"
+1162,2,CZE,Noname
+1163,4,CZE,Premium
+1164,2,CZE,Noname
+1165,9,CZE,"Value for money"
+1166,2,CZE,Noname
+1167,33,CZE,Premium
+1168,1,CZE,Premium
+1169,16,CZE,Other
+1170,9,CZE,"Value for money"
+1171,6,CZE,Premium
+1172,13,CZE,"Value for money"
+1173,1,CZE,Premium
+1174,33,CZE,Premium
+1175,8,CZE,"Value for money"
+1176,13,CZE,"Value for money"
+1177,13,CZE,"Value for money"
+1178,1,CZE,Premium
+1179,1,CZE,Premium
+1180,8,CZE,"Value for money"
+1181,4,CZE,Premium
+1182,2,CZE,Noname
+1183,9,CZE,"Value for money"
+1184,2,CZE,Noname
+1185,9,CZE,"Value for money"
+1186,2,CZE,Noname
+1187,9,CZE,"Value for money"
+1188,35,CZE,Discount
+1189,1,CZE,Premium
+1190,9,CZE,"Value for money"
+1191,9,CZE,"Value for money"
+1192,31,CZE,Premium
+1193,1,CZE,Premium
+1194,2,CZE,Noname
+1195,2,CZE,Noname
+1196,8,CZE,"Value for money"
+1197,8,CZE,"Value for money"
+1198,9,CZE,"Value for money"
+1199,2,CZE,Noname
+1200,2,CZE,Noname
+1201,14,CZE,Noname
+1202,13,CZE,"Value for money"
+1203,33,CZE,Premium
+1204,4,CZE,Premium
+1205,4,CZE,Premium
+1206,4,CZE,Premium
+1207,4,CZE,Premium
+1208,7,CZE,Other
+1209,9,CZE,"Value for money"
+1210,33,CZE,Premium
+1211,2,CZE,Noname
+1212,1,CZE,Premium
+1213,14,CZE,Noname
+1214,33,CZE,Premium
+1215,9,CZE,"Value for money"
+1216,4,CZE,Premium
+1217,23,CZE,Other
+1218,35,CZE,Discount
+1219,33,CZE,Premium
+1220,2,CZE,Noname
+1221,33,CZE,Premium
+1222,2,CZE,Noname
+1223,4,CZE,Premium
+1224,4,CZE,Premium
+1225,3,CZE,Other
+1226,9,CZE,"Value for money"
+1227,9,CZE,"Value for money"
+1228,9,CZE,"Value for money"
+1229,9,CZE,"Value for money"
+1230,2,CZE,Noname
+1231,2,CZE,Noname
+1232,13,CZE,"Value for money"
+1233,2,CZE,Noname
+1234,4,CZE,Premium
+1235,2,CZE,Noname
+1236,1,CZE,Premium
+1237,2,CZE,Noname
+1238,2,CZE,Noname
+1239,26,CZE,Other
+1240,33,CZE,Premium
+1241,33,CZE,Premium
+1242,2,CZE,Noname
+1243,10,CZE,Other
+1244,2,CZE,Noname
+1245,14,CZE,Noname
+1246,2,CZE,Noname
+1247,35,CZE,Discount
+1248,1,CZE,Premium
+1249,2,CZE,Noname
+1250,9,CZE,"Value for money"
+1251,2,CZE,Noname
+1252,26,CZE,Other
+1253,9,CZE,"Value for money"
+1254,13,CZE,"Value for money"
+1255,2,CZE,Noname
+1256,9,CZE,"Value for money"
+1257,9,CZE,"Value for money"
+1258,2,CZE,Noname
+1259,9,CZE,"Value for money"
+1260,2,CZE,Noname
+1261,2,CZE,Noname
+1262,4,CZE,Premium
+1263,2,CZE,Noname
+1264,9,CZE,"Value for money"
+1265,1,CZE,Premium
+1266,9,CZE,"Value for money"
+1267,9,CZE,"Value for money"
+1268,1,CZE,Premium
+1269,2,CZE,Noname
+1270,6,CZE,Premium
+1271,1,CZE,Premium
+1272,9,CZE,"Value for money"
+1273,9,CZE,"Value for money"
+1274,9,CZE,"Value for money"
+1275,9,CZE,"Value for money"
+1276,9,CZE,"Value for money"
+1277,9,CZE,"Value for money"
+1278,2,CZE,Noname
+1279,6,CZE,Premium
+1280,2,CZE,Noname
+1281,33,CZE,Premium
+1282,9,CZE,"Value for money"
+1283,9,CZE,"Value for money"
+1284,9,CZE,"Value for money"
+1285,9,CZE,"Value for money"
+1286,9,CZE,"Value for money"
+1287,1,CZE,Premium
+1288,9,CZE,"Value for money"
+1289,9,CZE,"Value for money"
+1290,9,CZE,"Value for money"
+1291,9,CZE,"Value for money"
+1292,9,CZE,"Value for money"
+1293,9,CZE,"Value for money"
+1294,9,CZE,"Value for money"
+1295,9,CZE,"Value for money"
+1296,9,CZE,"Value for money"
+1297,13,CZE,"Value for money"
+1298,2,CZE,Noname
+1299,13,CZE,"Value for money"
+1300,10,CZE,Other
+1301,10,CZE,Other
+1302,10,CZE,Other
+1303,10,CZE,Other
+1304,10,CZE,Other
+1305,10,CZE,Other
+1306,10,CZE,Other
+1307,10,CZE,Other
+1308,10,CZE,Other
+1309,6,CZE,Premium
+1310,6,CZE,Premium
+1311,4,CZE,Premium
+1312,33,CZE,Premium
+1313,33,CZE,Premium
+1314,2,CZE,Noname
+1315,2,CZE,Noname
+1316,14,CZE,Noname
+1317,36,CZE,Other
+1318,36,CZE,Other
+1319,36,CZE,Other
+1320,3,CZE,Other
+1321,36,CZE,Other
+1322,3,CZE,Other
+1323,36,CZE,Other
+1324,3,CZE,Other
+1325,3,CZE,Other
+1326,3,CZE,Other
+1327,3,CZE,Other
+1328,3,CZE,Other
+1329,3,CZE,Other
+1330,2,CZE,Noname
+1331,9,CZE,"Value for money"
+1332,2,CZE,Noname
+1333,15,CZE,Premium
+1334,4,CZE,Premium
+1335,2,CZE,Noname
+1336,9,CZE,"Value for money"
+1337,2,CZE,Noname
+1338,2,CZE,Noname
+1339,33,CZE,Premium
+1340,9,CZE,"Value for money"
+1341,33,CZE,Premium
+1342,2,CZE,Noname
+1343,9,CZE,"Value for money"
+1344,9,CZE,"Value for money"
+1345,4,CZE,Premium
+1346,8,CZE,"Value for money"
+1347,4,CZE,Premium
+1348,2,CZE,Noname
+1349,4,CZE,Premium
+1350,2,CZE,Noname
+1351,2,CZE,Noname
+1352,33,CZE,Premium
+1353,2,CZE,Noname
+1354,9,CZE,"Value for money"
+1355,10,CZE,Other
+1356,10,CZE,Other
+1357,10,CZE,Other
+1358,10,CZE,Other
+1359,10,CZE,Other
+1360,36,CZE,Other
+1361,2,CZE,Noname
+1362,2,CZE,Noname
+1363,11,CZE,"Value for money"
+1364,3,CZE,Other
+1365,2,CZE,Noname
+1366,10,CZE,Other
+1367,3,CZE,Other
+1368,2,CZE,Noname
+1369,2,CZE,Noname
+1370,30,CZE,Noname
+1371,9,CZE,"Value for money"
+1372,8,CZE,"Value for money"
+1373,2,CZE,Noname
+1374,1,CZE,Premium
+1375,9,CZE,"Value for money"
+1376,9,CZE,"Value for money"
+1377,2,CZE,Noname
+1378,2,CZE,Noname
+1379,36,CZE,Other
+1380,36,CZE,Other
+1381,36,CZE,Other
+1382,31,CZE,Premium
+1383,3,CZE,Other
+1384,4,CZE,Premium
+1385,33,CZE,Premium
+1386,1,CZE,Premium
+1387,30,CZE,Noname
+1388,2,CZE,Noname
+1389,2,CZE,Noname
+1390,34,CZE,Other
+1391,3,CZE,Other
+1392,2,CZE,Noname
+1393,10,CZE,Other
+1394,31,CZE,Premium
+1395,13,CZE,"Value for money"
+1396,3,CZE,Other
+1397,2,CZE,Noname
+1398,3,CZE,Other
+1399,37,CZE,Other
+1400,33,CZE,Premium
+1401,21,CZE,Discount
+1402,30,CZE,Noname
+1403,33,CZE,Premium
+1404,2,CZE,Noname
+1405,24,CZE,Discount
+1406,2,CZE,Noname
+1407,3,CZE,Other
+1408,32,CZE,Other
+1409,4,CZE,Premium
+1410,4,CZE,Premium
+1411,33,CZE,Premium
+1412,2,CZE,Noname
+1413,2,CZE,Noname
+1414,2,CZE,Noname
+1415,14,CZE,Noname
+1416,1,CZE,Premium
+1417,11,CZE,"Value for money"
+1418,35,CZE,Discount
+1419,15,CZE,Premium
+1420,2,CZE,Noname
+1421,2,CZE,Noname
+1422,9,CZE,"Value for money"
+1423,2,CZE,Noname
+1424,2,CZE,Noname
+1425,31,CZE,Premium
+1426,2,CZE,Noname
+1427,13,CZE,"Value for money"
+1428,3,CZE,Other
+1429,3,CZE,Other
+1430,3,CZE,Other
+1431,3,CZE,Other
+1432,2,CZE,Noname
+1433,30,CZE,Noname
+1434,35,CZE,Discount
+1435,33,CZE,Premium
+1436,9,CZE,"Value for money"
+1437,4,CZE,Premium
+1438,9,CZE,"Value for money"
+1439,2,CZE,Noname
+1440,4,CZE,Premium
+1441,2,CZE,Noname
+1442,6,CZE,Premium
+1443,3,CZE,Other
+1444,3,CZE,Other
+1445,13,CZE,"Value for money"
+1446,33,CZE,Premium
+1447,11,CZE,"Value for money"
+1448,2,CZE,Noname
+1449,1,CZE,Premium
+1450,36,CZE,Other
+1451,6,CZE,Premium
+1452,11,CZE,"Value for money"
+1453,4,CZE,Premium
+1454,11,CZE,"Value for money"
+1455,9,CZE,"Value for money"
+1456,10,CZE,Other
+1457,2,CZE,Noname
+1458,4,CZE,Premium
+1459,1,CZE,Premium
+1460,2,CZE,Noname
+1461,9,CZE,"Value for money"
+1462,9,CZE,"Value for money"
+1463,243,CZE,Other
+1464,2,CZE,Noname
+1465,2,CZE,Noname
+1466,2,CZE,Noname
+1467,2,CZE,Noname
+1468,32,CZE,Other
+1469,36,CZE,Other
+1470,1,CZE,Premium
+1471,33,CZE,Premium
+1472,1,CZE,Premium
+1473,4,CZE,Premium
+1474,33,CZE,Premium
+1475,33,CZE,Premium
+1476,33,CZE,Premium
+1477,30,CZE,Noname
+1478,2,CZE,Noname
+1479,33,CZE,Premium
+1480,1,CZE,Premium
+1481,9,CZE,"Value for money"
+1482,9,CZE,"Value for money"
+1483,33,CZE,Premium
+1484,9,CZE,"Value for money"
+1485,2,CZE,Noname
+1486,33,CZE,Premium
+1487,39,CZE,Other
+1488,33,CZE,Premium
+1489,3,CZE,Other
+1490,3,CZE,Other
+1491,2,CZE,Noname
+1492,3,CZE,Other
+1493,36,CZE,Other
+1494,36,CZE,Other
+1495,10,CZE,Other
+1496,35,CZE,Discount
+1497,1,CZE,Premium
+1498,3,CZE,Other
+1499,10,CZE,Other
+1500,41,CZE,Other
+1501,3,CZE,Other
+1502,2,CZE,Noname
+1503,27,CZE,Noname
+1504,3,CZE,Other
+1505,3,CZE,Other
+1506,3,CZE,Other
+1507,3,CZE,Other
+1508,3,CZE,Other
+1509,36,CZE,Other
+1510,36,CZE,Other
+1511,3,CZE,Other
+1512,3,CZE,Other
+1513,3,CZE,Other
+1514,3,CZE,Other
+1515,2,CZE,Noname
+1516,3,CZE,Other
+1517,3,CZE,Other
+1518,3,CZE,Other
+1519,25,CZE,"Value for money"
+1520,42,CZE,Other
+1521,42,CZE,Other
+1522,42,CZE,Other
+1523,33,CZE,Premium
+1524,31,CZE,Premium
+1525,31,CZE,Premium
+1526,3,CZE,Other
+1527,33,CZE,Premium
+1528,3,CZE,Other
+1529,3,CZE,Other
+1530,3,CZE,Other
+1531,2,CZE,Noname
+1532,25,CZE,"Value for money"
+1533,8,CZE,"Value for money"
+1534,6,CZE,Premium
+1535,6,CZE,Premium
+1536,6,CZE,Premium
+1537,6,CZE,Premium
+1538,6,CZE,Premium
+1539,6,CZE,Premium
+1540,6,CZE,Premium
+1541,6,CZE,Premium
+1542,6,CZE,Premium
+1543,6,CZE,Premium
+1544,13,CZE,"Value for money"
+1545,33,CZE,Premium
+1546,2,CZE,Noname
+1547,3,CZE,Other
+1548,7,CZE,Other
+1549,7,CZE,Other
+1550,33,CZE,Premium
+1551,3,CZE,Other
+1552,3,CZE,Other
+1553,3,CZE,Other
+1554,3,CZE,Other
+1555,3,CZE,Other
+1556,3,CZE,Other
+1557,4,CZE,Premium
+1558,4,CZE,Premium
+1559,3,CZE,Other
+1560,7,CZE,Other
+1561,7,CZE,Other
+1562,1,CZE,Premium
+1563,3,CZE,Other
+1564,3,CZE,Other
+1565,4,CZE,Premium
+1566,4,CZE,Premium
+1567,2,CZE,Noname
+1568,2,CZE,Noname
+1569,2,CZE,Noname
+1570,2,CZE,Noname
+1571,13,CZE,"Value for money"
+1572,3,CZE,Other
+1573,3,CZE,Other
+1574,3,CZE,Other
+1575,3,CZE,Other
+1576,2,CZE,Noname
+1577,9,CZE,"Value for money"
+1578,2,CZE,Noname
+1579,2,CZE,Noname
+1580,3,CZE,Other
+1581,3,CZE,Other
+1582,3,CZE,Other
+1583,3,CZE,Other
+1584,3,CZE,Other
+1585,3,CZE,Other
+1586,3,CZE,Other
+1587,3,CZE,Other
+1588,3,CZE,Other
+1589,3,CZE,Other
+1590,3,CZE,Other
+1591,3,CZE,Other
+1592,3,CZE,Other
+1593,2,CZE,Noname
+1594,2,CZE,Noname
+1595,2,CZE,Noname
+1596,2,CZE,Noname
+1597,3,CZE,Other
+1598,3,CZE,Other
+1599,3,CZE,Other
+1600,3,CZE,Other
+1601,3,CZE,Other
+1602,2,CZE,Noname
+1603,2,CZE,Noname
+1604,2,CZE,Noname
+1605,10,CZE,Other
+1606,10,CZE,Other
+1607,3,CZE,Other
+1608,3,CZE,Other
+1609,3,CZE,Other
+1610,3,CZE,Other
+1611,2,CZE,Noname
+1612,2,CZE,Noname
+1613,3,CZE,Other
+1614,3,CZE,Other
+1615,2,CZE,Noname
+1616,2,CZE,Noname
+1617,3,CZE,Other
+1618,3,CZE,Other
+1619,2,CZE,Noname
+1620,3,CZE,Other
+1621,3,CZE,Other
+1622,3,CZE,Other
+1623,3,CZE,Other
+1624,3,CZE,Other
+1625,3,CZE,Other
+1626,3,CZE,Other
+1627,23,CZE,Other
+1628,6,CZE,Premium
+1629,3,CZE,Other
+1630,6,CZE,Premium
+1631,3,CZE,Other
+1632,31,CZE,Premium
+1633,2,CZE,Noname
+1634,3,CZE,Other
+1635,3,CZE,Other
+1636,36,CZE,Other
+1637,7,CZE,Other
+1638,3,CZE,Other
+1639,36,CZE,Other
+1640,3,CZE,Other
+1641,10,CZE,Other
+1642,2,CZE,Noname
+1643,3,CZE,Other
+1644,3,CZE,Other
+1645,3,CZE,Other
+1646,3,CZE,Other
+1647,3,CZE,Other
+1648,1,CZE,Premium
+1649,43,CZE,Other
+1650,7,CZE,Other
+1651,3,CZE,Other
+1652,2,CZE,Noname
+1653,4,CZE,Premium
+1654,2,CZE,Noname
+1655,6,CZE,Premium
+1656,4,CZE,Premium
+1657,2,CZE,Noname
+1658,3,CZE,Other
+1659,3,CZE,Other
+1660,3,CZE,Other
+1661,3,CZE,Other
+1662,3,CZE,Other
+1663,3,CZE,Other
+1664,3,CZE,Other
+1665,3,CZE,Other
+1666,3,CZE,Other
+1667,3,CZE,Other
+1668,3,CZE,Other
+1669,21,CZE,Discount
+1670,33,CZE,Premium
+1671,3,CZE,Other
+1672,3,CZE,Other
+1673,3,CZE,Other
+1674,2,CZE,Noname
+1675,3,CZE,Other
+1676,3,CZE,Other
+1677,3,CZE,Other
+1678,10,CZE,Other
+1679,3,CZE,Other
+1680,21,CZE,Discount
+1681,3,CZE,Other
+1682,1,CZE,Premium
+1683,3,CZE,Other
+1684,3,CZE,Other
+1685,3,CZE,Other
+1686,3,CZE,Other
+1687,3,CZE,Other
+1688,3,CZE,Other
+1689,3,CZE,Other
+1690,3,CZE,Other
+1691,3,CZE,Other
+1692,16,CZE,Other
+1693,3,CZE,Other
+1694,10,CZE,Other
+1695,3,CZE,Other
+1696,3,CZE,Other
+1697,1,CZE,Premium
+1698,13,CZE,"Value for money"
+1699,1,CZE,Premium
+1700,10,CZE,Other
+1701,10,CZE,Other
+1702,3,CZE,Other
+1703,3,CZE,Other
+1704,3,CZE,Other
+1705,3,CZE,Other
+1706,3,CZE,Other
+1707,3,CZE,Other
+1708,3,CZE,Other
+1709,2,CZE,Noname
+1710,4,CZE,Premium
+1711,14,CZE,Noname
+1712,3,CZE,Other
+1713,3,CZE,Other
+1714,3,CZE,Other
+1715,3,CZE,Other
+1716,3,CZE,Other
+1717,3,CZE,Other
+1718,3,CZE,Other
+1719,3,CZE,Other
+1720,3,CZE,Other
+1721,3,CZE,Other
+1722,3,CZE,Other
+1723,3,CZE,Other
+1724,3,CZE,Other
+1725,3,CZE,Other
+1726,3,CZE,Other
+1727,3,CZE,Other
+1728,3,CZE,Other
+1729,3,CZE,Other
+1730,3,CZE,Other
+1731,31,CZE,Premium
+1732,3,CZE,Other
+1733,3,CZE,Other
+1734,3,CZE,Other
+1735,3,CZE,Other
+1736,3,CZE,Other
+1737,3,CZE,Other
+1738,3,CZE,Other
+1739,3,CZE,Other
+1740,3,CZE,Other
+1741,3,CZE,Other
+1742,3,CZE,Other
+1743,3,CZE,Other
+1744,3,CZE,Other
+1745,3,CZE,Other
+1746,45,CZE,Other
+1747,45,CZE,Other
+1748,3,CZE,Other
+1749,3,CZE,Other
+1750,3,CZE,Other
+1751,3,CZE,Other
+1752,3,CZE,Other
+1753,3,CZE,Other
+1754,3,CZE,Other
+1755,3,CZE,Other
+1756,3,CZE,Other
+1757,3,CZE,Other
+1758,3,CZE,Other
+1759,3,CZE,Other
+1760,3,CZE,Other
+1761,3,CZE,Other
+1762,3,CZE,Other
+1763,3,CZE,Other
+1764,3,CZE,Other
+1765,3,CZE,Other
+1766,3,CZE,Other
+1767,3,CZE,Other
+1768,3,CZE,Other
+1769,3,CZE,Other
+1770,3,CZE,Other
+1771,3,CZE,Other
+1772,3,CZE,Other
+1773,3,CZE,Other
+1774,3,CZE,Other
+1775,3,CZE,Other
+1776,3,CZE,Other
+1777,3,CZE,Other
+1778,3,CZE,Other
+1779,3,CZE,Other
+1780,3,CZE,Other
+1781,3,CZE,Other
+1782,3,CZE,Other
+1783,3,CZE,Other
+1784,3,CZE,Other
+1785,3,CZE,Other
+1786,3,CZE,Other
+1787,3,CZE,Other
+1788,3,CZE,Other
+1789,3,CZE,Other
+1790,3,CZE,Other
+1791,3,CZE,Other
+1792,3,CZE,Other
+1793,3,CZE,Other
+1794,3,CZE,Other
+1795,3,CZE,Other
+1796,3,CZE,Other
+1797,3,CZE,Other
+1798,3,CZE,Other
+1799,3,CZE,Other
+1800,3,CZE,Other
+1801,3,CZE,Other
+1802,3,CZE,Other
+1803,3,CZE,Other
+1804,3,CZE,Other
+1805,3,CZE,Other
+1806,3,CZE,Other
+1807,3,CZE,Other
+1808,3,CZE,Other
+1809,3,CZE,Other
+1810,3,CZE,Other
+1811,3,CZE,Other
+1812,3,CZE,Other
+1813,3,CZE,Other
+1814,44,CZE,Other
+1815,44,CZE,Other
+1816,44,CZE,Other
+1817,44,CZE,Other
+1818,3,CZE,Other
+1819,3,CZE,Other
+1820,3,CZE,Other
+1821,3,CZE,Other
+1822,3,CZE,Other
+1823,3,CZE,Other
+1824,3,CZE,Other
+1825,3,CZE,Other
+1826,3,CZE,Other
+1827,3,CZE,Other
+1828,3,CZE,Other
+1829,3,CZE,Other
+1830,3,CZE,Other
+1831,3,CZE,Other
+1832,3,CZE,Other
+1833,3,CZE,Other
+1834,3,CZE,Other
+1835,3,CZE,Other
+1836,3,CZE,Other
+1837,36,CZE,Other
+1838,3,CZE,Other
+1839,3,CZE,Other
+1840,3,CZE,Other
+1841,3,CZE,Other
+1842,3,CZE,Other
+1843,3,CZE,Other
+1844,3,CZE,Other
+1845,3,CZE,Other
+1846,3,CZE,Other
+1847,3,CZE,Other
+1848,3,CZE,Other
+1849,3,CZE,Other
+1850,3,CZE,Other
+1851,3,CZE,Other
+1852,2,CZE,Noname
+1853,2,CZE,Noname
+1854,3,CZE,Other
+1855,3,CZE,Other
+1856,3,CZE,Other
+1857,3,CZE,Other
+1858,3,CZE,Other
+1859,3,CZE,Other
+1860,3,CZE,Other
+1861,3,CZE,Other
+1862,3,CZE,Other
+1863,3,CZE,Other
+1864,3,CZE,Other
+1865,32,CZE,Other
+1866,2,CZE,Noname
+1867,3,CZE,Other
+1868,31,CZE,Premium
+1869,3,CZE,Other
+1870,3,CZE,Other
+1871,3,CZE,Other
+1872,3,CZE,Other
+1873,3,CZE,Other
+1874,3,CZE,Other
+1875,3,CZE,Other
+1876,3,CZE,Other
+1877,3,CZE,Other
+1878,3,CZE,Other
+1879,45,CZE,Other
+1880,45,CZE,Other
+1881,3,CZE,Other
+1882,3,CZE,Other
+1883,3,CZE,Other
+1884,3,CZE,Other
+1885,2,CZE,Noname
+1886,21,CZE,Discount
+1887,21,CZE,Discount
+1888,21,CZE,Discount
+1889,6,CZE,Premium
+1890,3,CZE,Other
+1891,3,CZE,Other
+1892,3,CZE,Other
+1893,3,CZE,Other
+1894,3,CZE,Other
+1895,3,CZE,Other
+1896,3,CZE,Other
+1897,3,CZE,Other
+1898,3,CZE,Other
+1899,3,CZE,Other
+1900,3,CZE,Other
+1901,3,CZE,Other
+1902,3,CZE,Other
+1903,3,CZE,Other
+1904,3,CZE,Other
+1905,3,CZE,Other
+1906,3,CZE,Other
+1907,3,CZE,Other
+1908,3,CZE,Other
+1909,3,CZE,Other
+1910,3,CZE,Other
+1911,3,CZE,Other
+1912,1,CZE,Premium
+1913,3,CZE,Other
+1914,3,CZE,Other
+1915,3,CZE,Other
+1916,3,CZE,Other
+1917,21,CZE,Discount
+1918,21,CZE,Discount
+1919,3,CZE,Other
+1920,3,CZE,Other
+1921,3,CZE,Other
+1922,3,CZE,Other
+1923,3,CZE,Other
+1924,3,CZE,Other
+1925,3,CZE,Other
+1926,8,CZE,"Value for money"
+1927,3,CZE,Other
+1928,36,CZE,Other
+1929,3,CZE,Other
+1930,3,CZE,Other
+1931,3,CZE,Other
+1932,3,CZE,Other
+1933,3,CZE,Other
+1934,48,CZE,Noname
+1935,3,CZE,Other
+1936,3,CZE,Other
+1937,3,CZE,Other
+1938,3,CZE,Other
+1939,3,CZE,Other
+1940,3,CZE,Other
+1941,2,CZE,Noname
+1942,3,CZE,Other
+1943,2,CZE,Noname
+1944,1,CZE,Premium
+1945,3,CZE,Other
+1946,3,CZE,Other
+1947,3,CZE,Other
+1948,3,CZE,Other
+1949,3,CZE,Other
+1950,3,CZE,Other
+1951,3,CZE,Other
+1952,2,CZE,Noname
+1953,3,CZE,Other
+1954,3,CZE,Other
+1955,16,CZE,Other
+1956,16,CZE,Other
+1957,16,CZE,Other
+1958,16,CZE,Other
+1959,16,CZE,Other
+1960,16,CZE,Other
+1961,16,CZE,Other
+1962,16,CZE,Other
+1963,16,CZE,Other
+1964,16,CZE,Other
+1965,16,CZE,Other
+1966,48,CZE,Noname
+1967,48,CZE,Noname
+1968,48,CZE,Noname
+1969,48,CZE,Noname
+1970,48,CZE,Noname
+1971,16,CZE,Other
+1972,48,CZE,Noname
+1973,16,CZE,Other
+1974,16,CZE,Other
+1975,16,CZE,Other
+1976,48,CZE,Noname
+1977,16,CZE,Other
+1978,16,CZE,Other
+1979,16,CZE,Other
+1980,16,CZE,Other
+1981,16,CZE,Other
+1982,16,CZE,Other
+1983,16,CZE,Other
+1984,16,CZE,Other
+1985,16,CZE,Other
+1986,3,CZE,Other
+1987,16,CZE,Other
+1988,16,CZE,Other
+1989,16,CZE,Other
+1990,16,CZE,Other
+1991,16,CZE,Other
+1992,16,CZE,Other
+1993,16,CZE,Other
+1994,16,CZE,Other
+1995,16,CZE,Other
+1996,16,CZE,Other
+1997,48,CZE,Noname
+1998,48,CZE,Noname
+1999,3,CZE,Other
+2000,3,CZE,Other
+2001,6,CZE,Premium
+2002,8,CZE,"Value for money"
+2003,3,CZE,Other
+2004,25,CZE,"Value for money"
+2005,25,CZE,"Value for money"
+2006,16,CZE,Other
+2007,16,CZE,Other
+2008,16,CZE,Other
+2009,16,CZE,Other
+2010,16,CZE,Other
+2011,16,CZE,Other
+2012,3,CZE,Other
+2013,6,CZE,Premium
+2014,3,CZE,Other
+2015,3,CZE,Other
+2016,3,CZE,Other
+2017,16,CZE,Other
+2018,16,CZE,Other
+2019,3,CZE,Other
+2020,3,CZE,Other
+2021,3,CZE,Other
+2022,3,CZE,Other
+2023,3,CZE,Other
+2024,3,CZE,Other
+2025,3,CZE,Other
+2026,3,CZE,Other
+2027,3,CZE,Other
+2028,16,CZE,Other
+2029,1,CZE,Premium
+2030,1,CZE,Premium
+2031,3,CZE,Other
+2032,3,CZE,Other
+2033,3,CZE,Other
+2034,3,CZE,Other
+2035,3,CZE,Other
+2036,3,CZE,Other
+2037,3,CZE,Other
+2038,33,CZE,Premium
+2039,2,CZE,Noname
+2040,3,CZE,Other
+2041,36,CZE,Other
+2042,3,CZE,Other
+2043,2,CZE,Noname
+2044,2,CZE,Noname
+2045,2,CZE,Noname
+2046,2,CZE,Noname
+2047,3,CZE,Other
+2048,3,CZE,Other
+2049,16,CZE,Other
+2050,3,CZE,Other
+2051,3,CZE,Other
+2052,3,CZE,Other
+2053,3,CZE,Other
+2054,3,CZE,Other
+2055,3,CZE,Other
+2056,3,CZE,Other
+2057,3,CZE,Other
+2058,3,CZE,Other
+2059,3,CZE,Other
+2060,3,CZE,Other
+2061,3,CZE,Other
+2062,3,CZE,Other
+2063,3,CZE,Other
+2064,3,CZE,Other
+2065,8,CZE,"Value for money"
+2066,4,CZE,Premium
+2067,3,CZE,Other
+2068,3,CZE,Other
+2069,3,CZE,Other
+2070,3,CZE,Other
+2071,3,CZE,Other
+2072,34,CZE,Other
+2073,10,CZE,Other
+2074,6,CZE,Premium
+2075,1,CZE,Premium
+2076,6,CZE,Premium
+2077,2,CZE,Noname
+2078,3,CZE,Other
+2079,2,CZE,Noname
+2080,3,CZE,Other
+2081,14,CZE,Noname
+2082,3,CZE,Other
+2083,3,CZE,Other
+2084,45,CZE,Other
+2085,3,CZE,Other
+2086,3,CZE,Other
+2087,3,CZE,Other
+2088,1,CZE,Premium
+2089,3,CZE,Other
+2090,2,CZE,Noname
+2091,2,CZE,Noname
+2092,3,CZE,Other
+2093,16,CZE,Other
+2094,3,CZE,Other
+2095,2,CZE,Noname
+2096,3,CZE,Other
+2097,3,CZE,Other
+2098,3,CZE,Other
+2099,6,CZE,Premium
+2100,2,CZE,Noname
+2101,12,CZE,Other
+2102,2,CZE,Noname
+2103,3,CZE,Other
+2104,3,CZE,Other
+2105,3,CZE,Other
+2106,3,CZE,Other
+2107,3,CZE,Other
+2108,3,CZE,Other
+2109,3,CZE,Other
+2110,3,CZE,Other
+2111,20,CZE,Discount
+2112,20,CZE,Discount
+2113,3,CZE,Other
+2114,3,CZE,Other
+2115,2,CZE,Noname
+2116,2,CZE,Noname
+2117,3,CZE,Other
+2118,3,CZE,Other
+2119,2,CZE,Noname
+2120,3,CZE,Other
+2121,16,CZE,Other
+2122,3,CZE,Other
+2123,2,CZE,Noname
+2124,3,CZE,Other
+2125,36,CZE,Other
+2126,36,CZE,Other
+2127,36,CZE,Other
+2128,3,CZE,Other
+2129,3,CZE,Other
+2130,3,CZE,Other
+2131,3,CZE,Other
+2132,3,CZE,Other
+2133,3,CZE,Other
+2134,3,CZE,Other
+2135,3,CZE,Other
+2136,3,CZE,Other
+2137,3,CZE,Other
+2138,3,CZE,Other
+2139,3,CZE,Other
+2140,1,CZE,Premium
+2141,1,CZE,Premium
+2142,16,CZE,Other
+2143,3,CZE,Other
+2144,44,CZE,Other
+2145,2,CZE,Noname
+2146,2,CZE,Noname
+2147,3,CZE,Other
+2148,3,CZE,Other
+2149,3,CZE,Other
+2150,3,CZE,Other
+2151,3,CZE,Other
+2152,3,CZE,Other
+2153,3,CZE,Other
+2154,12,CZE,Other
+2155,2,CZE,Noname
+2156,3,CZE,Other
+2157,16,CZE,Other
+2158,3,CZE,Other
+2159,3,CZE,Other
+2160,3,CZE,Other
+2161,3,CZE,Other
+2162,3,CZE,Other
+2163,3,CZE,Other
+2164,3,CZE,Other
+2165,6,CZE,Premium
+2166,3,CZE,Other
+2167,3,CZE,Other
+2168,3,CZE,Other
+2169,3,CZE,Other
+2170,4,CZE,Premium
+2171,4,CZE,Premium
+2172,4,CZE,Premium
+2173,4,CZE,Premium
+2174,4,CZE,Premium
+2175,2,CZE,Noname
+2176,1,CZE,Premium
+2177,3,CZE,Other
+2178,3,CZE,Other
+2179,1,CZE,Premium
+2180,1,CZE,Premium
+2181,3,CZE,Other
+2182,3,CZE,Other
+2183,6,CZE,Premium
+2184,1,CZE,Premium
+2185,2,CZE,Noname
+2186,2,CZE,Noname
+2187,2,CZE,Noname
+2188,33,CZE,Premium
+2189,3,CZE,Other
+2190,16,CZE,Other
+2191,3,CZE,Other
+2192,10,CZE,Other
+2193,3,CZE,Other
+2194,3,CZE,Other
+2195,16,CZE,Other
+2196,3,CZE,Other
+2197,2,CZE,Noname
+2198,2,CZE,Noname
+2199,16,CZE,Other
+2200,16,CZE,Other
+2201,3,CZE,Other
+2202,3,CZE,Other
+2203,3,CZE,Other
+2204,3,CZE,Other
+2205,3,CZE,Other
+2206,16,CZE,Other
+2207,3,CZE,Other
+2208,16,CZE,Other
+2209,2,CZE,Noname
+2210,16,CZE,Other
+2211,3,CZE,Other
+2212,2,CZE,Noname
+2213,3,CZE,Other
+2214,3,CZE,Other
+2215,3,CZE,Other
+2216,3,CZE,Other
+2217,6,CZE,Premium
+2218,3,CZE,Other
+2219,3,CZE,Other
+2220,3,CZE,Other
+2221,2,CZE,Noname
+2222,2,CZE,Noname
+2223,3,CZE,Other
+2224,3,CZE,Other
+2225,3,CZE,Other
+2226,3,CZE,Other
+2227,3,CZE,Other
+2228,3,CZE,Other
+2229,1,CZE,Premium
+2230,1,CZE,Premium
+2231,1,CZE,Premium
+2232,1,CZE,Premium
+2233,2,CZE,Noname
+2234,4,CZE,Premium
+2235,4,CZE,Premium
+2236,46,CZE,Other
+2237,46,CZE,Other
+2238,46,CZE,Other
+2239,46,CZE,Other
+2240,46,CZE,Other
+2241,16,CZE,Other
+2242,3,CZE,Other
+2243,3,CZE,Other
+2244,2,CZE,Noname
+2245,12,CZE,Other
+2246,16,CZE,Other
+2247,27,CZE,Noname
+2248,3,CZE,Other
+2249,3,CZE,Other
+2250,3,CZE,Other
+2251,2,CZE,Noname
+2252,3,CZE,Other
+2253,3,CZE,Other
+2254,3,CZE,Other
+2255,3,CZE,Other
+2256,3,CZE,Other
+2257,3,CZE,Other
+2258,24,CZE,Discount
+2259,19,CZE,Discount
+2260,16,CZE,Other
+2261,3,CZE,Other
+2262,3,CZE,Other
+2263,3,CZE,Other
+2264,3,CZE,Other
+2265,3,CZE,Other
+2266,3,CZE,Other
+2267,3,CZE,Other
+2268,1,CZE,Premium
+2269,48,CZE,Noname
+2270,48,CZE,Noname
+2271,2,CZE,Noname
+2272,2,CZE,Noname
+2273,19,CZE,Discount
+2274,37,CZE,Other
+2275,37,CZE,Other
+2276,13,CZE,"Value for money"
+2277,2,CZE,Noname
+2278,3,CZE,Other
+2279,3,CZE,Other
+2280,3,CZE,Other
+2281,31,CZE,Premium
+2282,12,CZE,Other
+2283,3,CZE,Other
+2284,2,CZE,Noname
+2285,3,CZE,Other
+2286,3,CZE,Other
+2287,37,CZE,Other
+2288,2,CZE,Noname
+2289,1,CZE,Premium
+2290,3,CZE,Other
+2291,16,CZE,Other
+2292,3,CZE,Other
+2293,18,CZE,Other
+2294,3,CZE,Other
+2295,3,CZE,Other
+2296,4,CZE,Premium
+2297,4,CZE,Premium
+2298,3,CZE,Other
+2299,3,CZE,Other
+2300,3,CZE,Other
+2301,24,CZE,Discount
+2302,3,CZE,Other
+2303,3,CZE,Other
+2304,1,CZE,Premium
+2305,3,CZE,Other
+2306,3,CZE,Other
+2307,2,CZE,Noname
+2308,48,CZE,Noname
+2309,3,CZE,Other
+2310,3,CZE,Other
+2311,3,CZE,Other
+2312,3,CZE,Other
+2313,2,CZE,Noname
+2314,3,CZE,Other
+2315,3,CZE,Other
+2316,16,CZE,Other
+2317,2,CZE,Noname
+2318,3,CZE,Other
+2319,2,CZE,Noname
+2320,2,CZE,Noname
+2321,3,CZE,Other
+2322,2,CZE,Noname
+2323,2,CZE,Noname
+2324,3,CZE,Other
+2325,3,CZE,Other
+2326,2,CZE,Noname
+2327,3,CZE,Other
+2328,3,CZE,Other
+2329,2,CZE,Noname
+2330,3,CZE,Other
+2331,3,CZE,Other
+2332,3,CZE,Other
+2333,2,CZE,Noname
+2334,2,CZE,Noname
+2335,2,CZE,Noname
+2336,6,CZE,Premium
+2337,3,CZE,Other
+2338,3,CZE,Other
+2339,3,CZE,Other
+2340,35,CZE,Discount
+2341,16,CZE,Other
+2342,3,CZE,Other
+2343,3,CZE,Other
+2344,3,CZE,Other
+2345,3,CZE,Other
+2346,3,CZE,Other
+2347,48,CZE,Noname
+2348,48,CZE,Noname
+2349,2,CZE,Noname
+2350,3,CZE,Other
+2351,16,CZE,Other
+2352,6,CZE,Premium
+2353,2,CZE,Noname
+2354,9,CZE,"Value for money"
+2355,2,CZE,Noname
+2356,12,CZE,Other
+2357,3,CZE,Other
+2358,36,CZE,Other
+2359,3,CZE,Other
+2360,3,CZE,Other
+2361,3,CZE,Other
+2362,3,CZE,Other
+2363,3,CZE,Other
+2364,3,CZE,Other
+2365,3,CZE,Other
+2366,2,CZE,Noname
+2367,15,CZE,Premium
+2368,16,CZE,Other
+2369,16,CZE,Other
+2370,9,CZE,"Value for money"
+2371,16,CZE,Other
+2372,3,CZE,Other
+2373,3,CZE,Other
+2374,3,CZE,Other
+2375,3,CZE,Other
+2376,26,CZE,Other
+2377,3,CZE,Other
+2378,2,CZE,Noname
+2379,3,CZE,Other
+2380,36,CZE,Other
+2381,3,CZE,Other
+2382,7,CZE,Other
+2383,3,CZE,Other
+2384,7,CZE,Other
+2385,3,CZE,Other
+2386,20,CZE,Discount
+2387,2,CZE,Noname
+2388,3,CZE,Other
+2389,3,CZE,Other
+2390,2,CZE,Noname
+2391,39,CZE,Other
+2392,3,CZE,Other
+2393,3,CZE,Other
+2394,3,CZE,Other
+2395,3,CZE,Other
+2396,20,CZE,Discount
+2397,2,CZE,Noname
+2398,2,CZE,Noname
+2399,2,CZE,Noname
+2400,2,CZE,Noname
+2401,3,CZE,Other
+2402,19,CZE,Discount
+2403,39,CZE,Other
+2404,39,CZE,Other
+2405,39,CZE,Other
+2406,3,CZE,Other
+2407,3,CZE,Other
+2408,2,CZE,Noname
+2409,31,CZE,Premium
+2410,48,CZE,Noname
+2411,48,CZE,Noname
+2412,48,CZE,Noname
+2413,48,CZE,Noname
+2414,6,CZE,Premium
+2415,6,CZE,Premium
+2416,6,CZE,Premium
+2417,2,CZE,Noname
+2418,3,CZE,Other
+2419,2,CZE,Noname
+2420,2,CZE,Noname
+2421,3,CZE,Other
+2422,48,CZE,Noname
+2423,48,CZE,Noname
+2424,48,CZE,Noname
+2425,1,CZE,Premium
+2426,1,CZE,Premium
+2427,2,CZE,Noname
+2428,3,CZE,Other
+2429,2,CZE,Noname
+2430,2,CZE,Noname
+2431,3,CZE,Other
+2433,3,CZE,Other
+2434,3,CZE,Other
+2435,3,CZE,Other
+2436,36,CZE,Other
+2437,36,CZE,Other
+2438,3,CZE,Other
+2439,2,CZE,Noname
+2440,6,CZE,Premium
+2441,6,CZE,Premium
+2442,6,CZE,Premium
+2443,6,CZE,Premium
+2444,44,CZE,Other
+2445,3,CZE,Other
+2446,16,CZE,Other
+2447,3,CZE,Other
+2448,3,CZE,Other
+2449,20,CZE,Discount
+2450,48,CZE,Noname
+2451,48,CZE,Noname
+2452,3,CZE,Other
+2453,2,CZE,Noname
+2454,33,CZE,Premium
+2455,16,CZE,Other
+2456,3,CZE,Other
+2457,2,CZE,Noname
+2458,2,CZE,Noname
+2459,4,CZE,Premium
+2460,3,CZE,Other
+2461,3,CZE,Other
+2462,22,CZE,Other
+2463,3,CZE,Other
+2464,3,CZE,Other
+2465,2,CZE,Noname
+2466,3,CZE,Other
+2467,3,CZE,Other
+2468,3,CZE,Other
+2469,3,CZE,Other
+2470,6,CZE,Premium
+2471,3,CZE,Other
+2472,16,CZE,Other
+2473,3,CZE,Other
+2474,3,CZE,Other
+2475,13,CZE,"Value for money"
+2476,3,CZE,Other
+2477,16,CZE,Other
+2478,3,CZE,Other
+2479,3,CZE,Other
+2480,3,CZE,Other
+2481,3,CZE,Other
+2482,3,CZE,Other
+2483,3,CZE,Other
+2484,48,CZE,Noname
+2485,3,CZE,Other
+2486,3,CZE,Other
+2487,7,CZE,Other
+2488,3,CZE,Other
+2489,3,CZE,Other
+2490,3,CZE,Other
+2491,3,CZE,Other
+2492,3,CZE,Other
+2493,3,CZE,Other
+2494,2,CZE,Noname
+2495,3,CZE,Other
+2496,3,CZE,Other
+2497,16,CZE,Other
+2498,3,CZE,Other
+2499,3,CZE,Other
+2500,19,CZE,Discount
+2501,2,CZE,Noname
+2502,2,CZE,Noname
+2503,3,CZE,Other
+2504,3,CZE,Other
+2505,4,CZE,Premium
+2506,4,CZE,Premium
+2507,3,CZE,Other
+2508,3,CZE,Other
+2509,3,CZE,Other
+2510,3,CZE,Other
+2511,3,CZE,Other
+2512,3,CZE,Other
+2513,6,CZE,Premium
+2514,48,CZE,Noname
+2515,48,CZE,Noname
+2516,31,CZE,Premium
+2517,2,CZE,Noname
+2518,31,CZE,Premium
+2519,7,CZE,Other
+2520,2,CZE,Noname
+2521,3,CZE,Other
+2522,3,CZE,Other
+2523,31,CZE,Premium
+2524,20,CZE,Discount
+2525,20,CZE,Discount
+2526,19,CZE,Discount
+2527,19,CZE,Discount
+2528,20,CZE,Discount
+2529,20,CZE,Discount
+2530,3,CZE,Other
+2531,20,CZE,Discount
+2532,3,CZE,Other
+2533,3,CZE,Other
+2534,3,CZE,Other
+2535,3,CZE,Other
+2536,3,CZE,Other
+2537,3,CZE,Other
+2538,2,CZE,Noname
+2539,29,CZE,Premium
+2540,33,CZE,Premium
+2541,33,CZE,Premium
+2542,33,CZE,Premium
+2543,3,CZE,Other
+2544,3,CZE,Other
+2545,44,CZE,Other
+2546,44,CZE,Other
+2547,2,CZE,Noname
+2548,2,CZE,Noname
+2549,2,CZE,Noname
+2550,3,CZE,Other
+2551,29,CZE,Premium
+2552,6,CZE,Premium
+2553,36,CZE,Other
+2554,7,CZE,Other
+2555,25,CZE,"Value for money"
+2556,1,CZE,Premium
+2557,3,CZE,Other
+2558,3,CZE,Other
+2559,41,CZE,Other
+2560,3,CZE,Other
+2561,3,CZE,Other
+2562,3,CZE,Other
+2563,3,CZE,Other
+2564,4,CZE,Premium
+2565,3,CZE,Other
+2566,3,CZE,Other
+2567,25,CZE,"Value for money"
+2568,2,CZE,Noname
+2569,3,CZE,Other
+2570,3,CZE,Other
+2571,3,CZE,Other
+2572,16,CZE,Other
+2573,44,CZE,Other
+2574,3,CZE,Other
+2575,3,CZE,Other
+2576,3,CZE,Other
+2577,2,CZE,Noname
+2578,20,CZE,Discount
+2579,20,CZE,Discount
+2580,9,CZE,"Value for money"
+2581,48,CZE,Noname
+2582,48,CZE,Noname
+2583,3,CZE,Other
+2584,8,CZE,"Value for money"
+2585,19,CZE,Discount
+2586,36,CZE,Other
+2587,24,CZE,Discount
+2588,3,CZE,Other
+2589,9,CZE,"Value for money"
+2590,9,CZE,"Value for money"
+2591,47,CZE,Other
+2592,2,CZE,Noname
+2593,3,CZE,Other
+2594,3,CZE,Other
+2595,2,CZE,Noname
+2596,2,CZE,Noname
+2597,16,CZE,Other
+2598,6,CZE,Premium
+2599,6,CZE,Premium
+2600,3,CZE,Other
+2601,3,CZE,Other
+2602,2,CZE,Noname
+2603,3,CZE,Other
+2604,3,CZE,Other
+2605,3,CZE,Other
+2606,10,CZE,Other
+2607,46,CZE,Other
+2608,3,CZE,Other
+2609,19,CZE,Discount
+2610,2,CZE,Noname
+2611,2,CZE,Noname
+2612,3,CZE,Other
+2613,48,CZE,Noname
+2614,2,CZE,Noname
+2615,46,CZE,Other
+2616,46,CZE,Other
+2617,3,CZE,Other
+2618,3,CZE,Other
+2619,3,CZE,Other
+2620,3,CZE,Other
+2621,3,CZE,Other
+2622,25,CZE,"Value for money"
+2623,25,CZE,"Value for money"
+2624,3,CZE,Other
+2625,2,CZE,Noname
+2626,6,CZE,Premium
+2627,6,CZE,Premium
+2628,36,CZE,Other
+2629,2,CZE,Noname
+2630,3,CZE,Other
+2631,3,CZE,Other
+2632,44,CZE,Other
+2633,36,CZE,Other
+2634,4,CZE,Premium
+2635,4,CZE,Premium
+2636,3,CZE,Other
+2637,16,CZE,Other
+2638,7,CZE,Other
+2639,4,CZE,Premium
+2640,4,CZE,Premium
+2641,3,CZE,Other
+2642,21,CZE,Discount
+2643,21,CZE,Discount
+2644,3,CZE,Other
+2645,3,CZE,Other
+2646,3,CZE,Other
+2647,3,CZE,Other
+2648,3,CZE,Other
+2649,3,CZE,Other
+2650,3,CZE,Other
+2651,19,CZE,Discount
+2652,3,CZE,Other
+2653,4,CZE,Premium
+2654,4,CZE,Premium
+2655,3,CZE,Other
+2656,4,CZE,Premium
+2657,3,CZE,Other
+2658,3,CZE,Other
+2659,35,CZE,Discount
+2660,13,CZE,"Value for money"
+2661,13,CZE,"Value for money"
+2662,3,CZE,Other
+2663,4,CZE,Premium
+2664,3,CZE,Other
+2665,3,CZE,Other
+2666,2,CZE,Noname
+2667,48,CZE,Noname
+2668,3,CZE,Other
+2669,3,CZE,Other
+2670,7,CZE,Other
+2671,3,CZE,Other
+2672,9,CZE,"Value for money"
+2673,3,CZE,Other
+2674,33,CZE,Premium
+2675,33,CZE,Premium
+2676,3,CZE,Other
+2677,3,CZE,Other
+2678,3,CZE,Other
+2679,3,CZE,Other
+2680,3,CZE,Other
+2681,3,CZE,Other
+2682,49,CZE,Other
+2683,49,CZE,Other
+2684,49,CZE,Other
+2685,49,CZE,Other
+2686,49,CZE,Other
+2687,49,CZE,Other
+2688,49,CZE,Other
+2689,49,CZE,Other
+2690,49,CZE,Other
+2691,49,CZE,Other
+2692,49,CZE,Other
+2693,2,CZE,Noname
+2694,3,CZE,Other
+2695,3,CZE,Other
+2696,2,CZE,Noname
+2697,3,CZE,Other
+2698,3,CZE,Other
+2699,3,CZE,Other
+2700,33,CZE,Premium
+2701,33,CZE,Premium
+2702,33,CZE,Premium
+2703,9,CZE,"Value for money"
+2704,33,CZE,Premium
+2705,33,CZE,Premium
+2706,2,CZE,Noname
+2707,13,CZE,"Value for money"
+2708,33,CZE,Premium
+2709,33,CZE,Premium
+2710,33,CZE,Premium
+2711,33,CZE,Premium
+2712,1,CZE,Premium
+2713,6,CZE,Premium
+2714,33,CZE,Premium
+2715,33,CZE,Premium
+2716,33,CZE,Premium
+2717,6,CZE,Premium
+2718,35,CZE,Discount
+2719,2,CZE,Noname
+2720,3,CZE,Other
+2721,8,CZE,"Value for money"
+2722,33,CZE,Premium
+2723,6,CZE,Premium
+2724,33,CZE,Premium
+2725,6,CZE,Premium
+2726,9,CZE,"Value for money"
+2727,33,CZE,Premium
+2728,9,CZE,"Value for money"
+2729,33,CZE,Premium
+2730,33,CZE,Premium
+2731,30,CZE,Noname
+2732,2,CZE,Noname
+2733,3,CZE,Other
+2734,24,CZE,Discount
+2735,24,CZE,Discount
+2736,24,CZE,Discount
+2737,24,CZE,Discount
+2738,3,CZE,Other
+2739,24,CZE,Discount
+2740,24,CZE,Discount
+2741,3,CZE,Other
+2742,3,CZE,Other
+2743,19,CZE,Discount
+2744,19,CZE,Discount
+2745,19,CZE,Discount
+2746,6,CZE,Premium
+2747,48,CZE,Noname
+2748,3,CZE,Other
+2749,3,CZE,Other
+2750,3,CZE,Other
+2751,3,CZE,Other
+2752,43,CZE,Other
+2753,43,CZE,Other
+2754,3,CZE,Other
+2755,9,CZE,"Value for money"
+2756,3,CZE,Other
+2757,3,CZE,Other
+2758,19,CZE,Discount
+2759,1,CZE,Premium
+2760,1,CZE,Premium
+2761,1,CZE,Premium
+2762,3,CZE,Other
+2763,2,CZE,Noname
+2764,36,CZE,Other
+2765,3,CZE,Other
+2766,2,CZE,Noname
+2767,3,CZE,Other
+2768,3,CZE,Other
+2769,3,CZE,Other
+2770,3,CZE,Other
+2771,3,CZE,Other
+2772,3,CZE,Other
+2773,18,CZE,Other
+2774,18,CZE,Other
+2775,2,CZE,Noname
+2776,2,CZE,Noname
+2777,3,CZE,Other
+2778,41,CZE,Other
+2779,3,CZE,Other
+2780,3,CZE,Other
+2781,3,CZE,Other
+2782,3,CZE,Other
+2783,3,CZE,Other
+2784,3,CZE,Other
+2785,3,CZE,Other
+2786,7,CZE,Other
+2787,3,CZE,Other
+2788,2,CZE,Noname
+2789,3,CZE,Other
+2790,3,CZE,Other
+2791,3,CZE,Other
+2792,3,CZE,Other
+2793,2,CZE,Noname
+2794,3,CZE,Other
+2795,2,CZE,Noname
+2796,3,CZE,Other
+2797,3,CZE,Other
+2798,3,CZE,Other
+2799,25,CZE,"Value for money"
+2800,3,CZE,Other
+2801,25,CZE,"Value for money"
+2802,25,CZE,"Value for money"
+2803,1,CZE,Premium
+2804,15,CZE,Premium
+2805,25,CZE,"Value for money"
+2806,25,CZE,"Value for money"
+2807,3,CZE,Other
+2808,14,CZE,Noname
+2809,2,CZE,Noname
+2810,6,CZE,Premium
+2811,6,CZE,Premium
+2812,6,CZE,Premium
+2813,6,CZE,Premium
+2814,6,CZE,Premium
+2815,6,CZE,Premium
+2816,6,CZE,Premium
+2817,3,CZE,Other
+2818,3,CZE,Other
+2819,35,CZE,Discount
+2820,35,CZE,Discount
+2821,19,CZE,Discount
+2822,41,CZE,Other
+2823,41,CZE,Other
+2824,16,CZE,Other
+2825,26,CZE,Other
+2826,2,CZE,Noname
+2827,3,CZE,Other
+2828,3,CZE,Other
+2829,3,CZE,Other
+2830,3,CZE,Other
+2831,3,CZE,Other
+2832,3,CZE,Other
+2833,3,CZE,Other
+2834,35,CZE,Discount
+2835,19,CZE,Discount
+2836,2,CZE,Noname
+2837,3,CZE,Other
+2838,3,CZE,Other
+2839,3,CZE,Other
+2840,20,CZE,Discount
+2841,20,CZE,Discount
+2842,2,CZE,Noname
+2843,3,CZE,Other
+2844,44,CZE,Other
+2845,16,CZE,Other
+2846,3,CZE,Other
+2847,44,CZE,Other
+2848,3,CZE,Other
+2849,2,CZE,Noname
+2850,3,CZE,Other
+2851,3,CZE,Other
+2852,3,CZE,Other
+2853,3,CZE,Other
+2854,12,CZE,Other
+2855,3,CZE,Other
+2856,3,CZE,Other
+2857,3,CZE,Other
+2858,47,CZE,Other
+2859,2,CZE,Noname
+2860,3,CZE,Other
+2861,25,CZE,"Value for money"
+2862,44,CZE,Other
+2863,3,CZE,Other
+2864,6,CZE,Premium
+2865,6,CZE,Premium
+2866,3,CZE,Other
+2867,3,CZE,Other
+2868,26,CZE,Other
+2869,3,CZE,Other
+2870,16,CZE,Other
+2871,40,CZE,Other
+2872,2,CZE,Noname
+2873,2,CZE,Noname
+2874,2,CZE,Noname
+2875,2,CZE,Noname
+2876,46,CZE,Other
+2877,31,CZE,Premium
+2878,3,CZE,Other
+2879,21,CZE,Discount
+2880,33,CZE,Premium
+2881,8,CZE,"Value for money"
+2882,33,CZE,Premium
+2883,2,CZE,Noname
+2884,33,CZE,Premium
+2885,33,CZE,Premium
+2886,1,CZE,Premium
+2887,3,CZE,Other
+2888,3,CZE,Other
+2889,1,CZE,Premium
+2890,33,CZE,Premium
+2891,33,CZE,Premium
+2892,3,CZE,Other
+2893,2,CZE,Noname
+2894,48,CZE,Noname
+2895,21,CZE,Discount
+2896,21,CZE,Discount
+2897,3,CZE,Other
+2898,3,CZE,Other
+2899,3,CZE,Other
+2900,33,CZE,Premium
+2901,9,CZE,"Value for money"
+2902,33,CZE,Premium
+2903,33,CZE,Premium
+2904,33,CZE,Premium
+2905,30,CZE,Noname
+2906,33,CZE,Premium
+2907,9,CZE,"Value for money"
+2908,33,CZE,Premium
+2909,33,CZE,Premium
+2910,33,CZE,Premium
+2911,33,CZE,Premium
+2912,33,CZE,Premium
+2913,9,CZE,"Value for money"
+2914,33,CZE,Premium
+2915,9,CZE,"Value for money"
+2916,4,CZE,Premium
+2918,3,CZE,Other
+2919,1,CZE,Premium
+2920,3,CZE,Other
+2921,3,CZE,Other
+2922,3,CZE,Other
+2923,19,CZE,Discount
+2924,3,CZE,Other
+2925,3,CZE,Other
+2926,3,CZE,Other
+2927,3,CZE,Other
+2928,3,CZE,Other
+2929,9,CZE,"Value for money"
+2930,33,CZE,Premium
+2931,33,CZE,Premium
+2932,33,CZE,Premium
+2933,33,CZE,Premium
+2934,33,CZE,Premium
+2935,33,CZE,Premium
+2936,33,CZE,Premium
+2937,3,CZE,Other
+2938,3,CZE,Other
+2939,3,CZE,Other
+2940,3,CZE,Other
+2941,2,CZE,Noname
+2942,33,CZE,Premium
+2943,33,CZE,Premium
+2944,3,CZE,Other
+2945,2,CZE,Noname
+2946,3,CZE,Other
+2947,3,CZE,Other
+2948,3,CZE,Other
+2949,3,CZE,Other
+2950,3,CZE,Other
+2951,3,CZE,Other
+2952,33,CZE,Premium
+2953,33,CZE,Premium
+2954,2,CZE,Noname
+2955,30,CZE,Noname
+2956,30,CZE,Noname
+2957,33,CZE,Premium
+2958,2,CZE,Noname
+2959,6,CZE,Premium
+2960,3,CZE,Other
+2961,33,CZE,Premium
+2962,30,CZE,Noname
+2963,33,CZE,Premium
+2964,1,CZE,Premium
+2965,33,CZE,Premium
+2966,33,CZE,Premium
+2967,14,CZE,Noname
+2968,33,CZE,Premium
+2969,33,CZE,Premium
+2970,30,CZE,Noname
+2971,30,CZE,Noname
+2972,2,CZE,Noname
+2973,33,CZE,Premium
+2974,33,CZE,Premium
+2975,2,CZE,Noname
+2976,33,CZE,Premium
+2977,6,CZE,Premium
+2978,4,CZE,Premium
+2979,4,CZE,Premium
+2980,6,CZE,Premium
+2981,6,CZE,Premium
+2982,6,CZE,Premium
+2983,6,CZE,Premium
+2984,33,CZE,Premium
+2985,6,CZE,Premium
+2986,4,CZE,Premium
+2987,6,CZE,Premium
+2988,33,CZE,Premium
+2989,3,CZE,Other
+2990,42,CZE,Other
+2991,20,CZE,Discount
+2992,20,CZE,Discount
+2993,3,CZE,Other
+2994,2,CZE,Noname
+2995,2,CZE,Noname
+2996,2,CZE,Noname
+2997,2,CZE,Noname
+2998,2,CZE,Noname
+2999,2,CZE,Noname
+3000,14,CZE,Noname
+3001,6,CZE,Premium
+3002,6,CZE,Premium
+3003,6,CZE,Premium
+3004,6,CZE,Premium
+3005,2,CZE,Noname
+3006,9,CZE,"Value for money"
+3007,9,CZE,"Value for money"
+3008,33,CZE,Premium
+3009,33,CZE,Premium
+3010,33,CZE,Premium
+3011,33,CZE,Premium
+3012,1,CZE,Premium
+3013,9,CZE,"Value for money"
+3014,9,CZE,"Value for money"
+3015,33,CZE,Premium
+3016,2,CZE,Noname
+3017,33,CZE,Premium
+3018,2,CZE,Noname
+3019,9,CZE,"Value for money"
+3020,2,CZE,Noname
+3021,3,CZE,Other
+3022,3,CZE,Other
+3023,1,CZE,Premium
+3024,2,CZE,Noname
+3025,33,CZE,Premium
+3026,13,CZE,"Value for money"
+3027,3,CZE,Other
+3028,44,CZE,Other
+3029,3,CZE,Other
+3030,3,CZE,Other
+3031,3,CZE,Other
+3032,3,CZE,Other
+3033,3,CZE,Other
+3034,13,CZE,"Value for money"
+3035,9,CZE,"Value for money"
+3036,7,CZE,Other
+3037,3,CZE,Other
+3038,3,CZE,Other
+3039,47,CZE,Other
+3040,9,CZE,"Value for money"
+3041,14,CZE,Noname
+3042,33,CZE,Premium
+3043,13,CZE,"Value for money"
+3044,9,CZE,"Value for money"
+3045,2,CZE,Noname
+3046,13,CZE,"Value for money"
+3047,9,CZE,"Value for money"
+3048,2,CZE,Noname
+3049,2,CZE,Noname
+3050,3,CZE,Other
+3051,3,CZE,Other
+3052,25,CZE,"Value for money"
+3053,25,CZE,"Value for money"
+3054,3,CZE,Other
+3055,23,CZE,Other
+3056,2,CZE,Noname
+3057,13,CZE,"Value for money"
+3058,33,CZE,Premium
+3059,33,CZE,Premium
+3060,9,CZE,"Value for money"
+3061,9,CZE,"Value for money"
+3062,23,CZE,Other
+3063,2,CZE,Noname
+3064,2,CZE,Noname
+3065,3,CZE,Other
+3066,1,CZE,Premium
+3067,33,CZE,Premium
+3068,33,CZE,Premium
+3069,13,CZE,"Value for money"
+3070,2,CZE,Noname
+3071,33,CZE,Premium
+3072,9,CZE,"Value for money"
+3073,33,CZE,Premium
+3074,22,CZE,Other
+3075,3,CZE,Other
+3076,19,CZE,Discount
+3077,19,CZE,Discount
+3078,3,CZE,Other
+3079,3,CZE,Other
+3080,3,CZE,Other
+3081,25,CZE,"Value for money"
+3082,3,CZE,Other
+3083,9,CZE,"Value for money"
+3084,9,CZE,"Value for money"
+3085,33,CZE,Premium
+3086,2,CZE,Noname
+3087,33,CZE,Premium
+3088,2,CZE,Noname
+3089,9,CZE,"Value for money"
+3090,2,CZE,Noname
+3091,35,CZE,Discount
+3092,2,CZE,Noname
+3093,2,CZE,Noname
+3094,2,CZE,Noname
+3095,9,CZE,"Value for money"
+3096,9,CZE,"Value for money"
+3097,2,CZE,Noname
+3098,2,CZE,Noname
+3099,1,CZE,Premium
+3100,1,CZE,Premium
+3101,33,CZE,Premium
+3102,2,CZE,Noname
+3103,2,CZE,Noname
+3104,6,CZE,Premium
+3105,27,CZE,Noname
+3106,1,CZE,Premium
+3107,9,CZE,"Value for money"
+3108,2,CZE,Noname
+3109,4,CZE,Premium
+3110,1,CZE,Premium
+3111,13,CZE,"Value for money"
+3112,2,CZE,Noname
+3113,1,CZE,Premium
+3114,29,CZE,Premium
+3115,4,CZE,Premium
+3116,1,CZE,Premium
+3117,1,CZE,Premium
+3118,1,CZE,Premium
+3119,32,CZE,Other
+3120,9,CZE,"Value for money"
+3121,4,CZE,Premium
+3122,2,CZE,Noname
+3123,1,CZE,Premium
+3124,1,CZE,Premium
+3125,1,CZE,Premium
+3126,4,CZE,Premium
+3127,2,CZE,Noname
+3128,2,CZE,Noname
+3129,2,CZE,Noname
+3130,2,CZE,Noname
+3131,2,CZE,Noname
+3132,2,CZE,Noname
+3133,33,CZE,Premium
+3134,4,CZE,Premium
+3135,33,CZE,Premium
+3136,24,CZE,Discount
+3137,24,CZE,Discount
+3138,4,CZE,Premium
+3139,13,CZE,"Value for money"
+3140,33,CZE,Premium
+3141,9,CZE,"Value for money"
+3142,9,CZE,"Value for money"
+3143,32,CZE,Other
+3144,35,CZE,Discount
+3145,1,CZE,Premium
+3146,6,CZE,Premium
+3147,6,CZE,Premium
+3148,6,CZE,Premium
+3149,6,CZE,Premium
+3150,6,CZE,Premium
+3151,3,CZE,Other
+3152,6,CZE,Premium
+3153,6,CZE,Premium
+3154,3,CZE,Other
+3155,3,CZE,Other
+3156,2,CZE,Noname
+3157,3,CZE,Other
+3158,3,CZE,Other
+3159,3,CZE,Other
+3160,3,CZE,Other
+3161,25,CZE,"Value for money"
+3162,25,CZE,"Value for money"
+3163,26,CZE,Other
+3164,25,CZE,"Value for money"
+3165,3,CZE,Other
+3166,3,CZE,Other
+3167,3,CZE,Other
+3168,3,CZE,Other
+3169,2,CZE,Noname
+3170,34,CZE,Other
+3171,3,CZE,Other
+3172,2,CZE,Noname
+3173,6,CZE,Premium
+3174,11,CZE,"Value for money"
+3175,1,CZE,Premium
+3176,2,CZE,Noname
+3177,2,CZE,Noname
+3178,3,CZE,Other
+3179,3,CZE,Other
+3180,3,CZE,Other
+3181,10,CZE,Other
+3182,3,CZE,Other
+3183,3,CZE,Other
+3184,16,CZE,Other
+3185,3,CZE,Other
+3186,2,CZE,Noname
+3187,3,CZE,Other
+3188,4,CZE,Premium
+3189,4,CZE,Premium
+3190,4,CZE,Premium
+3191,3,CZE,Other
+3192,3,CZE,Other
+3193,3,CZE,Other
+3194,1,CZE,Premium
+3195,21,CZE,Discount
+3196,3,CZE,Other
+3197,6,CZE,Premium
+3198,2,CZE,Noname
+3199,3,CZE,Other
+3200,16,CZE,Other
+3201,3,CZE,Other
+3202,3,CZE,Other
+3203,6,CZE,Premium
+3204,6,CZE,Premium
+3205,36,CZE,Other
+3206,3,CZE,Other
+3207,3,CZE,Other
+3208,3,CZE,Other
+3209,7,CZE,Other
+3210,7,CZE,Other
+3211,2,CZE,Noname
+3212,47,CZE,Other
+3213,47,CZE,Other
+3214,3,CZE,Other
+3215,3,CZE,Other
+3216,24,CZE,Discount
+3217,3,CZE,Other
+3218,3,CZE,Other
+3219,14,CZE,Noname
+3220,6,CZE,Premium
+3221,21,CZE,Discount
+3222,21,CZE,Discount
+3223,3,CZE,Other
+3224,1,CZE,Premium
+3225,21,CZE,Discount
+3226,2,CZE,Noname
+3227,3,CZE,Other
+3228,3,CZE,Other
+3229,3,CZE,Other
+3230,2,CZE,Noname
+3231,3,CZE,Other
+3232,3,CZE,Other
+3233,48,CZE,Noname
+3234,21,CZE,Discount
+3235,3,CZE,Other
+3236,27,CZE,Noname
+3237,3,CZE,Other
+3238,3,CZE,Other
+3239,2,CZE,Noname
+3240,15,CZE,Premium
+3241,6,CZE,Premium
+3242,4,CZE,Premium
+3243,33,CZE,Premium
+3244,2,CZE,Noname
+3245,4,CZE,Premium
+3246,2,CZE,Noname
+3247,2,CZE,Noname
+3248,2,CZE,Noname
+3249,21,CZE,Discount
+3250,24,CZE,Discount
+3251,24,CZE,Discount
+3252,2,CZE,Noname
+3253,13,CZE,"Value for money"
+3254,26,CZE,Other
+3255,24,CZE,Discount
+3256,1,CZE,Premium
+3257,13,CZE,"Value for money"
+3258,6,CZE,Premium
+3259,4,CZE,Premium
+3260,4,CZE,Premium
+3261,4,CZE,Premium
+3262,4,CZE,Premium
+3263,33,CZE,Premium
+3264,33,CZE,Premium
+3265,9,CZE,"Value for money"
+3266,9,CZE,"Value for money"
+3267,9,CZE,"Value for money"
+3268,31,CZE,Premium
+3269,2,CZE,Noname
+3270,1,CZE,Premium
+3271,1,CZE,Premium
+3272,1,CZE,Premium
+3273,2,CZE,Noname
+3274,9,CZE,"Value for money"
+3275,9,CZE,"Value for money"
+3276,9,CZE,"Value for money"
+3277,9,CZE,"Value for money"
+3278,2,CZE,Noname
+3279,33,CZE,Premium
+3280,6,CZE,Premium
+3281,8,CZE,"Value for money"
+3282,13,CZE,"Value for money"
+3283,2,CZE,Noname
+3284,6,CZE,Premium
+3285,4,CZE,Premium
+3286,4,CZE,Premium
+3287,4,CZE,Premium
+3288,4,CZE,Premium
+3289,1,CZE,Premium
+3290,32,CZE,Other
+3291,2,CZE,Noname
+3292,6,CZE,Premium
+3293,2,CZE,Noname
+3294,2,CZE,Noname
+3295,11,CZE,"Value for money"
+3296,2,CZE,Noname
+3297,2,CZE,Noname
+3298,24,CZE,Discount
+3299,1,CZE,Premium
+3300,35,CZE,Discount
+3301,35,CZE,Discount
+3302,2,CZE,Noname
+3303,30,CZE,Noname
+3304,2,CZE,Noname
+3305,4,CZE,Premium
+3306,2,CZE,Noname
+3307,1,CZE,Premium
+3308,11,CZE,"Value for money"
+3309,2,CZE,Noname
+3310,1,CZE,Premium
+3311,1,CZE,Premium
+3312,2,CZE,Noname
+3313,4,CZE,Premium
+3314,4,CZE,Premium
+3315,2,CZE,Noname
+3316,13,CZE,"Value for money"
+3317,35,CZE,Discount
+3318,4,CZE,Premium
+3319,4,CZE,Premium
+3320,4,CZE,Premium
+3321,33,CZE,Premium
+3322,33,CZE,Premium
+3323,1,CZE,Premium
+3324,1,CZE,Premium
+3325,6,CZE,Premium
+3326,6,CZE,Premium
+3327,4,CZE,Premium
+3328,33,CZE,Premium
+3329,4,CZE,Premium
+3330,2,CZE,Noname
+3331,2,CZE,Noname
+3332,33,CZE,Premium
+3333,2,CZE,Noname
+3334,2,CZE,Noname
+3335,2,CZE,Noname
+3336,2,CZE,Noname
+3337,2,CZE,Noname
+3338,2,CZE,Noname
+3339,2,CZE,Noname
+3340,2,CZE,Noname
+3341,2,CZE,Noname
+3342,2,CZE,Noname
+3343,2,CZE,Noname
+3344,2,CZE,Noname
+3345,2,CZE,Noname
+3346,2,CZE,Noname
+3347,2,CZE,Noname
+3348,2,CZE,Noname
+3349,2,CZE,Noname
+3350,2,CZE,Noname
+3351,2,CZE,Noname
+3352,2,CZE,Noname
+3353,2,CZE,Noname
+3354,2,CZE,Noname
+3355,7,CZE,Other
+3356,7,CZE,Other
+3357,7,CZE,Other
+3358,7,CZE,Other
+3359,7,CZE,Other
+3360,7,CZE,Other
+3361,7,CZE,Other
+3362,7,CZE,Other
+3363,7,CZE,Other
+3364,7,CZE,Other
+3365,7,CZE,Other
+3366,242,CZE,Other
+3367,2,CZE,Noname
+3368,14,CZE,Noname
+3369,2,CZE,Noname
+3370,33,CZE,Premium
+3371,33,CZE,Premium
+3372,2,CZE,Noname
+3373,24,CZE,Discount
+3374,1,CZE,Premium
+3375,1,CZE,Premium
+3376,1,CZE,Premium
+3377,9,CZE,"Value for money"
+3378,35,CZE,Discount
+3379,1,CZE,Premium
+3380,6,CZE,Premium
+3381,2,CZE,Noname
+3382,8,CZE,"Value for money"
+3383,33,CZE,Premium
+3384,1,CZE,Premium
+3385,15,CZE,Premium
+3386,30,CZE,Noname
+3387,8,CZE,"Value for money"
+3388,8,CZE,"Value for money"
+3389,2,CZE,Noname
+3390,13,CZE,"Value for money"
+3391,33,CZE,Premium
+3392,2,CZE,Noname
+3393,11,CZE,"Value for money"
+3394,2,CZE,Noname
+3395,13,CZE,"Value for money"
+3396,4,CZE,Premium
+3397,4,CZE,Premium
+3398,35,CZE,Discount
+3399,2,CZE,Noname
+3400,35,CZE,Discount
+3401,8,CZE,"Value for money"
+3402,2,CZE,Noname
+3403,8,CZE,"Value for money"
+3404,6,CZE,Premium
+3405,1,CZE,Premium
+3406,8,CZE,"Value for money"
+3407,4,CZE,Premium
+3408,9,CZE,"Value for money"
+3409,2,CZE,Noname
+3410,1,CZE,Premium
+3411,4,CZE,Premium
+3412,4,CZE,Premium
+3413,8,CZE,"Value for money"
+3414,2,CZE,Noname
+3415,8,CZE,"Value for money"
+3416,2,CZE,Noname
+3417,2,CZE,Noname
+3418,2,CZE,Noname
+3419,33,CZE,Premium
+3420,2,CZE,Noname
+3421,13,CZE,"Value for money"
+3422,1,CZE,Premium
+3423,9,CZE,"Value for money"
+3424,9,CZE,"Value for money"
+3425,2,CZE,Noname
+3426,2,CZE,Noname
+3427,11,CZE,"Value for money"
+3428,13,CZE,"Value for money"
+3429,11,CZE,"Value for money"
+3430,33,CZE,Premium
+3431,2,CZE,Noname
+3432,1,CZE,Premium
+3433,1,CZE,Premium
+3434,13,CZE,"Value for money"
+3436,13,CZE,"Value for money"
+3437,9,CZE,"Value for money"
+3438,33,CZE,Premium
+3439,4,CZE,Premium
+3440,2,CZE,Noname
+3441,6,CZE,Premium
+3442,6,CZE,Premium
+3443,6,CZE,Premium
+3444,8,CZE,"Value for money"
+3445,33,CZE,Premium
+3446,33,CZE,Premium
+3447,33,CZE,Premium
+3448,2,CZE,Noname
+3449,2,CZE,Noname
+3450,35,CZE,Discount
+3451,35,CZE,Discount
+3452,33,CZE,Premium
+3453,1,CZE,Premium
+3454,1,CZE,Premium
+3455,11,CZE,"Value for money"
+3456,2,CZE,Noname
+3457,2,CZE,Noname
+3458,1,CZE,Premium
+3459,2,CZE,Noname
+3460,30,CZE,Noname
+3461,1,CZE,Premium
+3462,33,CZE,Premium
+3463,13,CZE,"Value for money"
+3464,4,CZE,Premium
+3465,4,CZE,Premium
+3466,1,CZE,Premium
+3467,1,CZE,Premium
+3468,4,CZE,Premium
+3469,22,CZE,Other
+3470,33,CZE,Premium
+3471,1,CZE,Premium
+3472,1,CZE,Premium
+3473,31,CZE,Premium
+3474,2,CZE,Noname
+3475,1,CZE,Premium
+3476,1,CZE,Premium
+3477,1,CZE,Premium
+3478,2,CZE,Noname
+3479,13,CZE,"Value for money"
+3480,2,CZE,Noname
+3481,13,CZE,"Value for money"
+3482,2,CZE,Noname
+3483,22,CZE,Other
+3484,4,CZE,Premium
+3485,2,CZE,Noname
+3486,8,CZE,"Value for money"
+3487,14,CZE,Noname
+3488,2,CZE,Noname
+3489,6,CZE,Premium
+3490,2,CZE,Noname
+3491,33,CZE,Premium
+3492,2,CZE,Noname
+3493,2,CZE,Noname
+3494,2,CZE,Noname
+3495,2,CZE,Noname
+3496,9,CZE,"Value for money"
+3497,2,CZE,Noname
+3498,6,CZE,Premium
+3499,35,CZE,Discount
+3500,1,CZE,Premium
+3501,1,CZE,Premium
+3502,24,CZE,Discount
+3503,2,CZE,Noname
+3504,4,CZE,Premium
+3505,1,CZE,Premium
+3506,1,CZE,Premium
+3507,2,CZE,Noname
+3508,25,CZE,"Value for money"
+3509,2,CZE,Noname
+3510,13,CZE,"Value for money"
+3511,8,CZE,"Value for money"
+3512,8,CZE,"Value for money"
+3513,1,CZE,Premium
+3514,1,CZE,Premium
+3515,6,CZE,Premium
+3516,2,CZE,Noname
+3517,33,CZE,Premium
+3518,6,CZE,Premium
+3519,6,CZE,Premium
+3520,6,CZE,Premium
+3521,6,CZE,Premium
+3522,6,CZE,Premium
+3523,1,CZE,Premium
+3524,1,CZE,Premium
+3525,2,CZE,Noname
+3526,35,CZE,Discount
+3527,1,CZE,Premium
+3528,8,CZE,"Value for money"
+3529,8,CZE,"Value for money"
+3530,13,CZE,"Value for money"
+3531,13,CZE,"Value for money"
+3532,13,CZE,"Value for money"
+3533,2,CZE,Noname
+3534,4,CZE,Premium
+3535,1,CZE,Premium
+3536,1,CZE,Premium
+3537,2,CZE,Noname
+3538,1,CZE,Premium
+3539,13,CZE,"Value for money"
+3540,13,CZE,"Value for money"
+3541,6,CZE,Premium
+3542,2,CZE,Noname
+3543,13,CZE,"Value for money"
+3544,2,CZE,Noname
+3546,6,CZE,Premium
+3547,6,CZE,Premium
+3548,13,CZE,"Value for money"
+3549,33,CZE,Premium
+3550,8,CZE,"Value for money"
+3551,33,CZE,Premium
+3552,9,CZE,"Value for money"
+3553,4,CZE,Premium
+3554,8,CZE,"Value for money"
+3555,1,CZE,Premium
+3556,4,CZE,Premium
+3557,4,CZE,Premium
+3558,2,CZE,Noname
+3559,33,CZE,Premium
+3560,13,CZE,"Value for money"
+3561,6,CZE,Premium
+3562,6,CZE,Premium
+3563,6,CZE,Premium
+3564,24,CZE,Discount
+3565,13,CZE,"Value for money"
+3566,4,CZE,Premium
+3567,35,CZE,Discount
+3568,4,CZE,Premium
+3569,1,CZE,Premium
+3570,1,CZE,Premium
+3571,1,CZE,Premium
+3572,1,CZE,Premium
+3573,1,CZE,Premium
+3574,1,CZE,Premium
+3575,1,CZE,Premium
+3576,30,CZE,Noname
+3577,1,CZE,Premium
+3578,6,CZE,Premium
+3579,6,CZE,Premium
+3580,2,CZE,Noname
+3581,1,CZE,Premium
+3582,2,CZE,Noname
+3583,2,CZE,Noname
+3584,13,CZE,"Value for money"
+3585,13,CZE,"Value for money"
+3586,6,CZE,Premium
+3587,6,CZE,Premium
+3588,6,CZE,Premium
+3589,4,CZE,Premium
+3590,1,CZE,Premium
+3591,26,CZE,Other
+3592,2,CZE,Noname
+3593,9,CZE,"Value for money"
+3594,4,CZE,Premium
+3595,31,CZE,Premium
+3596,21,CZE,Discount
+3597,21,CZE,Discount
+3599,2,CZE,Noname
+3600,4,CZE,Premium
+3601,4,CZE,Premium
+3602,4,CZE,Premium
+3603,2,CZE,Noname
+3604,4,CZE,Premium
+3605,2,CZE,Noname
+3606,24,CZE,Discount
+3607,8,CZE,"Value for money"
+3608,6,CZE,Premium
+3609,6,CZE,Premium
+3610,6,CZE,Premium
+3611,6,CZE,Premium
+3612,13,CZE,"Value for money"
+3613,2,CZE,Noname
+3614,33,CZE,Premium
+3615,2,CZE,Noname
+3616,4,CZE,Premium
+3617,4,CZE,Premium
+3618,4,CZE,Premium
+3619,2,CZE,Noname
+3620,13,CZE,"Value for money"
+3621,4,CZE,Premium
+3622,35,CZE,Discount
+3623,1,CZE,Premium
+3624,1,CZE,Premium
+3625,1,CZE,Premium
+3626,6,CZE,Premium
+3627,6,CZE,Premium
+3628,6,CZE,Premium
+3629,4,CZE,Premium
+3630,4,CZE,Premium
+3631,6,CZE,Premium
+3632,1,CZE,Premium
+3633,1,CZE,Premium
+3634,24,CZE,Discount
+3635,24,CZE,Discount
+3636,2,CZE,Noname
+3637,2,CZE,Noname
+3638,1,CZE,Premium
+3639,8,CZE,"Value for money"
+3640,2,CZE,Noname
+3641,2,CZE,Noname
+3642,2,CZE,Noname
+3643,11,CZE,"Value for money"
+3644,33,CZE,Premium
+3645,2,CZE,Noname
+3646,21,CZE,Discount
+3647,21,CZE,Discount
+3648,35,CZE,Discount
+3649,14,CZE,Noname
+3650,2,CZE,Noname
+3651,1,CZE,Premium
+3652,1,CZE,Premium
+3653,2,CZE,Noname
+3654,2,CZE,Noname
+3655,35,CZE,Discount
+3656,33,CZE,Premium
+3657,33,CZE,Premium
+3658,33,CZE,Premium
+3659,2,CZE,Noname
+3660,4,CZE,Premium
+3661,2,CZE,Noname
+3662,2,CZE,Noname
+3663,11,CZE,"Value for money"
+3664,11,CZE,"Value for money"
+3665,2,CZE,Noname
+3666,1,CZE,Premium
+3667,1,CZE,Premium
+3668,2,CZE,Noname
+3669,4,CZE,Premium
+3670,4,CZE,Premium
+3671,8,CZE,"Value for money"
+3672,8,CZE,"Value for money"
+3673,6,CZE,Premium
+3674,1,CZE,Premium
+3675,1,CZE,Premium
+3676,1,CZE,Premium
+3677,1,CZE,Premium
+3678,13,CZE,"Value for money"
+3679,2,CZE,Noname
+3680,24,CZE,Discount
+3681,19,CZE,Discount
+3682,19,CZE,Discount
+3683,19,CZE,Discount
+3684,9,CZE,"Value for money"
+3685,2,CZE,Noname
+3686,21,CZE,Discount
+3687,21,CZE,Discount
+3688,22,CZE,Other
+3689,6,CZE,Premium
+3690,13,CZE,"Value for money"
+3691,2,CZE,Noname
+3692,2,CZE,Noname
+3693,35,CZE,Discount
+3694,35,CZE,Discount
+3695,4,CZE,Premium
+3696,13,CZE,"Value for money"
+3697,1,CZE,Premium
+3698,2,CZE,Noname
+3699,2,CZE,Noname
+3700,2,CZE,Noname
+3701,6,CZE,Premium
+3702,1,CZE,Premium
+3703,4,CZE,Premium
+3704,4,CZE,Premium
+3705,2,CZE,Noname
+3706,33,CZE,Premium
+3707,4,CZE,Premium
+3708,2,CZE,Noname
+3709,2,CZE,Noname
+3710,2,CZE,Noname
+3711,8,CZE,"Value for money"
+3712,6,CZE,Premium
+3713,1,CZE,Premium
+3714,1,CZE,Premium
+3715,2,CZE,Noname
+3716,2,CZE,Noname
+3717,2,CZE,Noname
+3718,6,CZE,Premium
+3719,1,CZE,Premium
+3720,2,CZE,Noname
+3721,2,CZE,Noname
+3722,1,CZE,Premium
+3723,6,CZE,Premium
+3724,2,CZE,Noname
+3725,4,CZE,Premium
+3726,6,CZE,Premium
+3727,6,CZE,Premium
+3728,6,CZE,Premium
+3729,6,CZE,Premium
+3730,2,CZE,Noname
+3731,6,CZE,Premium
+3732,6,CZE,Premium
+3733,13,CZE,"Value for money"
+3734,9,CZE,"Value for money"
+3735,2,CZE,Noname
+3736,4,CZE,Premium
+3737,2,CZE,Noname
+3738,2,CZE,Noname
+3739,2,CZE,Noname
+3740,4,CZE,Premium
+3741,33,CZE,Premium
+3742,21,CZE,Discount
+3743,21,CZE,Discount
+3744,13,CZE,"Value for money"
+3745,2,CZE,Noname
+3746,6,CZE,Premium
+3747,25,CZE,"Value for money"
+3748,4,CZE,Premium
+3749,2,CZE,Noname
+3750,35,CZE,Discount
+3751,31,CZE,Premium
+3752,21,CZE,Discount
+3753,2,CZE,Noname
+3754,6,CZE,Premium
+3755,6,CZE,Premium
+3756,8,CZE,"Value for money"
+3757,1,CZE,Premium
+3758,32,CZE,Other
+3759,2,CZE,Noname
+3760,6,CZE,Premium
+3761,19,CZE,Discount
+3762,19,CZE,Discount
+3763,19,CZE,Discount
+3764,2,CZE,Noname
+3765,2,CZE,Noname
+3766,31,CZE,Premium
+3767,2,CZE,Noname
+3768,32,CZE,Other
+3769,2,CZE,Noname
+3770,4,CZE,Premium
+3771,35,CZE,Discount
+3772,35,CZE,Discount
+3773,2,CZE,Noname
+3774,2,CZE,Noname
+3775,19,CZE,Discount
+3776,9,CZE,"Value for money"
+3777,2,CZE,Noname
+3778,9,CZE,"Value for money"
+3779,1,CZE,Premium
+3780,6,CZE,Premium
+3781,4,CZE,Premium
+3782,2,CZE,Noname
+3783,2,CZE,Noname
+3784,2,CZE,Noname
+3785,1,CZE,Premium
+3786,25,CZE,"Value for money"
+3787,25,CZE,"Value for money"
+3788,9,CZE,"Value for money"
+3789,25,CZE,"Value for money"
+3790,25,CZE,"Value for money"
+3791,2,CZE,Noname
+3792,2,CZE,Noname
+3793,31,CZE,Premium
+3794,31,CZE,Premium
+3795,2,CZE,Noname
+3796,2,CZE,Noname
+3797,11,CZE,"Value for money"
+3798,13,CZE,"Value for money"
+3799,11,CZE,"Value for money"
+3800,2,CZE,Noname
+3801,2,CZE,Noname
+3802,6,CZE,Premium
+3803,2,CZE,Noname
+3804,6,CZE,Premium
+3805,6,CZE,Premium
+3806,6,CZE,Premium
+3807,14,CZE,Noname
+3808,2,CZE,Noname
+3809,2,CZE,Noname
+3810,2,CZE,Noname
+3811,32,CZE,Other
+3812,2,CZE,Noname
+3813,2,CZE,Noname
+3814,2,CZE,Noname
+3815,6,CZE,Premium
+3816,2,CZE,Noname
+3817,2,CZE,Noname
+3818,2,CZE,Noname
+3819,2,CZE,Noname
+3820,1,CZE,Premium
+3821,1,CZE,Premium
+3822,2,CZE,Noname
+3823,2,CZE,Noname
+3824,1,CZE,Premium
+3825,6,CZE,Premium
+3826,2,CZE,Noname
+3827,2,CZE,Noname
+3828,1,CZE,Premium
+3829,2,CZE,Noname
+3830,2,CZE,Noname
+3831,2,CZE,Noname
+3832,2,CZE,Noname
+3833,19,CZE,Discount
+3834,2,CZE,Noname
+3835,2,CZE,Noname
+3836,2,CZE,Noname
+3837,2,CZE,Noname
+3838,24,CZE,Discount
+3839,26,CZE,Other
+3840,2,CZE,Noname
+3841,19,CZE,Discount
+3842,2,CZE,Noname
+3843,1,CZE,Premium
+3844,2,CZE,Noname
+3845,31,CZE,Premium
+3846,2,CZE,Noname
+3847,14,CZE,Noname
+3848,2,CZE,Noname
+3849,2,CZE,Noname
+3850,2,CZE,Noname
+3851,2,CZE,Noname
+3852,26,CZE,Other
+3853,2,CZE,Noname
+3854,2,CZE,Noname
+3855,2,CZE,Noname
+3856,1,CZE,Premium
+3857,20,CZE,Discount
+3858,20,CZE,Discount
+3859,20,CZE,Discount
+3860,2,CZE,Noname
+3861,2,CZE,Noname
+3862,2,CZE,Noname
+3863,2,CZE,Noname
+3864,2,CZE,Noname
+3865,22,CZE,Other
+3866,2,CZE,Noname
+3867,2,CZE,Noname
+3868,6,CZE,Premium
+3869,6,CZE,Premium
+3870,2,CZE,Noname
+3871,33,CZE,Premium
+3872,1,CZE,Premium
+3873,2,CZE,Noname
+3874,2,CZE,Noname
+3875,2,CZE,Noname
+3876,2,CZE,Noname
+3877,2,CZE,Noname
+3878,20,CZE,Discount
+3879,20,CZE,Discount
+3880,19,CZE,Discount
+3881,2,CZE,Noname
+3882,2,CZE,Noname
+3883,9,CZE,"Value for money"
+3884,9,CZE,"Value for money"
+3885,8,CZE,"Value for money"
+3886,6,CZE,Premium
+3887,2,CZE,Noname
+3888,2,CZE,Noname
+3889,2,CZE,Noname
+3890,2,CZE,Noname
+3891,2,CZE,Noname
+3892,20,CZE,Discount
+3893,2,CZE,Noname
+3894,2,CZE,Noname
+3895,2,CZE,Noname
+3896,8,CZE,"Value for money"
+3897,19,CZE,Discount
+3898,19,CZE,Discount
+3899,4,CZE,Premium
+3900,35,CZE,Discount
+3901,2,CZE,Noname
+3902,2,CZE,Noname
+3903,19,CZE,Discount
+3904,2,CZE,Noname
+3905,2,CZE,Noname
+3906,2,CZE,Noname
+3907,32,CZE,Other
+3908,2,CZE,Noname
+3909,15,CZE,Premium
+3910,1,CZE,Premium
+3911,2,CZE,Noname
+3912,9,CZE,"Value for money"
+3913,2,CZE,Noname
+3914,2,CZE,Noname
+3915,2,CZE,Noname
+3916,25,CZE,"Value for money"
+3917,2,CZE,Noname
+3918,34,CZE,Other
+3919,2,CZE,Noname
+3920,6,CZE,Premium
+3921,2,CZE,Noname
+3922,33,CZE,Premium
+3923,4,CZE,Premium
+3924,14,CZE,Noname
+3925,25,CZE,"Value for money"
+3926,19,CZE,Discount
+3927,20,CZE,Discount
+3928,20,CZE,Discount
+3929,2,CZE,Noname
+3930,2,CZE,Noname
+3931,2,CZE,Noname
+3932,2,CZE,Noname
+3933,27,CZE,Noname
+3934,2,CZE,Noname
+3935,2,CZE,Noname
+3936,31,CZE,Premium
+3937,1,CZE,Premium
+3938,24,CZE,Discount
+3939,2,CZE,Noname
+3940,2,CZE,Noname
+3941,2,CZE,Noname
+3942,20,CZE,Discount
+3943,1,CZE,Premium
+3944,25,CZE,"Value for money"
+3945,2,CZE,Noname
+3946,2,CZE,Noname
+3947,6,CZE,Premium
+3948,32,CZE,Other
+3949,30,CZE,Noname
+3950,2,CZE,Noname
+3951,7,CZE,Other
+3952,7,CZE,Other
+3953,16,CZE,Other
+3954,16,CZE,Other
+3955,16,CZE,Other
+3956,16,CZE,Other
+3957,48,CZE,Noname
+3958,48,CZE,Noname
+3959,48,CZE,Noname
+3960,48,CZE,Noname
+3961,48,CZE,Noname
+3962,48,CZE,Noname
+3963,48,CZE,Noname
+3964,48,CZE,Noname
+3965,48,CZE,Noname
+3966,48,CZE,Noname
+3967,48,CZE,Noname
+3968,16,CZE,Other
+3969,16,CZE,Other
+3970,16,CZE,Other
+3971,16,CZE,Other
+3972,16,CZE,Other
+3973,16,CZE,Other
+3974,16,CZE,Other
+3975,16,CZE,Other
+3976,16,CZE,Other
+3977,16,CZE,Other
+3978,16,CZE,Other
+3979,16,CZE,Other
+3980,16,CZE,Other
+3981,16,CZE,Other
+3982,16,CZE,Other
+3983,16,CZE,Other
+3984,16,CZE,Other
+3985,16,CZE,Other
+3986,16,CZE,Other
+3987,16,CZE,Other
+3988,16,CZE,Other
+3989,16,CZE,Other
+3990,16,CZE,Other
+3991,16,CZE,Other
+3992,49,CZE,Other
+3993,49,CZE,Other
+3994,49,CZE,Other
+3995,2,CZE,Noname
+3996,2,CZE,Noname
+3997,10,CZE,Other
+3998,10,CZE,Other
+3999,10,CZE,Other
+4000,10,CZE,Other
+4001,10,CZE,Other
+4002,10,CZE,Other
+4003,10,CZE,Other
+4004,10,CZE,Other
+4005,10,CZE,Other
+4006,10,CZE,Other
+4007,10,CZE,Other
+4008,10,CZE,Other
+4009,10,CZE,Other
+4010,10,CZE,Other
+4011,10,CZE,Other
+4012,10,CZE,Other
+4013,10,CZE,Other
+4014,10,CZE,Other
+4015,10,CZE,Other
+4016,10,CZE,Other
+4017,10,CZE,Other
+4018,10,CZE,Other
+4019,10,CZE,Other
+4020,10,CZE,Other
+4021,10,CZE,Other
+4022,36,CZE,Other
+4023,36,CZE,Other
+4024,36,CZE,Other
+4025,36,CZE,Other
+4026,36,CZE,Other
+4027,36,CZE,Other
+4028,36,CZE,Other
+4029,36,CZE,Other
+4030,36,CZE,Other
+4031,36,CZE,Other
+4032,36,CZE,Other
+4033,36,CZE,Other
+4034,3,CZE,Other
+4035,3,CZE,Other
+4036,3,CZE,Other
+4037,3,CZE,Other
+4038,3,CZE,Other
+4039,3,CZE,Other
+4040,3,CZE,Other
+4041,3,CZE,Other
+4042,3,CZE,Other
+4043,3,CZE,Other
+4044,3,CZE,Other
+4045,3,CZE,Other
+4046,3,CZE,Other
+4047,3,CZE,Other
+4048,3,CZE,Other
+4049,3,CZE,Other
+4050,3,CZE,Other
+4051,38,CZE,Other
+4052,38,CZE,Other
+4053,3,CZE,Other
+4054,3,CZE,Other
+4055,40,CZE,Other
+4056,40,CZE,Other
+4057,40,CZE,Other
+4058,3,CZE,Other
+4059,3,CZE,Other
+4060,3,CZE,Other
+4061,3,CZE,Other
+4062,3,CZE,Other
+4063,3,CZE,Other
+4064,41,CZE,Other
+4065,41,CZE,Other
+4066,41,CZE,Other
+4067,41,CZE,Other
+4068,41,CZE,Other
+4069,3,CZE,Other
+4070,3,CZE,Other
+4071,3,CZE,Other
+4072,3,CZE,Other
+4073,3,CZE,Other
+4074,3,CZE,Other
+4075,3,CZE,Other
+4076,3,CZE,Other
+4077,3,CZE,Other
+4078,3,CZE,Other
+4079,3,CZE,Other
+4080,3,CZE,Other
+4081,3,CZE,Other
+4082,36,CZE,Other
+4083,36,CZE,Other
+4084,3,CZE,Other
+4085,3,CZE,Other
+4086,3,CZE,Other
+4087,3,CZE,Other
+4088,3,CZE,Other
+4089,3,CZE,Other
+4090,3,CZE,Other
+4091,38,CZE,Other
+4092,3,CZE,Other
+4093,3,CZE,Other
+4094,43,CZE,Other
+4095,3,CZE,Other
+4096,3,CZE,Other
+4097,3,CZE,Other
+4098,3,CZE,Other
+4099,3,CZE,Other
+4100,3,CZE,Other
+4101,3,CZE,Other
+4102,3,CZE,Other
+4103,3,CZE,Other
+4104,3,CZE,Other
+4105,3,CZE,Other
+4106,3,CZE,Other
+4107,3,CZE,Other
+4108,3,CZE,Other
+4109,3,CZE,Other
+4110,3,CZE,Other
+4111,3,CZE,Other
+4112,3,CZE,Other
+4113,3,CZE,Other
+4114,3,CZE,Other
+4115,3,CZE,Other
+4116,3,CZE,Other
+4117,3,CZE,Other
+4118,3,CZE,Other
+4119,3,CZE,Other
+4120,3,CZE,Other
+4121,3,CZE,Other
+4122,3,CZE,Other
+4123,3,CZE,Other
+4124,3,CZE,Other
+4125,3,CZE,Other
+4126,3,CZE,Other
+4127,44,CZE,Other
+4128,44,CZE,Other
+4129,3,CZE,Other
+4130,3,CZE,Other
+4131,3,CZE,Other
+4132,3,CZE,Other
+4133,3,CZE,Other
+4134,3,CZE,Other
+4135,3,CZE,Other
+4136,3,CZE,Other
+4137,3,CZE,Other
+4138,3,CZE,Other
+4139,3,CZE,Other
+4140,3,CZE,Other
+4141,3,CZE,Other
+4142,3,CZE,Other
+4143,3,CZE,Other
+4144,3,CZE,Other
+4145,3,CZE,Other
+4146,45,CZE,Other
+4147,3,CZE,Other
+4148,3,CZE,Other
+4149,3,CZE,Other
+4150,3,CZE,Other
+4151,3,CZE,Other
+4152,3,CZE,Other
+4153,3,CZE,Other
+4154,3,CZE,Other
+4155,3,CZE,Other
+4156,3,CZE,Other
+4157,3,CZE,Other
+4158,3,CZE,Other
+4159,3,CZE,Other
+4160,3,CZE,Other
+4161,3,CZE,Other
+4162,3,CZE,Other
+4163,3,CZE,Other
+4164,3,CZE,Other
+4165,3,CZE,Other
+4166,3,CZE,Other
+4167,3,CZE,Other
+4168,3,CZE,Other
+4169,3,CZE,Other
+4170,3,CZE,Other
+4171,3,CZE,Other
+4172,3,CZE,Other
+4173,3,CZE,Other
+4174,3,CZE,Other
+4175,36,CZE,Other
+4176,3,CZE,Other
+4177,3,CZE,Other
+4178,3,CZE,Other
+4179,3,CZE,Other
+4180,3,CZE,Other
+4181,3,CZE,Other
+4182,46,CZE,Other
+4183,3,CZE,Other
+4184,3,CZE,Other
+4185,3,CZE,Other
+4186,3,CZE,Other
+4187,3,CZE,Other
+4188,3,CZE,Other
+4189,3,CZE,Other
+4190,3,CZE,Other
+4191,3,CZE,Other
+4192,3,CZE,Other
+4193,3,CZE,Other
+4194,3,CZE,Other
+4195,3,CZE,Other
+4196,3,CZE,Other
+4197,3,CZE,Other
+4198,3,CZE,Other
+4199,10,CZE,Other
+4200,3,CZE,Other
+4201,3,CZE,Other
+4202,10,CZE,Other
+4203,10,CZE,Other
+4204,10,CZE,Other
+4205,3,CZE,Other
+4206,3,CZE,Other
+4207,3,CZE,Other
+4208,3,CZE,Other
+4209,49,CZE,Other
+4210,3,CZE,Other
+4211,3,CZE,Other
+4212,3,CZE,Other
+4213,2,CZE,Noname
+4214,2,CZE,Noname
+4215,3,CZE,Other
+4216,3,CZE,Other
+4217,3,CZE,Other
+4218,3,CZE,Other
+4219,2,CZE,Noname
+4220,3,CZE,Other
+4221,2,CZE,Noname
+4222,3,CZE,Other
+4223,3,CZE,Other
+4224,3,CZE,Other
+4225,3,CZE,Other
+4226,7,CZE,Other
+4227,7,CZE,Other
+4228,7,CZE,Other
+4229,3,CZE,Other
+4230,25,CZE,"Value for money"
+4231,25,CZE,"Value for money"
+4232,25,CZE,"Value for money"
+4233,25,CZE,"Value for money"
+4234,8,CZE,"Value for money"
+4235,7,CZE,Other
+4236,3,CZE,Other
+4237,31,CZE,Premium
+4238,4,CZE,Premium
+4239,3,CZE,Other
+4240,2,CZE,Noname
+4241,2,CZE,Noname
+4242,3,CZE,Other
+4243,3,CZE,Other
+4244,3,CZE,Other
+4245,3,CZE,Other
+4246,3,CZE,Other
+4247,19,CZE,Discount
+4248,3,CZE,Other
+4249,13,CZE,"Value for money"
+4250,24,CZE,Discount
+4251,3,CZE,Other
+4252,31,CZE,Premium
+4253,25,CZE,"Value for money"
+4254,25,CZE,"Value for money"
+4255,15,CZE,Premium
+4256,3,CZE,Other
+4257,36,CZE,Other
+4258,7,CZE,Other
+4259,3,CZE,Other
+4260,3,CZE,Other
+4261,3,CZE,Other
+4262,2,CZE,Noname
+4263,2,CZE,Noname
+4264,3,CZE,Other
+4265,3,CZE,Other
+4266,3,CZE,Other
+4267,2,CZE,Noname
+4268,3,CZE,Other
+4269,3,CZE,Other
+4270,3,CZE,Other
+4271,3,CZE,Other
+4272,2,CZE,Noname
+4273,3,CZE,Other
+4274,3,CZE,Other
+4275,3,CZE,Other
+4276,3,CZE,Other
+4277,2,CZE,Noname
+4278,2,CZE,Noname
+4279,3,CZE,Other
+4280,2,CZE,Noname
+4281,2,CZE,Noname
+4282,2,CZE,Noname
+4283,16,CZE,Other
+4284,2,CZE,Noname
+4285,3,CZE,Other
+4286,3,CZE,Other
+4287,3,CZE,Other
+4288,3,CZE,Other
+4289,19,CZE,Discount
+4290,2,CZE,Noname
+4291,2,CZE,Noname
+4292,2,CZE,Noname
+4293,3,CZE,Other
+4294,3,CZE,Other
+4295,3,CZE,Other
+4296,3,CZE,Other
+4297,3,CZE,Other
+4298,3,CZE,Other
+4299,3,CZE,Other
+4300,3,CZE,Other
+4301,2,CZE,Noname
+4302,3,CZE,Other
+4303,3,CZE,Other
+4304,3,CZE,Other
+4305,3,CZE,Other
+4306,3,CZE,Other
+4307,3,CZE,Other
+4308,3,CZE,Other
+4309,3,CZE,Other
+4310,23,CZE,Other
+4311,3,CZE,Other
+4312,3,CZE,Other
+4313,2,CZE,Noname
+4314,2,CZE,Noname
+4315,18,CZE,Other
+4316,2,CZE,Noname
+4317,3,CZE,Other
+4318,2,CZE,Noname
+4319,3,CZE,Other
+4320,2,CZE,Noname
+4321,2,CZE,Noname
+4322,21,CZE,Discount
+4323,21,CZE,Discount
+4324,2,CZE,Noname
+4325,3,CZE,Other
+4326,3,CZE,Other
+4327,16,CZE,Other
+4328,2,CZE,Noname
+4329,2,CZE,Noname
+4330,3,CZE,Other
+4331,3,CZE,Other
+4332,19,CZE,Discount
+4333,3,CZE,Other
+4334,2,CZE,Noname
+4335,3,CZE,Other
+4336,3,CZE,Other
+4337,3,CZE,Other
+4338,3,CZE,Other
+4339,4,CZE,Premium
+4340,4,CZE,Premium
+4341,4,CZE,Premium
+4342,4,CZE,Premium
+4343,4,CZE,Premium
+4344,4,CZE,Premium
+4345,4,CZE,Premium
+4346,4,CZE,Premium
+4347,4,CZE,Premium
+4348,4,CZE,Premium
+4349,4,CZE,Premium
+4350,3,CZE,Other
+4351,3,CZE,Other
+4352,3,CZE,Other
+4353,3,CZE,Other
+4354,3,CZE,Other
+4355,3,CZE,Other
+4356,2,CZE,Noname
+4357,3,CZE,Other
+4358,16,CZE,Other
+4359,3,CZE,Other
+4360,3,CZE,Other
+4361,4,CZE,Premium
+4362,3,CZE,Other
+4363,7,CZE,Other
+4364,7,CZE,Other
+4365,7,CZE,Other
+4366,3,CZE,Other
+4367,16,CZE,Other
+4368,19,CZE,Discount
+4369,3,CZE,Other
+4370,7,CZE,Other
+4371,7,CZE,Other
+4372,2,CZE,Noname
+4373,3,CZE,Other
+4374,3,CZE,Other
+4375,2,CZE,Noname
+4376,3,CZE,Other
+4377,3,CZE,Other
+4378,3,CZE,Other
+4379,47,CZE,Other
+4380,3,CZE,Other
+4381,3,CZE,Other
+4382,2,CZE,Noname
+4383,3,CZE,Other
+4384,7,CZE,Other
+4385,19,CZE,Discount
+4386,16,CZE,Other
+4387,3,CZE,Other
+4388,3,CZE,Other
+4389,3,CZE,Other
+4390,3,CZE,Other
+4391,3,CZE,Other
+4392,3,CZE,Other
+4393,6,CZE,Premium
+4394,3,CZE,Other
+4395,3,CZE,Other
+4396,3,CZE,Other
+4397,3,CZE,Other
+4398,6,CZE,Premium
+4399,2,CZE,Noname
+4400,2,CZE,Noname
+4401,3,CZE,Other
+4402,3,CZE,Other
+4403,19,CZE,Discount
+4404,6,CZE,Premium
+4405,16,CZE,Other
+4406,3,CZE,Other
+4407,2,CZE,Noname
+4408,2,CZE,Noname
+4409,25,CZE,"Value for money"
+4410,25,CZE,"Value for money"
+4411,2,CZE,Noname
+4412,10,CZE,Other
+4413,3,CZE,Other
+4414,3,CZE,Other
+4415,3,CZE,Other
+4416,3,CZE,Other
+4417,4,CZE,Premium
+4418,4,CZE,Premium
+4419,3,CZE,Other
+4420,3,CZE,Other
+4421,3,CZE,Other
+4422,4,CZE,Premium
+4423,4,CZE,Premium
+4424,4,CZE,Premium
+4425,4,CZE,Premium
+4426,4,CZE,Premium
+4427,4,CZE,Premium
+4428,4,CZE,Premium
+4429,4,CZE,Premium
+4430,4,CZE,Premium
+4431,4,CZE,Premium
+4432,4,CZE,Premium
+4433,3,CZE,Other
+4434,3,CZE,Other
+4435,3,CZE,Other
+4436,3,CZE,Other
+4437,3,CZE,Other
+4438,3,CZE,Other
+4439,3,CZE,Other
+4440,33,CZE,Premium
+4441,19,CZE,Discount
+4442,19,CZE,Discount
+4443,19,CZE,Discount
+4444,19,CZE,Discount
+4445,19,CZE,Discount
+4446,19,CZE,Discount
+4447,19,CZE,Discount
+4448,19,CZE,Discount
+4449,19,CZE,Discount
+4450,19,CZE,Discount
+4451,21,CZE,Discount
+4452,3,CZE,Other
+4453,3,CZE,Other
+4454,3,CZE,Other
+4455,3,CZE,Other
+4456,289,SVK,Other
+4457,51,SVK,Premium
+4458,51,SVK,Premium
+4459,51,SVK,Premium
+4460,51,SVK,Premium
+4461,51,SVK,Premium
+4462,51,SVK,Premium
+4463,51,SVK,Premium
+4464,51,SVK,Premium
+4465,51,SVK,Premium
+4466,51,SVK,Premium
+4467,51,SVK,Premium
+4468,51,SVK,Premium
+4469,51,SVK,Premium
+4470,51,SVK,Premium
+4471,51,SVK,Premium
+4472,51,SVK,Premium
+4473,51,SVK,Premium
+4474,51,SVK,Premium
+4475,207,SVK,Other
+4476,51,SVK,Premium
+4477,51,SVK,Premium
+4478,51,SVK,Premium
+4479,51,SVK,Premium
+4480,51,SVK,Premium
+4481,51,SVK,Premium
+4482,51,SVK,Premium
+4483,51,SVK,Premium
+4484,51,SVK,Premium
+4485,51,SVK,Premium
+4486,51,SVK,Premium
+4487,51,SVK,Premium
+4488,51,SVK,Premium
+4489,51,SVK,Premium
+4490,51,SVK,Premium
+4491,51,SVK,Premium
+4492,51,SVK,Premium
+4493,51,SVK,Premium
+4494,51,SVK,Premium
+4495,51,SVK,Premium
+4496,51,SVK,Premium
+4497,51,SVK,Premium
+4498,51,SVK,Premium
+4499,51,SVK,Premium
+4500,51,SVK,Premium
+4501,51,SVK,Premium
+4502,51,SVK,Premium
+4503,51,SVK,Premium
+4504,51,SVK,Premium
+4505,51,SVK,Premium
+4506,51,SVK,Premium
+4507,51,SVK,Premium
+4508,51,SVK,Premium
+4509,51,SVK,Premium
+4510,51,SVK,Premium
+4511,51,SVK,Premium
+4512,51,SVK,Premium
+4513,51,SVK,Premium
+4514,51,SVK,Premium
+4515,51,SVK,Premium
+4516,51,SVK,Premium
+4517,51,SVK,Premium
+4518,56,SVK,Other
+4519,56,SVK,Other
+4520,54,SVK,Other
+4521,54,SVK,Other
+4522,54,SVK,Other
+4523,63,SVK,Other
+4524,60,SVK,Other
+4525,246,SVK,Noname
+4526,65,SVK,Other
+4527,66,SVK,Other
+4528,68,SVK,Other
+4529,246,SVK,Noname
+4530,55,SVK,Other
+4531,55,SVK,Other
+4532,55,SVK,Other
+4533,55,SVK,Other
+4534,57,SVK,"Value for money"
+4535,57,SVK,"Value for money"
+4536,57,SVK,"Value for money"
+4537,57,SVK,"Value for money"
+4538,57,SVK,"Value for money"
+4539,57,SVK,"Value for money"
+4540,57,SVK,"Value for money"
+4541,57,SVK,"Value for money"
+4542,57,SVK,"Value for money"
+4543,51,SVK,Premium
+4544,61,SVK,Discount
+4545,61,SVK,Discount
+4546,61,SVK,Discount
+4547,61,SVK,Discount
+4548,61,SVK,Discount
+4549,61,SVK,Discount
+4550,61,SVK,Discount
+4551,61,SVK,Discount
+4552,215,SVK,Other
+4553,61,SVK,Discount
+4554,98,SVK,Other
+4555,64,SVK,Other
+4556,64,SVK,Other
+4557,68,SVK,Other
+4558,130,SVK,Premium
+4559,130,SVK,Premium
+4560,130,SVK,Premium
+4561,130,SVK,Premium
+4562,130,SVK,Premium
+4563,70,SVK,"Value for money"
+4564,70,SVK,"Value for money"
+4565,70,SVK,"Value for money"
+4566,70,SVK,"Value for money"
+4567,70,SVK,"Value for money"
+4568,70,SVK,"Value for money"
+4569,71,SVK,Other
+4570,191,SVK,Other
+4571,246,SVK,Noname
+4572,73,SVK,Other
+4573,75,SVK,Other
+4574,51,SVK,Premium
+4575,76,SVK,Other
+4576,76,SVK,Other
+4577,76,SVK,Other
+4578,76,SVK,Other
+4579,76,SVK,Other
+4580,76,SVK,Other
+4581,76,SVK,Other
+4582,77,SVK,Premium
+4583,77,SVK,Premium
+4584,77,SVK,Premium
+4585,77,SVK,Premium
+4586,77,SVK,Premium
+4587,77,SVK,Premium
+4588,77,SVK,Premium
+4589,77,SVK,Premium
+4590,77,SVK,Premium
+4591,77,SVK,Premium
+4592,77,SVK,Premium
+4593,77,SVK,Premium
+4594,77,SVK,Premium
+4595,77,SVK,Premium
+4596,77,SVK,Premium
+4597,61,SVK,Discount
+4598,77,SVK,Premium
+4599,77,SVK,Premium
+4600,77,SVK,Premium
+4601,77,SVK,Premium
+4602,77,SVK,Premium
+4603,77,SVK,Premium
+4604,77,SVK,Premium
+4605,77,SVK,Premium
+4606,77,SVK,Premium
+4607,197,SVK,Other
+4608,76,SVK,Other
+4609,76,SVK,Other
+4610,64,SVK,Other
+4611,55,SVK,Other
+4612,55,SVK,Other
+4613,51,SVK,Premium
+4614,51,SVK,Premium
+4615,51,SVK,Premium
+4616,51,SVK,Premium
+4617,51,SVK,Premium
+4618,51,SVK,Premium
+4619,130,SVK,Premium
+4620,130,SVK,Premium
+4621,130,SVK,Premium
+4622,57,SVK,"Value for money"
+4623,80,SVK,Other
+4624,81,SVK,Other
+4625,82,SVK,Other
+4626,82,SVK,Other
+4627,51,SVK,Premium
+4628,55,SVK,Other
+4629,51,SVK,Premium
+4630,77,SVK,Premium
+4631,61,SVK,Discount
+4632,57,SVK,"Value for money"
+4633,57,SVK,"Value for money"
+4634,83,SVK,Other
+4635,130,SVK,Premium
+4636,82,SVK,Other
+4637,82,SVK,Other
+4638,51,SVK,Premium
+4639,84,SVK,Other
+4640,130,SVK,Premium
+4641,130,SVK,Premium
+4642,64,SVK,Other
+4643,130,SVK,Premium
+4644,70,SVK,"Value for money"
+4645,85,SVK,Other
+4646,70,SVK,"Value for money"
+4647,57,SVK,"Value for money"
+4648,70,SVK,"Value for money"
+4649,70,SVK,"Value for money"
+4650,61,SVK,Discount
+4651,147,SVK,Other
+4652,87,SVK,Other
+4653,74,SVK,Other
+4654,74,SVK,Other
+4655,70,SVK,"Value for money"
+4656,89,SVK,Other
+4657,51,SVK,Premium
+4658,76,SVK,Other
+4659,51,SVK,Premium
+4660,90,SVK,Other
+4661,91,SVK,Other
+4662,64,SVK,Other
+4663,70,SVK,"Value for money"
+4664,55,SVK,Other
+4665,92,SVK,Other
+4666,160,SVK,Other
+4667,77,SVK,Premium
+4668,72,SVK,Other
+4669,72,SVK,Other
+4670,93,SVK,Other
+4671,51,SVK,Premium
+4672,51,SVK,Premium
+4673,51,SVK,Premium
+4674,191,SVK,Other
+4675,55,SVK,Other
+4676,51,SVK,Premium
+4677,94,SVK,Other
+4678,70,SVK,"Value for money"
+4679,51,SVK,Premium
+4680,95,SVK,Other
+4681,77,SVK,Premium
+4682,55,SVK,Other
+4683,57,SVK,"Value for money"
+4684,60,SVK,Other
+4685,51,SVK,Premium
+4686,51,SVK,Premium
+4687,130,SVK,Premium
+4688,99,SVK,"Value for money"
+4689,97,SVK,Other
+4690,70,SVK,"Value for money"
+4691,76,SVK,Other
+4692,77,SVK,Premium
+4693,64,SVK,Other
+4694,98,SVK,Other
+4695,98,SVK,Other
+4696,99,SVK,"Value for money"
+4697,99,SVK,"Value for money"
+4698,99,SVK,"Value for money"
+4699,99,SVK,"Value for money"
+4700,99,SVK,"Value for money"
+4701,99,SVK,"Value for money"
+4702,99,SVK,"Value for money"
+4703,99,SVK,"Value for money"
+4704,99,SVK,"Value for money"
+4705,99,SVK,"Value for money"
+4706,99,SVK,"Value for money"
+4707,99,SVK,"Value for money"
+4708,99,SVK,"Value for money"
+4709,99,SVK,"Value for money"
+4710,99,SVK,"Value for money"
+4711,99,SVK,"Value for money"
+4712,101,SVK,Other
+4713,99,SVK,"Value for money"
+4714,102,SVK,Other
+4715,99,SVK,"Value for money"
+4716,102,SVK,Other
+4717,102,SVK,Other
+4718,102,SVK,Other
+4719,102,SVK,Other
+4720,102,SVK,Other
+4721,128,SVK,Other
+4722,51,SVK,Premium
+4723,103,SVK,Other
+4724,104,SVK,Other
+4725,105,SVK,Other
+4726,106,SVK,Other
+4727,51,SVK,Premium
+4728,70,SVK,"Value for money"
+4729,51,SVK,Premium
+4730,51,SVK,Premium
+4731,88,SVK,Other
+4732,96,SVK,Other
+4733,77,SVK,Premium
+4734,100,SVK,Other
+4735,100,SVK,Other
+4736,100,SVK,Other
+4737,72,SVK,Other
+4738,95,SVK,Other
+4739,95,SVK,Other
+4740,95,SVK,Other
+4741,95,SVK,Other
+4742,70,SVK,"Value for money"
+4743,107,SVK,"Value for money"
+4744,107,SVK,"Value for money"
+4745,107,SVK,"Value for money"
+4746,107,SVK,"Value for money"
+4747,107,SVK,"Value for money"
+4748,107,SVK,"Value for money"
+4749,107,SVK,"Value for money"
+4750,107,SVK,"Value for money"
+4751,107,SVK,"Value for money"
+4752,107,SVK,"Value for money"
+4753,107,SVK,"Value for money"
+4754,107,SVK,"Value for money"
+4755,107,SVK,"Value for money"
+4756,107,SVK,"Value for money"
+4757,107,SVK,"Value for money"
+4758,107,SVK,"Value for money"
+4759,107,SVK,"Value for money"
+4760,107,SVK,"Value for money"
+4761,107,SVK,"Value for money"
+4762,107,SVK,"Value for money"
+4763,107,SVK,"Value for money"
+4764,107,SVK,"Value for money"
+4765,107,SVK,"Value for money"
+4766,107,SVK,"Value for money"
+4767,107,SVK,"Value for money"
+4768,107,SVK,"Value for money"
+4769,107,SVK,"Value for money"
+4770,107,SVK,"Value for money"
+4771,107,SVK,"Value for money"
+4772,70,SVK,"Value for money"
+4773,51,SVK,Premium
+4774,130,SVK,Premium
+4775,108,SVK,Other
+4776,70,SVK,"Value for money"
+4777,109,SVK,Other
+4778,51,SVK,Premium
+4779,51,SVK,Premium
+4780,57,SVK,"Value for money"
+4781,51,SVK,Premium
+4782,70,SVK,"Value for money"
+4783,57,SVK,"Value for money"
+4784,57,SVK,"Value for money"
+4785,51,SVK,Premium
+4786,110,SVK,Other
+4787,51,SVK,Premium
+4788,111,SVK,Other
+4789,112,SVK,Other
+4790,70,SVK,"Value for money"
+4791,113,SVK,Other
+4792,114,SVK,Other
+4793,115,SVK,Other
+4794,116,SVK,Other
+4795,60,SVK,Other
+4796,51,SVK,Premium
+4797,70,SVK,"Value for money"
+4798,117,SVK,Other
+4799,118,SVK,Other
+4800,113,SVK,Other
+4801,113,SVK,Other
+4802,123,SVK,Other
+4803,124,SVK,Other
+4804,125,SVK,Other
+4805,70,SVK,"Value for money"
+4806,126,SVK,Other
+4807,54,SVK,Other
+4808,127,SVK,Other
+4809,130,SVK,Premium
+4810,119,SVK,Other
+4811,70,SVK,"Value for money"
+4812,70,SVK,"Value for money"
+4813,51,SVK,Premium
+4814,130,SVK,Premium
+4815,51,SVK,Premium
+4816,51,SVK,Premium
+4817,51,SVK,Premium
+4818,51,SVK,Premium
+4819,120,SVK,Other
+4820,121,SVK,Other
+4821,122,SVK,Other
+4822,51,SVK,Premium
+4823,51,SVK,Premium
+4824,51,SVK,Premium
+4825,51,SVK,Premium
+4826,51,SVK,Premium
+4827,51,SVK,Premium
+4828,51,SVK,Premium
+4829,51,SVK,Premium
+4830,77,SVK,Premium
+4831,129,SVK,Other
+4832,130,SVK,Premium
+4833,130,SVK,Premium
+4834,131,SVK,Other
+4835,130,SVK,Premium
+4836,55,SVK,Other
+4837,130,SVK,Premium
+4838,51,SVK,Premium
+4839,77,SVK,Premium
+4840,187,SVK,Other
+4841,70,SVK,"Value for money"
+4842,132,SVK,Other
+4843,70,SVK,"Value for money"
+4844,51,SVK,Premium
+4845,167,SVK,Other
+4846,130,SVK,Premium
+4847,130,SVK,Premium
+4848,133,SVK,Other
+4849,51,SVK,Premium
+4850,117,SVK,Other
+4851,128,SVK,Other
+4852,128,SVK,Other
+4853,128,SVK,Other
+4854,128,SVK,Other
+4855,128,SVK,Other
+4856,128,SVK,Other
+4857,70,SVK,"Value for money"
+4858,51,SVK,Premium
+4859,139,SVK,Other
+4860,51,SVK,Premium
+4861,170,SVK,Other
+4862,128,SVK,Other
+4863,135,SVK,Other
+4864,135,SVK,Other
+4865,61,SVK,Discount
+4866,70,SVK,"Value for money"
+4867,233,SVK,Other
+4868,136,SVK,Other
+4869,233,SVK,Other
+4870,137,SVK,Other
+4871,137,SVK,Other
+4872,137,SVK,Other
+4873,137,SVK,Other
+4874,137,SVK,Other
+4875,70,SVK,"Value for money"
+4876,178,SVK,Other
+4877,117,SVK,Other
+4878,77,SVK,Premium
+4879,77,SVK,Premium
+4880,51,SVK,Premium
+4881,130,SVK,Premium
+4882,70,SVK,"Value for money"
+4883,145,SVK,Other
+4884,77,SVK,Premium
+4885,141,SVK,Other
+4886,141,SVK,Other
+4887,142,SVK,Other
+4888,92,SVK,Other
+4889,143,SVK,Other
+4890,246,SVK,Noname
+4891,130,SVK,Premium
+4892,146,SVK,Other
+4893,130,SVK,Premium
+4894,51,SVK,Premium
+4895,51,SVK,Premium
+4896,77,SVK,Premium
+4897,51,SVK,Premium
+4898,163,SVK,Other
+4899,77,SVK,Premium
+4900,77,SVK,Premium
+4901,77,SVK,Premium
+4902,77,SVK,Premium
+4903,130,SVK,Premium
+4904,99,SVK,"Value for money"
+4905,164,SVK,Other
+4906,99,SVK,"Value for money"
+4907,163,SVK,Other
+4908,203,SVK,Other
+4909,77,SVK,Premium
+4910,99,SVK,"Value for money"
+4911,166,SVK,Other
+4912,130,SVK,Premium
+4913,178,SVK,Other
+4914,147,SVK,Other
+4915,99,SVK,"Value for money"
+4916,148,SVK,Other
+4917,148,SVK,Other
+4918,287,SVK,Other
+4919,70,SVK,"Value for money"
+4920,61,SVK,Discount
+4921,178,SVK,Other
+4922,51,SVK,Premium
+4923,51,SVK,Premium
+4924,70,SVK,"Value for money"
+4925,70,SVK,"Value for money"
+4926,127,SVK,Other
+4927,152,SVK,Other
+4928,153,SVK,Other
+4929,51,SVK,Premium
+4930,70,SVK,"Value for money"
+4931,70,SVK,"Value for money"
+4932,77,SVK,Premium
+4933,156,SVK,Other
+4934,156,SVK,Other
+4935,51,SVK,Premium
+4936,51,SVK,Premium
+4937,77,SVK,Premium
+4938,77,SVK,Premium
+4939,284,SVK,Other
+4940,70,SVK,"Value for money"
+4941,77,SVK,Premium
+4942,77,SVK,Premium
+4943,158,SVK,Other
+4944,159,SVK,Other
+4945,77,SVK,Premium
+4946,64,SVK,Other
+4947,61,SVK,Discount
+4948,180,SVK,Other
+4949,208,SVK,Other
+4950,51,SVK,Premium
+4951,130,SVK,Premium
+4952,130,SVK,Premium
+4953,64,SVK,Other
+4954,77,SVK,Premium
+4955,155,SVK,Other
+4956,155,SVK,Other
+4957,117,SVK,Other
+4958,117,SVK,Other
+4959,130,SVK,Premium
+4960,77,SVK,Premium
+4961,77,SVK,Premium
+4962,77,SVK,Premium
+4963,99,SVK,"Value for money"
+4964,147,SVK,Other
+4965,77,SVK,Premium
+4966,161,SVK,Other
+4967,51,SVK,Premium
+4968,157,SVK,Other
+4969,51,SVK,Premium
+4970,51,SVK,Premium
+4971,51,SVK,Premium
+4972,51,SVK,Premium
+4973,51,SVK,Premium
+4974,51,SVK,Premium
+4975,51,SVK,Premium
+4976,51,SVK,Premium
+4977,51,SVK,Premium
+4978,61,SVK,Discount
+4979,181,SVK,Other
+4980,77,SVK,Premium
+4981,77,SVK,Premium
+4982,70,SVK,"Value for money"
+4983,246,SVK,Noname
+4984,217,SVK,Other
+4985,77,SVK,Premium
+4986,77,SVK,Premium
+4987,64,SVK,Other
+4988,51,SVK,Premium
+4989,51,SVK,Premium
+4990,51,SVK,Premium
+4991,51,SVK,Premium
+4992,51,SVK,Premium
+4993,51,SVK,Premium
+4994,51,SVK,Premium
+4995,51,SVK,Premium
+4996,51,SVK,Premium
+4997,51,SVK,Premium
+4998,130,SVK,Premium
+4999,130,SVK,Premium
+5000,130,SVK,Premium
+5001,77,SVK,Premium
+5002,246,SVK,Noname
+5003,246,SVK,Noname
+5004,169,SVK,Other
+5005,171,SVK,Other
+5006,172,SVK,Other
+5007,61,SVK,Discount
+5008,173,SVK,Other
+5009,155,SVK,Other
+5010,99,SVK,"Value for money"
+5011,155,SVK,Other
+5012,117,SVK,Other
+5013,250,SVK,Other
+5014,246,SVK,Noname
+5015,190,SVK,Discount
+5016,190,SVK,Discount
+5017,190,SVK,Discount
+5018,190,SVK,Discount
+5019,130,SVK,Premium
+5020,190,SVK,Discount
+5021,190,SVK,Discount
+5022,51,SVK,Premium
+5023,175,SVK,Other
+5024,66,SVK,Other
+5025,70,SVK,"Value for money"
+5026,51,SVK,Premium
+5027,176,SVK,Other
+5028,51,SVK,Premium
+5029,130,SVK,Premium
+5030,130,SVK,Premium
+5031,70,SVK,"Value for money"
+5032,155,SVK,Other
+5033,70,SVK,"Value for money"
+5034,263,SVK,Other
+5035,70,SVK,"Value for money"
+5036,85,SVK,Other
+5037,261,SVK,Other
+5038,259,SVK,Other
+5039,178,SVK,Other
+5040,61,SVK,Discount
+5041,246,SVK,Noname
+5042,179,SVK,Other
+5043,130,SVK,Premium
+5044,70,SVK,"Value for money"
+5045,51,SVK,Premium
+5046,70,SVK,"Value for money"
+5047,70,SVK,"Value for money"
+5048,51,SVK,Premium
+5049,70,SVK,"Value for money"
+5050,51,SVK,Premium
+5051,183,SVK,Other
+5052,96,SVK,Other
+5053,117,SVK,Other
+5054,70,SVK,"Value for money"
+5055,185,SVK,Other
+5056,186,SVK,Other
+5057,188,SVK,Other
+5058,189,SVK,Other
+5059,190,SVK,Discount
+5060,190,SVK,Discount
+5061,190,SVK,Discount
+5062,190,SVK,Discount
+5063,190,SVK,Discount
+5064,190,SVK,Discount
+5065,192,SVK,Other
+5066,224,SVK,Other
+5067,64,SVK,Other
+5068,130,SVK,Premium
+5069,148,SVK,Other
+5070,201,SVK,Other
+5071,190,SVK,Discount
+5072,190,SVK,Discount
+5073,190,SVK,Discount
+5074,190,SVK,Discount
+5075,190,SVK,Discount
+5076,190,SVK,Discount
+5077,232,SVK,Other
+5078,190,SVK,Discount
+5079,141,SVK,Other
+5080,190,SVK,Discount
+5081,70,SVK,"Value for money"
+5082,70,SVK,"Value for money"
+5083,250,SVK,Other
+5084,130,SVK,Premium
+5085,198,SVK,Other
+5086,190,SVK,Discount
+5087,190,SVK,Discount
+5088,148,SVK,Other
+5089,70,SVK,"Value for money"
+5090,70,SVK,"Value for money"
+5091,70,SVK,"Value for money"
+5092,70,SVK,"Value for money"
+5093,70,SVK,"Value for money"
+5094,70,SVK,"Value for money"
+5095,70,SVK,"Value for money"
+5096,70,SVK,"Value for money"
+5097,70,SVK,"Value for money"
+5098,199,SVK,Other
+5099,155,SVK,Other
+5100,155,SVK,Other
+5101,155,SVK,Other
+5102,200,SVK,Other
+5103,190,SVK,Discount
+5104,190,SVK,Discount
+5105,77,SVK,Premium
+5106,77,SVK,Premium
+5107,204,SVK,Other
+5108,64,SVK,Other
+5109,64,SVK,Other
+5110,246,SVK,Noname
+5111,206,SVK,Other
+5112,190,SVK,Discount
+5113,148,SVK,Other
+5114,51,SVK,Premium
+5115,190,SVK,Discount
+5116,246,SVK,Noname
+5117,85,SVK,Other
+5118,155,SVK,Other
+5119,130,SVK,Premium
+5120,198,SVK,Other
+5121,130,SVK,Premium
+5122,130,SVK,Premium
+5123,130,SVK,Premium
+5124,130,SVK,Premium
+5125,130,SVK,Premium
+5126,130,SVK,Premium
+5127,130,SVK,Premium
+5128,130,SVK,Premium
+5129,130,SVK,Premium
+5130,130,SVK,Premium
+5131,130,SVK,Premium
+5132,130,SVK,Premium
+5133,130,SVK,Premium
+5134,130,SVK,Premium
+5135,190,SVK,Discount
+5136,190,SVK,Discount
+5137,64,SVK,Other
+5138,211,SVK,Other
+5139,64,SVK,Other
+5140,130,SVK,Premium
+5141,130,SVK,Premium
+5142,64,SVK,Other
+5143,117,SVK,Other
+5144,213,SVK,Other
+5145,163,SVK,Other
+5146,246,SVK,Noname
+5147,214,SVK,Other
+5148,130,SVK,Premium
+5149,153,SVK,Other
+5150,216,SVK,Other
+5151,70,SVK,"Value for money"
+5152,130,SVK,Premium
+5153,64,SVK,Other
+5154,64,SVK,Other
+5155,246,SVK,Noname
+5156,130,SVK,Premium
+5157,246,SVK,Noname
+5158,77,SVK,Premium
+5159,77,SVK,Premium
+5160,77,SVK,Premium
+5161,77,SVK,Premium
+5162,77,SVK,Premium
+5163,77,SVK,Premium
+5164,77,SVK,Premium
+5165,77,SVK,Premium
+5166,77,SVK,Premium
+5167,77,SVK,Premium
+5168,77,SVK,Premium
+5169,70,SVK,"Value for money"
+5170,219,SVK,Other
+5171,130,SVK,Premium
+5172,220,SVK,Other
+5173,130,SVK,Premium
+5174,77,SVK,Premium
+5175,130,SVK,Premium
+5176,77,SVK,Premium
+5177,77,SVK,Premium
+5178,77,SVK,Premium
+5179,190,SVK,Discount
+5180,190,SVK,Discount
+5181,190,SVK,Discount
+5182,190,SVK,Discount
+5183,85,SVK,Other
+5184,148,SVK,Other
+5185,77,SVK,Premium
+5186,223,SVK,Other
+5187,61,SVK,Discount
+5188,61,SVK,Discount
+5189,77,SVK,Premium
+5190,226,SVK,Other
+5191,227,SVK,Other
+5192,70,SVK,"Value for money"
+5193,228,SVK,Other
+5194,246,SVK,Noname
+5195,130,SVK,Premium
+5196,130,SVK,Premium
+5197,229,SVK,Other
+5198,77,SVK,Premium
+5199,230,SVK,Other
+5200,231,SVK,Other
+5201,2,CZE,Noname
+5202,3,CZE,Other
+5203,3,CZE,Other
+5204,3,CZE,Other
+5205,3,CZE,Other
+5206,3,CZE,Other
+5207,3,CZE,Other
+5208,34,CZE,Other
+5209,3,CZE,Other
+5210,2,CZE,Noname
+5211,3,CZE,Other
+5213,3,CZE,Other
+5214,3,CZE,Other
+5215,3,CZE,Other
+5216,3,CZE,Other
+5217,24,CZE,Discount
+5218,3,CZE,Other
+5219,3,CZE,Other
+5220,2,CZE,Noname
+5221,3,CZE,Other
+5223,2,CZE,Noname
+5224,2,CZE,Noname
+5225,233,SVK,Other
+5227,246,SVK,Noname
+5228,235,SVK,Other
+5229,248,SVK,Other
+5230,237,SVK,Other
+5232,239,SVK,Other
+5233,240,SVK,Other
+5234,3,CZE,Other
+5235,3,CZE,Other
+5236,3,CZE,Other
+5237,246,SVK,Noname
+5238,254,SVK,Other
+5239,77,SVK,Premium
+5240,34,CZE,Other
+5241,3,CZE,Other
+5242,2,CZE,Noname
+5243,246,SVK,Noname
+5244,33,CZE,Premium
+5245,2,CZE,Noname
+5246,243,CZE,Other
+5247,3,CZE,Other
+5248,64,SVK,Other
+5249,182,SVK,Other
+5250,165,SVK,Other
+5251,3,CZE,Other
+5252,3,CZE,Other
+5253,2,CZE,Noname
+5254,33,CZE,Premium
+5255,33,CZE,Premium
+5256,3,CZE,Other
+5257,3,CZE,Other
+5258,245,SVK,Other
+5259,248,SVK,Other
+5260,3,CZE,Other
+5261,246,SVK,Noname
+5262,2,CZE,Noname
+5263,2,CZE,Noname
+5264,246,SVK,Noname
+5265,3,CZE,Other
+5266,3,CZE,Other
+5267,3,CZE,Other
+5268,3,CZE,Other
+5269,3,CZE,Other
+5270,2,CZE,Noname
+5271,2,CZE,Noname
+5272,2,CZE,Noname
+5273,3,CZE,Other
+5274,33,CZE,Premium
+5275,3,CZE,Other
+5276,33,CZE,Premium
+5277,3,CZE,Other
+5278,3,CZE,Other
+5279,4,CZE,Premium
+5280,4,CZE,Premium
+5281,2,CZE,Noname
+5282,2,CZE,Noname
+5283,2,CZE,Noname
+5284,7,CZE,Other
+5285,2,CZE,Noname
+5286,246,SVK,Noname
+5287,2,CZE,Noname
+5288,7,CZE,Other
+5289,2,CZE,Noname
+5290,3,CZE,Other
+5291,3,CZE,Other
+5292,3,CZE,Other
+5293,3,CZE,Other
+5294,246,SVK,Noname
+5295,246,SVK,Noname
+5296,246,SVK,Noname
+5297,246,SVK,Noname
+5298,130,SVK,Premium
+5299,77,SVK,Premium
+5300,77,SVK,Premium
+5301,3,CZE,Other
+5302,3,CZE,Other
+5303,16,CZE,Other
+5304,3,CZE,Other
+5305,38,CZE,Other
+5306,3,CZE,Other
+5307,3,CZE,Other
+5308,3,CZE,Other
+5309,3,CZE,Other
+5310,35,CZE,Discount
+5311,35,CZE,Discount
+5312,16,CZE,Other
+5313,1,CZE,Premium
+5314,3,CZE,Other
+5315,3,CZE,Other
+5316,61,SVK,Discount
+5317,248,SVK,Other
+5318,246,SVK,Noname
+5319,130,SVK,Premium
+5320,248,SVK,Other
+5321,2,CZE,Noname
+5322,248,SVK,Other
+5323,248,SVK,Other
+5324,248,SVK,Other
+5325,248,SVK,Other
+5326,248,SVK,Other
+5327,248,SVK,Other
+5328,248,SVK,Other
+5329,248,SVK,Other
+5330,248,SVK,Other
+5331,137,SVK,Other
+5332,1,CZE,Premium
+5333,3,CZE,Other
+5334,130,SVK,Premium
+5335,130,SVK,Premium
+5336,130,SVK,Premium
+5337,130,SVK,Premium
+5338,8,CZE,"Value for money"
+5339,6,CZE,Premium
+5340,3,CZE,Other
+5341,2,CZE,Noname
+5342,248,SVK,Other
+5344,16,CZE,Other
+5345,2,CZE,Noname
+5347,16,CZE,Other
+5348,248,SVK,Other
+5349,130,SVK,Premium
+5350,130,SVK,Premium
+5351,130,SVK,Premium
+5352,130,SVK,Premium
+5353,130,SVK,Premium
+5354,130,SVK,Premium
+5355,130,SVK,Premium
+5356,130,SVK,Premium
+5357,3,CZE,Other
+5358,2,CZE,Noname
+5359,231,SVK,Other
+5360,103,SVK,Other
+5361,2,CZE,Noname
+5362,246,SVK,Noname
+5363,3,CZE,Other
+5364,148,SVK,Other
+5365,3,CZE,Other
+5366,3,CZE,Other
+5367,6,CZE,Premium
+5368,6,CZE,Premium
+5369,3,CZE,Other
+5370,3,CZE,Other
+5371,3,CZE,Other
+5372,3,CZE,Other
+5373,3,CZE,Other
+5374,3,CZE,Other
+5375,3,CZE,Other
+5376,3,CZE,Other
+5377,33,CZE,Premium
+5378,1,CZE,Premium
+5379,246,SVK,Noname
+5380,2,CZE,Noname
+5381,3,CZE,Other
+5382,117,SVK,Other
+5383,2,CZE,Noname
+5384,3,CZE,Other
+5385,246,SVK,Noname
+5386,246,SVK,Noname
+5387,246,SVK,Noname
+5388,246,SVK,Noname
+5389,246,SVK,Noname
+5390,246,SVK,Noname
+5391,3,CZE,Other
+5392,3,CZE,Other
+5393,2,CZE,Noname
+5394,2,CZE,Noname
+5395,77,SVK,Premium
+5396,64,SVK,Other
+5397,64,SVK,Other
+5398,190,SVK,Discount
+5399,190,SVK,Discount
+5400,3,CZE,Other
+5401,2,CZE,Noname
+5402,3,CZE,Other
+5403,3,CZE,Other
+5404,3,CZE,Other
+5405,2,CZE,Noname
+5406,2,CZE,Noname
+5407,3,CZE,Other
+5408,35,CZE,Discount
+5409,2,CZE,Noname
+5410,29,CZE,Premium
+5411,3,CZE,Other
+5412,6,CZE,Premium
+5413,3,CZE,Other
+5414,35,CZE,Discount
+5415,35,CZE,Discount
+5416,35,CZE,Discount
+5417,1,CZE,Premium
+5418,46,CZE,Other
+5419,3,CZE,Other
+5420,3,CZE,Other
+5421,3,CZE,Other
+5422,3,CZE,Other
+5423,248,SVK,Other
+5424,3,CZE,Other
+5425,16,CZE,Other
+5426,248,SVK,Other
+5427,3,CZE,Other
+5428,3,CZE,Other
+5429,3,CZE,Other
+5430,2,CZE,Noname
+5431,34,CZE,Other
+5432,35,CZE,Discount
+5433,2,CZE,Noname
+5434,3,CZE,Other
+5435,16,CZE,Other
+5436,3,CZE,Other
+5437,3,CZE,Other
+5438,2,CZE,Noname
+5439,2,CZE,Noname
+5440,2,CZE,Noname
+5441,3,CZE,Other
+5442,246,SVK,Noname
+5443,246,SVK,Noname
+5444,3,CZE,Other
+5445,3,CZE,Other
+5446,2,CZE,Noname
+5447,2,CZE,Noname
+5448,2,CZE,Noname
+5449,253,SVK,Other
+5450,2,CZE,Noname
+5451,2,CZE,Noname
+5452,2,CZE,Noname
+5453,2,CZE,Noname
+5454,2,CZE,Noname
+5455,3,CZE,Other
+5456,3,CZE,Other
+5457,3,CZE,Other
+5458,9,CZE,"Value for money"
+5459,77,SVK,Premium
+5460,2,CZE,Noname
+5461,2,CZE,Noname
+5462,3,CZE,Other
+5463,7,CZE,Other
+5464,16,CZE,Other
+5465,3,CZE,Other
+5466,6,CZE,Premium
+5467,6,CZE,Premium
+5468,3,CZE,Other
+5469,3,CZE,Other
+5470,3,CZE,Other
+5471,46,CZE,Other
+5472,246,SVK,Noname
+5473,6,CZE,Premium
+5474,3,CZE,Other
+5475,3,CZE,Other
+5476,3,CZE,Other
+5477,2,CZE,Noname
+5478,3,CZE,Other
+5479,41,CZE,Other
+5480,3,CZE,Other
+5481,2,CZE,Noname
+5482,2,CZE,Noname
+5483,3,CZE,Other
+5484,227,SVK,Other
+5485,3,CZE,Other
+5486,2,CZE,Noname
+5487,2,CZE,Noname
+5488,61,SVK,Discount
+5489,153,SVK,Other
+5490,3,CZE,Other
+5491,3,CZE,Other
+5492,2,CZE,Noname
+5493,252,SVK,Other
+5494,9,CZE,"Value for money"
+5495,3,CZE,Other
+5496,3,CZE,Other
+5497,276,SVK,Other
+5498,148,SVK,Other
+5499,252,SVK,Other
+5500,3,CZE,Other
+5501,3,CZE,Other
+5502,117,SVK,Other
+5503,2,CZE,Noname
+5504,190,SVK,Discount
+5505,33,CZE,Premium
+5506,46,CZE,Other
+5507,248,SVK,Other
+5508,3,CZE,Other
+5509,3,CZE,Other
+5510,21,CZE,Discount
+5511,21,CZE,Discount
+5512,21,CZE,Discount
+5513,21,CZE,Discount
+5514,21,CZE,Discount
+5515,2,CZE,Noname
+5516,3,CZE,Other
+5517,3,CZE,Other
+5518,2,CZE,Noname
+5519,24,CZE,Discount
+5520,3,CZE,Other
+5521,77,SVK,Premium
+5522,256,SVK,Other
+5523,14,CZE,Noname
+5524,3,CZE,Other
+5525,3,CZE,Other
+5526,3,CZE,Other
+5527,3,CZE,Other
+5528,258,SVK,Other
+5529,33,CZE,Premium
+5530,33,CZE,Premium
+5531,2,CZE,Noname
+5532,3,CZE,Other
+5533,2,CZE,Noname
+5534,3,CZE,Other
+5535,24,CZE,Discount
+5536,6,CZE,Premium
+5537,3,CZE,Other
+5538,260,SVK,Other
+5539,3,CZE,Other
+5540,3,CZE,Other
+5541,252,SVK,Other
+5542,2,CZE,Noname
+5543,3,CZE,Other
+5544,3,CZE,Other
+5545,3,CZE,Other
+5546,3,CZE,Other
+5547,3,CZE,Other
+5548,7,CZE,Other
+5549,7,CZE,Other
+5550,3,CZE,Other
+5551,3,CZE,Other
+5552,117,SVK,Other
+5553,3,CZE,Other
+5554,3,CZE,Other
+5555,2,CZE,Noname
+5556,3,CZE,Other
+5557,77,SVK,Premium
+5558,3,CZE,Other
+5559,3,CZE,Other
+5560,3,CZE,Other
+5561,222,SVK,Other
+5562,2,CZE,Noname
+5563,2,CZE,Noname
+5564,2,CZE,Noname
+5565,3,CZE,Other
+5566,3,CZE,Other
+5567,3,CZE,Other
+5568,2,CZE,Noname
+5569,3,CZE,Other
+5570,3,CZE,Other
+5571,3,CZE,Other
+5572,77,SVK,Premium
+5573,77,SVK,Premium
+5574,3,CZE,Other
+5575,3,CZE,Other
+5576,77,SVK,Premium
+5577,3,CZE,Other
+5578,246,SVK,Noname
+5579,148,SVK,Other
+5580,2,CZE,Noname
+5581,3,CZE,Other
+5582,2,CZE,Noname
+5583,2,CZE,Noname
+5584,35,CZE,Discount
+5585,16,CZE,Other
+5586,262,SVK,Other
+5587,222,SVK,Other
+5588,130,SVK,Premium
+5589,130,SVK,Premium
+5590,130,SVK,Premium
+5591,35,CZE,Discount
+5592,35,CZE,Discount
+5593,35,CZE,Discount
+5594,246,SVK,Noname
+5595,35,CZE,Discount
+5596,3,CZE,Other
+5597,3,CZE,Other
+5598,3,CZE,Other
+5599,246,SVK,Noname
+5600,33,CZE,Premium
+5601,33,CZE,Premium
+5602,264,CZE,Other
+5603,3,CZE,Other
+5604,16,CZE,Other
+5605,264,CZE,Other
+5606,16,CZE,Other
+5607,17,CZE,Other
+5608,3,CZE,Other
+5609,7,CZE,Other
+5610,7,CZE,Other
+5611,7,CZE,Other
+5612,16,CZE,Other
+5613,2,CZE,Noname
+5614,265,CZE,Other
+5615,3,CZE,Other
+5616,2,CZE,Noname
+5617,3,CZE,Other
+5618,266,SVK,Other
+5619,117,SVK,Other
+5620,3,CZE,Other
+5621,3,CZE,Other
+5622,3,CZE,Other
+5623,3,CZE,Other
+5624,17,CZE,Other
+5625,3,CZE,Other
+5626,203,SVK,Other
+5627,26,CZE,Other
+5628,3,CZE,Other
+5629,2,CZE,Noname
+5630,35,CZE,Discount
+5631,2,CZE,Noname
+5632,3,CZE,Other
+5633,8,CZE,"Value for money"
+5634,3,CZE,Other
+5635,3,CZE,Other
+5636,2,CZE,Noname
+5637,3,CZE,Other
+5638,2,CZE,Noname
+5639,16,CZE,Other
+5640,16,CZE,Other
+5641,277,SVK,Other
+5642,3,CZE,Other
+5643,3,CZE,Other
+5644,3,CZE,Other
+5645,278,CZE,Other
+5646,24,CZE,Discount
+5647,24,CZE,Discount
+5648,2,CZE,Noname
+5649,3,CZE,Other
+5650,3,CZE,Other
+5651,264,CZE,Other
+5652,279,CZE,Other
+5653,35,CZE,Discount
+5654,280,SVK,Other
+5655,4,CZE,Premium
+5656,4,CZE,Premium
+5657,2,CZE,Noname
+5658,246,SVK,Noname
+5659,3,CZE,Other
+5660,3,CZE,Other
+5661,3,CZE,Other
+5662,3,CZE,Other
+5663,227,SVK,Other
+5664,148,SVK,Other
+5665,3,CZE,Other
+5666,3,CZE,Other
+5667,16,CZE,Other
+5668,16,CZE,Other
+5669,281,CZE,Other
+5670,282,CZE,Other
+5671,283,SVK,Other
+5672,77,SVK,Premium
+5673,3,CZE,Other
+5674,148,SVK,Other
+5675,17,CZE,Other
+5676,3,CZE,Other
+5677,3,CZE,Other
+5678,3,CZE,Other
+5679,3,CZE,Other
+5680,7,CZE,Other
+5681,285,SVK,Other
+5682,286,SVK,Other
+5683,3,CZE,Other
+5684,3,CZE,Other
+5685,3,CZE,Other
+5686,2,CZE,Noname
+5687,3,CZE,Other
+5688,3,CZE,Other
+5689,3,CZE,Other
+5690,2,CZE,Noname
+5691,3,CZE,Other
+5692,2,CZE,Noname
+5693,21,CZE,Discount
+5694,21,CZE,Discount
+5695,21,CZE,Discount
+5696,21,CZE,Discount
+5697,21,CZE,Discount
+5698,21,CZE,Discount
+5699,21,CZE,Discount
+5700,21,CZE,Discount
+5701,21,CZE,Discount
+5703,3,CZE,Other
+5704,17,CZE,Other
+5705,2,CZE,Noname
+5706,7,CZE,Other
+5707,7,CZE,Other
+5708,281,CZE,Other
+5709,3,CZE,Other
+5710,3,CZE,Other
+5711,3,CZE,Other
+5712,3,CZE,Other
+5713,3,CZE,Other
+5714,3,CZE,Other
+5715,3,CZE,Other
+5716,21,CZE,Discount
+5717,21,CZE,Discount
+5718,2,CZE,Noname
+5719,248,SVK,Other
+5720,3,CZE,Other
+5721,2,CZE,Noname
+5722,3,CZE,Other
+5723,3,CZE,Other
+5724,61,SVK,Discount
+5725,61,SVK,Discount
+5726,3,CZE,Other
+5727,281,CZE,Other
+5728,2,CZE,Noname
+5729,3,CZE,Other
+5730,46,CZE,Other
+5731,3,CZE,Other
+5732,2,CZE,Noname
+5733,288,SVK,Other
+5734,2,CZE,Noname
+5735,2,CZE,Noname
+5736,3,CZE,Other
+5737,2,CZE,Noname
+5738,3,CZE,Other
+5739,288,SVK,Other
+5740,3,CZE,Other
+5741,281,CZE,Other
+5742,36,CZE,Other
+5743,3,CZE,Other
+5744,17,CZE,Other
+5745,3,CZE,Other
+5746,3,CZE,Other
+5747,3,CZE,Other
+5748,3,CZE,Other
+5749,3,CZE,Other
+5750,3,CZE,Other
+5751,288,SVK,Other
+5752,17,CZE,Other
+5753,288,SVK,Other
+5754,17,CZE,Other
+5755,3,CZE,Other
+5756,288,SVK,Other
+5757,290,SVK,Other
+5758,290,SVK,Other
+5759,3,CZE,Other
+5760,17,CZE,Other
+5761,281,CZE,Other
+5762,246,SVK,Noname
+5763,3,CZE,Other
+5764,3,CZE,Other
+5765,2,CZE,Noname
+5766,117,SVK,Other
+5767,3,CZE,Other
+5768,3,CZE,Other
+5769,153,SVK,Other
+5770,6,CZE,Premium
+5771,2,CZE,Noname
+5772,16,CZE,Other
