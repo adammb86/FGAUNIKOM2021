@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2f32d9da1c54413a9ef22ab411767f01 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_2f32d9da1c54413a9ef22ab411767f01" ></div>
+        
+</body>
+<script>    
+    
+            var map_2f32d9da1c54413a9ef22ab411767f01 = L.map(
+                "map_2f32d9da1c54413a9ef22ab411767f01",
+                {
+                    center: [-6.917592558594379, 107.6203260931203],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_3836673a2bb84e93aae17a7dd64a9994 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_2f32d9da1c54413a9ef22ab411767f01);
+        
+    
+            var circle_marker_18bee259d8764b949abc64a9cd4b8e3a = L.circleMarker(
+                [-6.919637495151365, 107.60624986106792],
+                {"bubblingMouseEvents": true, "color": "#EA4435", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#FCCA54", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_2f32d9da1c54413a9ef22ab411767f01);
+        
+    
+        var popup_400cf2fabeaf463dbf85507fc9a26b5b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_140492f6629644c3adb771a6141abbb9 = $(`<div id="html_140492f6629644c3adb771a6141abbb9" style="width: 100.0%; height: 100.0%;">Masjid Raya Bandung</div>`)[0];
+            popup_400cf2fabeaf463dbf85507fc9a26b5b.setContent(html_140492f6629644c3adb771a6141abbb9);
+        
+
+        circle_marker_18bee259d8764b949abc64a9cd4b8e3a.bindPopup(popup_400cf2fabeaf463dbf85507fc9a26b5b)
+        ;
+
+        
+    
+    
+            var circle_marker_4de42fbc83d445c2a0748f733394a184 = L.circleMarker(
+                [-6.8867051693290575, 107.61526576911305],
+                {"bubblingMouseEvents": true, "color": "#EA4435", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#FCCA54", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_2f32d9da1c54413a9ef22ab411767f01);
+        
+    
+        var popup_5d73cc88648a4bd0b6961d5e15ae9bff = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4965fc0c592c400eab11034b5cf6241f = $(`<div id="html_4965fc0c592c400eab11034b5cf6241f" style="width: 100.0%; height: 100.0%;">UNIKOM</div>`)[0];
+            popup_5d73cc88648a4bd0b6961d5e15ae9bff.setContent(html_4965fc0c592c400eab11034b5cf6241f);
+        
+
+        circle_marker_4de42fbc83d445c2a0748f733394a184.bindPopup(popup_5d73cc88648a4bd0b6961d5e15ae9bff)
+        ;
+
+        
+    
+    
+            var circle_marker_db69819ea9f644be8fcff4f0f09e6626 = L.circleMarker(
+                [-6.891359821116826, 107.61074892940722],
+                {"bubblingMouseEvents": true, "color": "#EA4435", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#FCCA54", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_2f32d9da1c54413a9ef22ab411767f01);
+        
+    
+        var popup_acddcc06289848069303aae7dd3f9dfc = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9b531055e3f2479b8cccfdf8b5469038 = $(`<div id="html_9b531055e3f2479b8cccfdf8b5469038" style="width: 100.0%; height: 100.0%;">ITB</div>`)[0];
+            popup_acddcc06289848069303aae7dd3f9dfc.setContent(html_9b531055e3f2479b8cccfdf8b5469038);
+        
+
+        circle_marker_db69819ea9f644be8fcff4f0f09e6626.bindPopup(popup_acddcc06289848069303aae7dd3f9dfc)
+        ;
+
+        
+    
+</script>
